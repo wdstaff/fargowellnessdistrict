@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/contact-us.css" />
   <meta name="description" content="Use This Page To Contact Us... We Would Love To Hear From You." />
   <meta name="keywords" content="Contact Us, Contact Fargo Wellness District" />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>

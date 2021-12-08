@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/lipotropic-injections.css" />
   <meta name="description" content="Feeling Sluggish? Trouble Getting Out Of Bed In The Morning? Come In To Wellness District Of Fargo And Get Your Monthly B-12 Or Lipotropic(FAT LOSS) Injection And Get That Pep Back In Your Step. #Energetics!!!" />
   <meta name="keywords" content="Fargo B-12 Injections, B-12, Fargo Lipotropic Injections, Energy Booster, Weight Loss Aid"/>
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>

@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/aesthetic-memberships.css" />
   <meta name="description" content="At Wellness District Aesthetics We Offer Aesthetic Memberships That Allow You To Combine Different Products And Procedures To Help You Look And Feel Your Best." />
   <meta name="keywords" content="Fargo Aesthetic Memberships, Botox memberships, filler memberships, beauty memberships" />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>

@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/monthly-specials.css" />
   <meta name="description" content="At Wellness District Aesthetics We Offer Monthly Specials For Patients Looking To Try Out New Products & Procedures Or Get A Great Deal On A Current Favorite." />
   <meta name="keywords" content="Fargo Specials, Aesthetic Specials, Filler Specials, Facial Specials, Chemical Peel Specials, Botox Specials" />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>

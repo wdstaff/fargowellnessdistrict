@@ -4,7 +4,7 @@
   <title>FARGO WELLNESS DISTRICT</title>
   <link rel="stylesheet" type="text/css" href="css/index.css" />
   <meta name="description" content="Fargo Wellness District Is The Premier Botox, Dermal Filler & Medical Weight Loss Clinic In The Fargo Moorhead Area. We Take The Time. It's What We Do." />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
   <!-- W3 Animations !-->

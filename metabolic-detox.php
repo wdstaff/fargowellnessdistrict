@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/metabolic-detox.css" />
   <meta name="description" content="Looking For A Way To Jump Start Your Weight Loss Efforts? Or Maybe You Have Just Hit A Plateau. Whatever The Reason Our Metabolic Detox Is A Sure Fire Way To Get You Back On Track And Losing Weight Fast." />
   <meta name="keywords" content="Fargo Metabolic Detox, Detox, Metabolic Detox, Fargo Detox Weight Loss Detox, Obesity Detox" />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>

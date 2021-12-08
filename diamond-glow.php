@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/chemical-peel.css" />
   <meta name="description" content="Wellness District Aesthetics Offers Some Of The Best Diamond Glow Services In Fargo. Let One Of Our Skin Care Experts Match You Up With The Peel That Is Right For You." />
   <meta name="keywords" content="DIAMOND GLOW FARGO" />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 </head>

@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/fargo-pediatric-weight-loss.css" />
   <meta name="description" content="Wellness District Medical Weight Loss Is The Premier Weight Loss Clinic In The Fargo Moorhead Area. Our Pediatric Nutritional Program Will Help Your Child Lose Weight And Take Back Their Health." />
   <meta name="keywords" content="Fargo Pediatric Weight Loss, Pediatric Weight Loss, Kids Weight Loss, Childhood obesity" />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>

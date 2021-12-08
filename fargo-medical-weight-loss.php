@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/fargo-medical-weight-loss.css" />
   <meta name="description" content="Wellness District Medical Weight Loss Is The Premier Weight Loss Clinic In The Fargo Moorhead Area. Our Nutritional Program Will Help You Lose Weight And Take Back Your Health." />
   <meta name="keywords" content="Weight Loss, Fargo Weight Loss, Medical Weight Loss, Obesity, Lose Weight, healthy weight loss" />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>

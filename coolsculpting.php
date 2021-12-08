@@ -5,7 +5,7 @@
   <link rel="stylesheet" type="text/css" href="css/coolsculpting.css" />
   <meta name="description" content="Wellness District Aesthetics Has The Top Coolsculpting Adminstrators In The Fargo Moorhead Area. Let Us Help You With Those Stubborn Areas Of Fat." />
   <meta name="keywords" content="Coolsculpting Fargo Coolsculpting, North Dakota Coolsculpting" />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>
