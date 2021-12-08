@@ -10,7 +10,7 @@
 </head>
 <body>
 
-  <?php include 'wdheader2.php' ?>
+  <?php include 'wdheader.php' ?>
   <main>
       <img class="img-header" src="pics/services-banner.jpg" />
 
@@ -94,5 +94,5 @@
   </main>
 
 </body>
-<?php include 'wdfooter2.php' ?>
+<?php include 'wdfooter.php' ?>
 </html>

@@ -14,7 +14,7 @@
 
 <body>
   <main>
-  <?php include 'wdheader2.php' ?>
+  <?php include 'wdheader.php' ?>
 
     <container class="titantron">
       <a href="https://www.fargowellnessdistrict.com/botox.php"><img src="pics/slideshow/botox-mobile.jpg"></a>
@@ -70,13 +70,13 @@
 </section>
 </div>
 </main>
-<script src="scripts/index2.js"></script>
+<script src="scripts/index.js"></script>
 <div class="sticky-schedule">
   <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><i class="far fa-calendar-alt line calendar"></i></a>
   <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><p class="sticky-schedule-text">Book a consultation</p></a>
 </a>
 </div>
-<?php include 'wdfooter2.php' ?>
+<?php include 'wdfooter.php' ?>
 
 </script>
 </body>
