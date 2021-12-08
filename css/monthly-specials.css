@@ -1,0 +1,300 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+main {
+  margin:auto;
+    max-width: 1150px;
+}
+
+/* DESKTOP VIEW CODE */
+
+.page_header {
+  font-size:4em;
+  text-align:center;
+}
+
+.paragraph_header p {
+
+  text-align:center;
+
+}
+
+.section1 b {
+  font-size:1.2em;
+}
+
+
+/* Section Formatting */
+
+.sectionimg {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+}
+
+.subheading {
+  font-size:2.5em;
+  text-align:left;
+  padding-bottom:.75em;
+  border-bottom:solid 1px;
+  width:90%;
+  margin:auto;
+  padding-top:.75em;
+}
+
+p {
+
+    width:90%;
+    margin:auto;
+    text-align:left;
+    font-size: 1.5em;
+    line-height:200%;
+}
+
+.button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  margin-bottom:-2.5em;
+  position:relative;
+
+
+}
+
+.button:hover {
+
+    background-color:grey;
+
+}
+
+
+/* Section black */
+
+.black {
+  background-color:#333333;
+  padding-top:6em;
+  z-index:1;
+  color:white;
+
+}
+
+/* White Section */
+
+.rev {
+
+background-color:white;
+color:#333333
+
+}
+
+/* Extra Formatting */
+
+.listheader {
+  font-size:2.5em;
+  text-align:center;
+  padding-bottom:.75em;
+  border-bottom:none;
+  width:90%;
+  margin:auto;
+  padding-top:.75em;
+
+
+}
+
+.smallimg {
+  width:60%;
+}
+
+.bottom {
+
+padding-bottom:6em;
+
+}
+
+.headercenter {
+
+text-align:center;
+
+}
+
+h3 {
+text-align: center;
+}
+
+.sil {
+  height:20em;
+  display:block;
+  margin:auto;
+}
+
+.aside {
+  margin-top:0;
+}
+
+.monthly-pic {
+  width:800px;
+  height:1000px;
+  display:block;
+  margin:auto;
+}
+
+
+@media only screen and (max-width:1079px) {
+
+  .monthly-pic {
+    width:90%;
+    height:100%;
+    display:block;
+    margin:auto;
+  }
+
+  .page_header {
+    font-size:4em;
+    text-align:center;
+  }
+
+  .paragraph_header p {
+
+    text-align:center;
+
+  }
+
+  .section1 b {
+    font-size:1.2em;
+  }
+
+  li {
+    width:80%;
+    margin:auto;
+    text-align:left;
+    font-size: 1.5em;
+    line-height:200%;
+    padding-top:.75em;
+
+  }
+
+
+  /* Section Formatting */
+
+  .sectionimg {
+    padding-top:3em;
+    display:block;
+    margin:auto;
+  }
+
+  .subheading {
+    font-size:2.5em;
+    text-align:left;
+    padding-bottom:.75em;
+    border-bottom:solid 1px;
+    width:90%;
+    margin:auto;
+    padding-top:.75em;
+  }
+
+p {
+
+      width:90%;
+      margin:auto;
+      text-align:left;
+      font-size: 1.5em;
+      line-height:200%;
+  }
+
+  .button {
+    display:block;
+    width:80%;
+    margin:auto;
+    font-size:1.7em;
+    text-align:center;
+    background-color:#008480;
+    color:white;
+    border-radius:100px;
+    padding-top:2em;
+    padding-bottom:2em;
+    margin-bottom:-2.5em;
+    position:relative;
+
+
+  }
+
+  .button:hover {
+
+      background-color:grey;
+
+  }
+
+
+  /* Section black */
+
+  .black {
+    background-color:#333333;
+    padding-top:6em;
+    z-index:1;
+    color:white;
+
+  }
+
+/* White Section */
+
+  .rev {
+
+  background-color:white;
+  color:#333333
+
+  }
+
+  /* Extra Formatting */
+
+  .listheader {
+    font-size:2.5em;
+    text-align:center;
+    padding-bottom:.75em;
+    border-bottom:none;
+    width:90%;
+    margin:auto;
+    padding-top:.75em;
+
+
+  }
+
+.smallimg {
+    width:60%;
+}
+
+.bottom {
+
+  padding-bottom:6em;
+
+}
+
+.headercenter {
+
+  text-align:center;
+
+}
+
+h3 {
+  text-align: center;
+}
+}

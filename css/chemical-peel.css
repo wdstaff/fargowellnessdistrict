@@ -1,0 +1,659 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+main {
+  margin:auto;
+    max-width: 1150px;
+}
+
+.page_header {
+  font-size:4em;
+  text-align:center;
+}
+
+.section1 p {
+
+    width:90%;
+    margin:auto;
+    text-align:center;
+    font-size: 1.5em;
+    line-height:200%;
+}
+
+.sec1p2 {
+  padding-bottom:2em;
+}
+
+.paragraph_header b {
+  font-size:1.2em;
+}
+
+.botox_special_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  margin-bottom:2em;
+  position:relative;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+
+
+}
+
+.botox_special_button:hover {
+
+    background-color:grey;
+
+}
+
+/* Section 2 */
+
+
+
+.subheading {
+  font-size:2.5em;
+  text-align:left;
+  padding-bottom:.75em;
+  border-bottom:solid 1px;
+  width:90%;
+  margin:auto;
+  padding-top:.75em;
+}
+
+.section2img {
+
+  display:block;
+  margin:auto;
+}
+
+.section2img {
+  max-height:500px;
+}
+
+.section2 p {
+
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.before_after_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  position:relative;
+  bottom:-2.5em;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+
+}
+
+.before_after_button:hover {
+
+    background-color:grey;
+
+}
+
+/* section 3 */
+.section3 {
+  background-color:#333333;
+  padding-top:6em;
+  z-index:1;
+  color:white;
+
+}
+.section3img {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+}
+
+.section3 p {
+
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+}
+
+.section3 li {
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+/* seciton 4 */
+
+.section4 {
+
+padding-top:6em;
+z-index:1;
+
+}
+.section4img {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+  width:80%;
+}
+
+.section4 p {
+
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+/* section 5 */
+.section5 {
+  background-color:#333333;
+  padding-top:6em;
+  z-index:1;
+  color:white;
+}
+
+.subheading_special {
+  font-size:2.5em;
+  text-align:center;
+  margin:auto;
+  padding-top:.75em;
+}
+
+.section5 p {
+
+  width:90%;
+  margin:auto;
+  text-align:center;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.botox_club_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  position:relative;
+  bottom:-2.5em;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+
+}
+
+.botox_club_button:hover {
+
+    background-color:grey;
+
+}
+
+/* section 6 */
+
+.section6 {
+
+}
+
+.section6 p {
+
+  width:90%;
+  margin:auto;
+  text-align:center;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.section6img {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+  width:80%;
+}
+
+.bd_register_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  position:relative;
+  bottom:-2.5em;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+}
+
+.botox_club_button:hover {
+
+    background-color:grey;
+
+}
+
+/* section 7 */
+
+.section7 {
+  background-color:#333333;
+  color:white;
+
+
+}
+
+.section7img {
+  padding-top:6em;
+  display:block;
+  margin:auto;
+  width:80%;
+}
+
+.section7 p {
+
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.section7 li {
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.schedule_now_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  margin-bottom:10em;
+  position:relative;
+  bottom:-2.5em;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+}
+
+.schedule_now_button:hover {
+
+    background-color:grey;
+
+}
+
+
+@media only screen and (max-width:1079px) {
+
+.page_header {
+  font-size:4em;
+  text-align:center;
+}
+
+.section1 p {
+
+    width:90%;
+    margin:auto;
+    text-align:center;
+    font-size: 1.5em;
+    line-height:200%;
+}
+
+.sec1p2 {
+  padding-bottom:2em;
+}
+
+.paragraph_header b {
+  font-size:1.2em;
+}
+
+.botox_special_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  margin-bottom:-2.5em;
+  position:relative;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+
+
+}
+
+.botox_special_button:hover {
+
+    background-color:grey;
+
+}
+
+/* Section 2 */
+
+
+
+.subheading {
+  font-size:2.5em;
+  text-align:left;
+  padding-bottom:.75em;
+  border-bottom:solid 1px;
+  width:90%;
+  margin:auto;
+  padding-top:.75em;
+}
+
+.section2img {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+}
+
+.section2 p {
+
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.before_after_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  position:relative;
+  bottom:-2.5em;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+
+}
+
+.before_after_button:hover {
+
+    background-color:grey;
+
+}
+
+/* section 3 */
+.section3 {
+  background-color:#333333;
+  padding-top:6em;
+  z-index:1;
+  color:white;
+
+}
+.section3img {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+}
+
+.section3 p {
+
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+}
+
+.section3 li {
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+/* seciton 4 */
+
+.section4 {
+
+padding-top:6em;
+z-index:1;
+
+}
+.section4img {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+  width:80%;
+}
+
+.section4 p {
+
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+/* section 5 */
+.section5 {
+  background-color:#333333;
+  padding-top:6em;
+  z-index:1;
+  color:white;
+}
+
+.subheading_special {
+  font-size:2.5em;
+  text-align:center;
+  margin:auto;
+  padding-top:.75em;
+}
+
+.section5 p {
+
+  width:90%;
+  margin:auto;
+  text-align:center;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.botox_club_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  position:relative;
+  bottom:-2.5em;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+
+}
+
+.botox_club_button:hover {
+
+    background-color:grey;
+
+}
+
+/* section 6 */
+
+.section6 {
+
+}
+
+.section6 p {
+
+  width:90%;
+  margin:auto;
+  text-align:center;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.section6img {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+  width:80%;
+}
+
+.bd_register_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  position:relative;
+  bottom:-2.5em;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+}
+
+.botox_club_button:hover {
+
+    background-color:grey;
+
+}
+
+/* section 7 */
+
+.section7 {
+  background-color:#333333;
+  color:white;
+
+
+}
+
+.section7img {
+  padding-top:6em;
+  display:block;
+  margin:auto;
+  width:80%;
+}
+
+.section7 p {
+
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.section7 li {
+  width:90%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+.schedule_now_button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  margin-bottom:10em;
+  position:relative;
+  bottom:-2.5em;
+  box-shadow: 5px 10px 10px rgba(0, 0, 0, .3);
+}
+
+.schedule_now_button:hover {
+
+    background-color:grey;
+
+}
+
+}
