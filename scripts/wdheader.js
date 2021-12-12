@@ -1,7 +1,7 @@
 if (window.innerWidth > 980) {
   document.getElementById('treatment-arrow').style.display = "none";
   document.getElementById('company-arrow').style.display = "none";
-  document.getElementById('patient-arrow').style.display = 'none';
+  document.getElementById('resource-arrow').style.display ="none";
 }
 
 function openmenu() {
