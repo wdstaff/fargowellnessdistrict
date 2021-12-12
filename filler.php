@@ -9,12 +9,11 @@
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>
-<?php include 'wdheader.php' ?>
-<?php include 'banner.php' ?>
+
 <body>
 
   <main>
-
+<?php include 'wdheader.php' ?>
 
     <h1 class="page_header"><a>DERMAL FILLER</a></h1>
     <p class="paragraph_header">At Wellness District Aesthetics of Fargo, we use advanced techniques like the blunt-tip cannula when injecting our dermal filler. The <b><a href="advanced-techniques.php#blunt-tip">BLUNT-TIP MICRO CANNULA </a></b> can help improve the way dermal filler is injected into the skin. The micro cannula is a small, flexible needle with a blunt-tip used to minimize discomfort and bruising when injecting dermal filler. This process has also allowed our patients to return back to work or normal daily activities with little to no downtime. Some other benefits of this technique include fewer injection sites, less risk of complications, the ability to cover larger treatment areas and the utilization of less product.
