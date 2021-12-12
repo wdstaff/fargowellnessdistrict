@@ -42,7 +42,7 @@
   </div>
   <div class="item-wrapper">
     <div class="extra-menu-items topitem"><p class="menu-header-text">PATIENT RESOURCES<a onClick="resourcemenu()"><i id="resource-arrow" class="fas fa-angle-right resource-arrow" style="font-size:2em;float:right;"></i><a/></p>
-                                  <p id="resourcetest" class=" resource menu-subheader-text"><a href="monthly-specials">Monthly Specials</a></p>
+                                  <p id="resourcetest" class=" resource menu-subheader-text"><a href="monthly-specials.php">Monthly Specials</a></p>
                                   <p class="resource menu-subheader-text"><a href="patient-forms.php">Patient Forms</a></p>
                                   <p class="resource menu-subheader-text"><a href="#">Facility Images</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book Online</a></p>
