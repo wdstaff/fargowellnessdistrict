@@ -4,7 +4,7 @@
 <head>
   <title>FARGO BOTOX</title>
   <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox® Treatment At Wellness District For $150 (Up To 35 Units)." />
-  <link rel="stylesheet" type="text/css" href="css/botox2.css" />
+  <link rel="stylesheet" type="text/css" href="css/botox.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
