@@ -19,7 +19,7 @@
 </head>
 <body>
   <main>
-  <?php include 'wdheader2.php' ?>
+  <?php include 'wdheader.php' ?>
 
   <img class="img-header" src="pics/december.jpg" />
 
@@ -61,5 +61,5 @@
     </section>
   </main>
 </body>
-<?php include 'wdfooter2.php' ?>
+<?php include 'wdfooter.php' ?>
 </html>
