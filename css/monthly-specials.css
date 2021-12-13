@@ -14,287 +14,559 @@ a {
   color:black;
 }
 
-main {
-  margin:auto;
-    max-width: 1150px;
-}
-
-/* DESKTOP VIEW CODE */
-
-.page_header {
-  font-size:4em;
-  text-align:center;
-}
-
-.paragraph_header p {
-
-  text-align:center;
-
-}
-
-.section1 b {
-  font-size:1.2em;
-}
-
-
-/* Section Formatting */
-
-.sectionimg {
-  padding-top:3em;
+.img-header {
   display:block;
   margin:auto;
+  margin-top:10vh;
+  height:100vh;
+  object-fit: scale-down;
 }
 
-.subheading {
-  font-size:2.5em;
-  text-align:left;
-  padding-bottom:.75em;
-  border-bottom:solid 1px;
-  width:90%;
-  margin:auto;
-  padding-top:.75em;
+.first-section {
+  display:flex;
+    margin-top:100px;
 }
 
-p {
-
-    width:90%;
-    margin:auto;
-    text-align:left;
-    font-size: 1.5em;
-    line-height:200%;
+.right-section {
+  width:40%;
 }
 
-.button {
-  display:block;
-  width:80%;
-  margin:auto;
-  font-size:1.7em;
-  text-align:center;
+.left-section {
+  width:60%;
+  font-size:.9em;
+  letter-spacing:.05em;
+  line-height:2em;
+  margin-bottom:7vh;
+}
+
+.left-wrapper {
+  margin-left:15%;
+  margin-right:5%;
+
+}
+
+.page-header {
+
+}
+
+.midline-header {
+  display:inline;
+  font-size: 1.2em;
+  font-weight:bold;
+}
+
+
+.section-text-li {
+  padding-left:2.5em;
+  text-indent:-1.5em;
+}
+
+
+
+
+
+
+
+/* card css */
+
+.right-wrapper {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  margin-right:20%;
+  margin-left:10%;
+  min-width: 300px;
+
+}
+
+/* Add some padding inside the card container */
+.container-spec {
+  padding: 2px 16px;
+  line-height: 1.5em;
+  background-image: linear-gradient(to bottom right,  rgba(255,255,255,.7),  rgba(255,255,255,.7), rgba(255,255,255,.7), rgba(255,255,255,.7), rgba(0,132,128,1) );
+}
+
+.right-wrapper .heading-text {
+  font-size:1.5em;
+}
+
+.right-wrapper li {
+  font-size:.9em;
+}
+
+.appt-button {
   background-color:#008480;
   color:white;
-  border-radius:100px;
-  padding-top:2em;
-  padding-bottom:2em;
-  margin-bottom:-2.5em;
+  padding-left:.7em;
+  padding-right:.7em;
+  padding-top:.5em;
+  padding-bottom:.5em;
+  letter-spacing: .05em;
   position:relative;
+  z-index: 1;
+  font-size:.9em;
+  display:block;
+  margin-top:3em;
+  width:150px;
+  text-align: center;
+
+
+
 
 
 }
 
-.button:hover {
-
-    background-color:grey;
-
-}
-
-
-/* Section black */
-
-.black {
-  background-color:#333333;
-  padding-top:6em;
-  z-index:1;
+.appt-button:hover {
+  animation: change 1s 1;
+  background:black;
   color:white;
-
-}
-
-/* White Section */
-
-.rev {
-
-background-color:white;
-color:#333333
-
-}
-
-/* Extra Formatting */
-
-.listheader {
-  font-size:2.5em;
-  text-align:center;
-  padding-bottom:.75em;
-  border-bottom:none;
-  width:90%;
-  margin:auto;
-  padding-top:.75em;
-
-
-}
-
-.smallimg {
-  width:60%;
-}
-
-.bottom {
-
-padding-bottom:6em;
-
-}
-
-.headercenter {
-
-text-align:center;
-
-}
-
-h3 {
-text-align: center;
-}
-
-.sil {
-  height:20em;
-  display:block;
-  margin:auto;
-}
-
-.aside {
-  margin-top:0;
-}
-
-.monthly-pic {
-  width:800px;
-  height:1000px;
-  display:block;
-  margin:auto;
 }
 
 
-@media only screen and (max-width:1079px) {
 
-  .monthly-pic {
-    width:90%;
-    height:100%;
-    display:block;
-    margin:auto;
-  }
+/* 2nd section */
 
-  .page_header {
-    font-size:4em;
-    text-align:center;
-  }
-
-  .paragraph_header p {
-
-    text-align:center;
-
-  }
-
-  .section1 b {
-    font-size:1.2em;
-  }
-
-  li {
-    width:80%;
-    margin:auto;
-    text-align:left;
-    font-size: 1.5em;
-    line-height:200%;
-    padding-top:.75em;
-
-  }
-
-
-  /* Section Formatting */
-
-  .sectionimg {
-    padding-top:3em;
-    display:block;
-    margin:auto;
-  }
-
-  .subheading {
-    font-size:2.5em;
-    text-align:left;
-    padding-bottom:.75em;
-    border-bottom:solid 1px;
-    width:90%;
-    margin:auto;
-    padding-top:.75em;
-  }
-
-p {
-
-      width:90%;
-      margin:auto;
-      text-align:left;
-      font-size: 1.5em;
-      line-height:200%;
-  }
-
-  .button {
-    display:block;
-    width:80%;
-    margin:auto;
-    font-size:1.7em;
-    text-align:center;
-    background-color:#008480;
-    color:white;
-    border-radius:100px;
-    padding-top:2em;
-    padding-bottom:2em;
-    margin-bottom:-2.5em;
-    position:relative;
-
-
-  }
-
-  .button:hover {
-
-      background-color:grey;
-
-  }
-
-
-  /* Section black */
-
-  .black {
-    background-color:#333333;
-    padding-top:6em;
-    z-index:1;
-    color:white;
-
-  }
-
-/* White Section */
-
-  .rev {
-
-  background-color:white;
-  color:#333333
-
-  }
-
-  /* Extra Formatting */
-
-  .listheader {
-    font-size:2.5em;
-    text-align:center;
-    padding-bottom:.75em;
-    border-bottom:none;
-    width:90%;
-    margin:auto;
-    padding-top:.75em;
-
-
-  }
-
-.smallimg {
-    width:60%;
+.second-section {
+  display:flex;
+    margin-top:100px;
+    margin-bottom:100px;
 }
 
-.bottom {
-
-  padding-bottom:6em;
-
-}
-
-.headercenter {
-
-  text-align:center;
-
-}
-
-h3 {
+.above-img-text {
+  font-size:.9em;
+  letter-spacing: .05em;
   text-align: center;
 }
+
+.under-img-text {
+  font-size:.9em;
+  letter-spacing:.05em;
+  text-align:center;
 }
+
+.second-left-section {
+  width:50%;
+}
+
+.second-right-section {
+  width:50%;
+}
+
+.second-left-section {
+  width:60%;
+  font-size:.9em;
+  letter-spacing:.05em;
+  line-height:2em;
+}
+
+.second-left-wrapper {
+  margin-left:15%;
+  margin-right:5%;
+
+}
+
+.second-page-header {
+  margin-bottom:4vh;
+}
+
+.second-right-wrapper {
+  margin-right:15%;
+  margin-left:5%;
+}
+
+/* Testimonials Section */
+
+.testimonials-section {
+  text-align: center;
+  display:block;
+}
+
+.testbutton {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.testbuttonlrg {
+  width:200px;
+}
+
+/* FAQ SECTION */
+
+.third-section {
+  margin-top:100px;
+  width:85%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:100px;
+}
+
+.third-section button {
+  font-size:.7em;
+  font-weight: bold;
+  border-bottom:1px grey solid;
+}
+
+.third-section p {
+  font-size:.7em;
+}
+
+.accordion {
+  background-color:white;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+.third-section .active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.third-section .active, .accordion:hover {
+  background-color: #ccc;
+}
+
+/* Fourth Section Provider Section */
+
+.carouselins {
+  background:rgba(0, 0, 0, 0);
+  position: relative;
+  top:-30vh;
+  margin:0;
+  z-index: 0;
+}
+
+.fourth-section {
+  margin-top:15vh;
+  text-align:center;
+  padding-top:7vh;
+  padding-bottom:25vh;
+  background: rgba(0,132,128,.2);
+}
+
+.fourth-header {
+  margin-bottom:5vh;
+}
+
+/* BOTOX SPECIALS SECTION CODE */
+
+.botox-special-section {
+  display:flex;
+    margin-bottom:50vh;
+    margin-top:15vh;
+
+}
+
+.botox-special-section-img {
+  display:block;
+  width:60%;
+  height:50vh;
+  object-fit:scale-down;
+}
+
+.botox-special-section-text-wrapper {
+  padding-right:5%;
+}
+
+.botox-special-section-heading {
+
+  font-size:2em;
+
+}
+
+.botox-special-section-text {
+
+  font-size:1.5em;
+
+}
+
+.terms-of-service-botox {
+  list-style-type: disc;
+  font-size:1.3em;
+}
+
+.botox-special-section-button {
+  background-color:#008480;
+  color:white;
+  padding-left:.7em;
+  padding-right:.7em;
+  padding-top:.5em;
+  padding-bottom:.5em;
+  letter-spacing: .05em;
+  z-index: 1;
+  font-size:.9em;
+  display:block;
+  margin-top:3em;
+  width:170px;
+  text-align: center;
+  margin-right:auto;
+  margin-left:auto;
+
+
+
+
+
+}
+
+.botox-special-section-button:hover {
+  animation: change 1s 1;
+  background:black;
+  color:white;
+}
+
+
+/* Fifth Section All Treatments */
+
+.fifth-section {
+  display:flex;
+  margin:auto;
+  position:relative;
+  text-align: center;
+  top:-20vh;
+  height:370px;
+  margin-bottom:-10vh;
+}
+
+.fifth-section-img {
+  width:60%;
+  object-fit:cover;
+
+}
+
+.fifth-section-color-block {
+  width:40%;
+  background-color:rgba(0, 132 ,128 ,1)
+}
+
+.sneaky-img-container {
+  position:absolute;
+  text-align: center;
+  width:100%;
+  left:0;
+  right:0;
+  margin:0;
+  top:30%;
+  bottom:0;
+}
+
+.sneaky-img-text {
+  font-size:2.5em;
+  font-weight:bold;
+  letter-spacing: .05em;
+  color:white;
+}
+
+.sneaky-img-button-left, .sneaky-img-button-right {
+    background-color:white;
+    color:black;
+    font-size:.9em;
+    padding-left:2.3em;
+    padding-right:2.3em;
+    padding-top:.7em;
+    padding-bottom:.7em;
+    border:1px black solid;
+}
+
+.sneaky-img-button-left {
+  display:inline;
+  margin-right:10px;
+
+}
+
+.sneaky-img-button-right {
+  display:inline;
+  margin-left:10px;
+}
+
+
+
+/* Funky Background */
+
+.funky-background {
+  background-image:url('/pics/wd-pattern.jpg');
+
+}
+
+.desktop-move-button {
+  display:none;
+}
+
+
+
+
+
+
+@media only screen and (max-width:990px) {
+
+
+
+
+
+
+  .img-header {
+  height:55vh;
+  object-fit: cover;
+  object-position: right;
+
+}
+
+  .first-section {
+    display:block;
+    margin-top:50px;
+  }
+
+  .right-section {
+    width:100%;
+  }
+
+  .left-section {
+    width:100%;
+
+  }
+
+  .page-header {
+      font-size:1.5em;
+      font-weight: bold;
+      margin-bottom:10px;
+  }
+
+  .left-wrapper {
+    margin-left:5%;
+    margin-right:5%;
+
+  }
+
+  .second-section {
+    display:block;
+    margin-top:50px;
+  }
+
+  .second-left-section {
+    width:100%;
+  }
+
+  .second-left-wrapper {
+    margin-right:5%;
+    margin-left:5%;
+  }
+
+  .second-page-header {
+    font-size: 1.5em;
+
+  }
+
+  .second-right-section {
+    width:100%;
+    margin-top:50px;
+
+  }
+
+  .second-right-wrapper {
+    text-align:center;
+    margin-right:5%;
+    margin-left:5%;
+  }
+
+  /* mobile botox special */
+  /* BOTOX SPECIALS SECTION CODE */
+
+  .botox-special-section {
+    margin-top:10vh;
+    display:flex;
+    flex-direction:column;
+      margin-bottom:50vh;
+
+  }
+
+  .botox-special-section-img {
+    display:block;
+    width:100%;
+    height:50vh;
+    object-fit:cover;
+    margin:auto;
+
+  }
+
+  .botox-special-section-text-wrapper {
+    padding-right:0;
+  }
+
+  .botox-special-section-heading {
+
+    font-size:2em;
+    text-align:center;
+    margin-top:1em;
+
+  }
+
+  .botox-special-section-text {
+
+    font-size:1em;
+    text-align:center;
+
+
+  }
+
+  .terms-of-service-botox {
+    list-style-type: disc;
+    font-size:0.9em;
+  }
+
+  .botox-special-section-button {
+    background-color:#008480;
+    color:white;
+    padding-left:.7em;
+    padding-right:.7em;
+    padding-top:.5em;
+    padding-bottom:.5em;
+    letter-spacing: .05em;
+    z-index: 1;
+    font-size:.9em;
+    display:block;
+    margin-top:3em;
+    width:200px;
+    text-align: center;
+    margin-right:auto;
+    margin-left:auto;
+
+
+
+
+
+  }
+
+  .botox-special-section-button:hover {
+    animation: change 1s 1;
+    background:black;
+    color:white;
+  }
+
+  .img-header {
+    display:block;
+    margin:auto;
+    margin-top:1vh;
+    width:90%;
+    object-fit: scale-down;
+
+  }

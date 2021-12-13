@@ -18,7 +18,11 @@ a {
   display:block;
   margin:auto;
   height:50vh;
+  width:100%;
+  object-fit: cover;
 }
+
+
 
 .first-section {
   display:flex;
@@ -425,7 +429,6 @@ a {
   .img-header {
   height:55vh;
   object-fit: cover;
-  object-position: right;
 
 }
 

@@ -485,3 +485,77 @@ a {
     margin-right:5%;
     margin-left:5%;
   }
+
+
+  /* mobile botox special */
+  /* BOTOX SPECIALS SECTION CODE */
+
+  .botox-special-section {
+    margin-top:-20vh;
+    display:flex;
+    flex-direction:column;
+      margin-bottom:50vh;
+
+  }
+
+  .botox-special-section-img {
+    display:block;
+    width:100%;
+    height:50vh;
+    object-fit:cover;
+    margin:auto;
+  }
+
+  .botox-special-section-text-wrapper {
+    padding-right:0;
+  }
+
+  .botox-special-section-heading {
+
+    font-size:2em;
+    text-align:center;
+    margin-top:1em;
+
+  }
+
+  .botox-special-section-text {
+
+    font-size:1em;
+    text-align:center;
+
+
+  }
+
+  .terms-of-service-botox {
+    list-style-type: disc;
+    font-size:0.9em;
+  }
+
+  .botox-special-section-button {
+    background-color:#008480;
+    color:white;
+    padding-left:.7em;
+    padding-right:.7em;
+    padding-top:.5em;
+    padding-bottom:.5em;
+    letter-spacing: .05em;
+    z-index: 1;
+    font-size:.9em;
+    display:block;
+    margin-top:3em;
+    width:200px;
+    text-align: center;
+    margin-right:auto;
+    margin-left:auto;
+
+
+
+
+
+  }
+
+  .botox-special-section-button:hover {
+    animation: change 1s 1;
+    background:black;
+    color:white;
+  }

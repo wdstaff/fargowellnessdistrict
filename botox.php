@@ -4,10 +4,11 @@
 <head>
   <title>FARGO BOTOX</title>
   <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox® Treatment At Wellness District For $150 (Up To 35 Units)." />
-  <link rel="stylesheet" type="text/css" href="css/botox.css" />
+  <link rel="stylesheet" type="text/css" href="css/botox2.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
@@ -18,7 +19,7 @@
 </head>
 <body>
   <main>
-  <?php include 'wdheader.php' ?>
+  <?php include 'wdheader2.php' ?>
 
   <img class="img-header" src="pics/slideshow/botox-mobile3.jpg" />
 
@@ -192,5 +193,5 @@
     </section>
   </main>
 </body>
-<?php include 'wdfooter.php' ?>
+<?php include 'wdfooter2.php' ?>
 </html>
