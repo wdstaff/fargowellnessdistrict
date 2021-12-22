@@ -3,14 +3,14 @@
 
   <title>Aesthetic Services at Wellness District</title>
   <meta name="description" content="Fargo Wellness District Specializes In Services Like Botox, Coolsculpting, Medical Weight Loss, Juvederm And Kybella!">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-  <link rel="stylesheet" type="text/css" href="css/weight-loss-services.css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" type="text/css" href="css/weight-loss-services.css"/>
   <!-- Lato Font Link -->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 </head>
 <body>
 
-  <?php include 'wdheader.php' ?>
+  <?php include 'wdheader2.php' ?>
   <main>
       <img class="img-header" src="pics/services-banner.jpg" />
 
@@ -36,7 +36,7 @@
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Nutritional Program</h3>
               <p class="right-ind-treatment-section-text">If you want a more lifted eye area or to soften fine lines and wrinkles, ask your Injection Specialist about wrinkle relaxers! When used strategically, wrinkle relaxers can slightly lift the forehead muscle and temporarily smooth crow’s feet, frown lines and other wrinkles caused by repetitive facial movements including neck lines.</p>
-              <a class="ind-treatment-section-button" href="#">Meet the Providers</a>
+              <a class="ind-treatment-section-button" href="fargo-medical-weight-loss.php">Learn more</a>
           </div>
         </section>
 
@@ -46,7 +46,7 @@
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Lypotropic Injections</h3>
               <p class="right-ind-treatment-section-text">If you want a more lifted eye area or to soften fine lines and wrinkles, ask your Injection Specialist about wrinkle relaxers! When used strategically, wrinkle relaxers can slightly lift the forehead muscle and temporarily smooth crow’s feet, frown lines and other wrinkles caused by repetitive facial movements including neck lines.</p>
-              <a class="ind-treatment-section-button" href="#">Meet the Providers</a>
+              <a class="ind-treatment-section-button" href="lipotropic-injections.php">Learn more</a>
           </div>
           <div class="left-ind-treatment-section-wrapper">
               <img class="ind-treatment-section-img" src="pics/enerjectics.jpg">
@@ -62,15 +62,15 @@
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Metabolic Detox</h3>
               <p class="right-ind-treatment-section-text">If you want a more lifted eye area or to soften fine lines and wrinkles, ask your Injection Specialist about wrinkle relaxers! When used strategically, wrinkle relaxers can slightly lift the forehead muscle and temporarily smooth crow’s feet, frown lines and other wrinkles caused by repetitive facial movements including neck lines.</p>
-              <a class="ind-treatment-section-button" href="#">Meet the Providers</a>
+              <a class="ind-treatment-section-button" href="metabolic-detox.php">Learn more</a>
           </div>
         </section>
 
         <section class="ind-treatment-section ind-treatment-section-off">
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Pediatric Nutritional Program</h3>
-              <p class="right-ind-treatment-section-text">If you want a more lifted eye area or to soften fine lines and wrinkles, ask your Injection Specialist about wrinkle relaxers! When used strategically, wrinkle relaxers can slightly lift the forehead muscle and temporarily smooth crow’s feet, frown lines and other wrinkles caused by repetitive facial movements including neck lines.</p>
-              <a class="ind-treatment-section-button" href="#">Meet the Providers</a>
+              <p class="right-ind-treatment-section-text">rinkle relaxers! When used strategically, wrinkle relaxers can slightly lift the forehead muscle and temporarily smooth crow’s feet, frown lines and other wrinkles caused by repetitive facial movements including neck lines.</p>
+              <a class="ind-treatment-section-button" href="fargo-pediatric-weight-loss.php">Learn more</a>
           </div>
           <div class="left-ind-treatment-section-wrapper">
               <img class="ind-treatment-section-img" src="pics/happy-teens.jpg">
@@ -94,5 +94,5 @@
   </main>
 
 </body>
-<?php include 'wdfooter.php' ?>
+<?php include 'wdfooter2.php' ?>
 </html>

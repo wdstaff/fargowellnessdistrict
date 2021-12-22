@@ -1,103 +1,174 @@
 <!DOCTYPE html>
+<html>
+
 <head>
-
   <title>COOLSCULPTING FARGO</title>
-  <link rel="stylesheet" type="text/css" href="css/coolsculpting.css" />
   <meta name="description" content="Wellness District Aesthetics Has The Top Coolsculpting Adminstrators In The Fargo Moorhead Area. Let Us Help You With Those Stubborn Areas Of Fat." />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
-  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
+  <link rel="stylesheet" type="text/css" href="css/coolsculpting.css" />
+  <link rel="icon" type="image/x-icon" href="favicon.ico" />
+  <link rel="shortcut icon" href="favicon.ico" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
+
+  <!-- lato font !-->
+  <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
+  <!-- Icon Links !-->
+  <script src="https://kit.fontawesome.com/fe324ec7be.js" crossorigin="anonymous"></script>
+  <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
-
 <body>
-  <?php include 'wdheader.php' ?>
   <main>
+  <?php include 'wdheader.php' ?>
+
+  <img class="img-header" src="pics/coolsculptingbanner.jpg" />
+
+  <section class="first-section">
+
+    <div class="left-section">
+      <div class="left-wrapper">
+        <h1 class="page-header">Coolsculpting</h1>
+
+        <p class="section-text">Developed by renowned scientists of Harvard University and Massachusetts General Hospital, the FDA-cleared procedure known as CoolSculpting uses patented cooling technology to eliminate fat cells, without surgery, and little to no downtime. The reduction in fat cells in the treated area provides noticeable, and lasting results to help you look and feel your very best.
+        </p>
+        <li class="section-text section-text-li"><h2 class="midline-header">Coolsculpting Fargo</h2> often indicate the beginning of your skin’s aging process. They are small and shallow and may be hard to see initially. Fine lines on the face are often associated with repetitive movements, such as squinting, smiling, laughing or frowning. They are so superficial that they respond to treatments faster and easier than deeper wrinkles would.</li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Wrinkles</h2> form when fine lines are not treated quickly and begin to deepen, but they also tend to form in different areas of the face more quickly, often progressing into facial folds.</li>
+        <p class="section-text">While these are often treated with <b>wrinkle relaxers</b>, like <b>BOTOX</b>® <b>Cosmetic</b> and <b>Dysport</b>, we also recommend using Retinol nightly and getting microneedling treatments.</p>
+
+        <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+
+        <iframe  class="coolsculptingframe" width="560" height="315" src="https://www.youtube.com/embed/0JC6aXPlwZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+    </div>
+  </div>
+
+    <div class="right-section">
+      <div class="right-wrapper container-spec">
+      <h3 class="heading-text">Recommended Treatments:</h3>
+      <ol class="treatments">
+        <li>Juvederm</li>
+        <li>Radiesse</li>
+        <li>Restylane</li>
+        <li>Sculptra</li>
+        </ol>
+        <hr>
+        <h3 class="heading-text">Recommended Skincare:</h3>
+        <ol class="skincare">
+          <li>DEJ Night Cream</li>
+          <li>DEJ Face Cream</li>
+          <li>Restorative Skin Complex</li>
+          <li>TNS Advnaced+</li>
+        </ol>
+        <hr>
+        <h3 class="heading-text">Treatment areas:</h3>
+        <ol class="treatment-area">
+            <li>Bunny Lines</li>
+            <li>Crow's Feet</li>
+            <li>Forehead Lines</li>
+            <li>Frown Lift</li>
+            <li>Glabella/Frown Lines</li>
+            </ol>
 
 
 
-    <h1 class="page_header"><a>COOLSCULPTING</a></h1>
-    <p class="paragraph_header">Developed by renowned scientists of Harvard University and Massachusetts General Hospital, the FDA-cleared procedure known as CoolSculpting uses patented cooling technology to eliminate fat cells, without surgery, and little to no downtime. The reduction in fat cells in the treated area provides noticeable, and lasting results to help you look and feel your very best.
-    </p>
+    </div>
+  </div>
 
 
-    <section class="section white">
-      <iframe  class="sectionimg" width="560" height="315" src="https://www.youtube.com/embed/0JC6aXPlwZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-      <h2 class="subheading">COOLSCULPTING FARGO</h2>
-      <p>Sometimes, no matter how intense your workout or strict your diet, you can't seem to ditch stubborn fat. We all have certain trouble areas where flab builds up and doesn't shed, despite our best efforts. Wouldn't it be great if you could reduce those problem areas without the traditional methods like diet and exercise?
-        <br><br>Now you can. Our medical staff at Wellness District Aesthetics has mastered the technology to administer a procedure that's safe and comfortable - and provides you with results that you'll absolutely love. Within one treatment, you'll be on your way to achieving the sleek, toned body that you've always dreamed about.
-          </h2>
-          <h2 class="subheading">WHAT AREAS CAN WE TREAT WITH COOLSCULPTING?</h2>
-            <li>Stomach/Abdomen</li>
-            <li>Love Handles/Flanks</li>
-            <li>Under the Neck (Double Chin)</li>
-            <li>Back/Bra Area</li>
-            <li>Thighs</li>
-            <li>Male Chest (Pseudogynecomastia)</li>
-            <li>Arms</li>
-            <li>Under Buttocks (Banana Roll)</li>
-      <br>
-      <br>
-      <a href="coolsculpting-book.php" class="button">SEE BEFORE & AFTERS HERE</></a>
+  </section>
+
+  <section class="second-section">
+    <div class="second-left-section">
+      <div class="second-left-wrapper">
+        <h1 class="second-page-header">Natural Results</h1>
+
+        <p class="section-text">Our goal has remained the same since we opened our doors back in 2009— natural-looking, gorgeously refreshed patient results.</p>
+        <p class="section-text">Have questions about cheek filler or want to book your complimentary consultation?</p>
+        <p class="section-text">Contact us or schedule your appointment below!</p>
+
+    </div>
+  </div>
+  <div class="second-right-section">
+    <div class="second-right-wrapper">
+      <h4 class="above-img-text">BEFORE • AFTER</h3>
+      <img class="right-section-img" src="pics/botoxbf1.jpg">
+      <h4 class="under-img-text">Results may vary</h4>
+    </div>
+  </div>
+
+  </section>
+
+  <div class="funky-background">
+  <section class="testimonials-section">
+      <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
+
+  </section>
+  <a class="appt-button testbutton testbuttonlrg" href="#">Book an appointment</a>
+</div>
+  <section class="third-section faq-section">
+              <button class="accordion">What is BOTOX Cosmetic?</button>
+          <div class="panel">
+            <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
+          </div>
+
+          <button class="accordion">Why choose Wellness District Aesthetics among the countless Fargo Moorhead area aesthetics practices?</button>
+          <div class="panel">
+            <p>For starters, our practice is the #1 BOTOX provider in Santa Monica, CA. Nationally, we are ranked in the top 10 for Botox and Juvederm by their manufacturer Allergan.</p>
+            <p>We specialize in injectables, and so our providers administer a higher volume of Botox treatments. In fact, we inject more in two weeks than most high performing dermatologists and plastic surgeons do in an entire year! Additionally, several of our Aesthetic Injection Specialists are National Trainers for Allergan. Our industry accolades are mirrored in our five star reviews and real patient results, clearly demonstrating why they continue to see us instead of choosing one of countless competing aesthetics practices across Los Angeles.</p>
+          </div>
+
+          <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
+          <div class="panel">
+            <p>Yes, we accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
+          </div>
+
+          <button class="accordion">What about downtime, results and follow-up appointments for a wrinkle relaxer treatment?</button>
+          <div class="panel">
+            <p>The best part about a wrinkle relaxer treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. Results vary but are usually visible by day seven. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
+            <p>After three or four months, you will need a new treatment and can return to Skin by Lovely to maintain your fresh, youthful look.</p>
+          </div>
+
+          <button class="accordion">What is the pre & post care?</button>
+          <div class="panel">
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
+          </div>
+          <script>
+                    var acc = document.getElementsByClassName("accordion");
+                    var i;
+
+                    for (i = 0; i < acc.length; i++) {
+                    acc[i].addEventListener("click", function() {
+                      this.classList.toggle("active");
+                      var panel = this.nextElementSibling;
+                      if (panel.style.maxHeight) {
+                        panel.style.maxHeight = null;
+                      } else {
+                        panel.style.maxHeight = panel.scrollHeight + "px";
+                      }
+                    });
+                    }
+                  </script>
+
     </section>
+    <section class="fourth-section">
+      <h3 class="fourth-header">Meet our amazing team of aesthetic providers</h3>
+      <a class="appt-button testbutton" href="#">Meet the Providers</a>
 
-
-    <section class="section black">
-      <img class="sectionimg smallimg" src="pics/csdiagram.png" alt="CoolSculpting Information">
-      <h2 class="subheading_special">HOW DOES COOLSCULPTING WORK?</h2>
-      <h2 class="listheader">HOW FAT CELLS ARE FROZEN?</h2>
-      <ol>
-          <li class="liblack">Despite diet and exercise, fat cells accumulate in the body and can be very tough to get rid of.</li>
-          <li class="liblack">CoolSculpting technology uses controlled cooling (Cryolipolysis) to target, freeze, and kill only these fat cells.</li>
-          <li class="liblack">In the weeks to follow, these fat cells are naturally eliminated from the body.</li>
-          <li class="liblack">CoolSculpting results are long-term, as treated fat cells are gone for good.</li>
-      </ol>
-      <br>
-      <br>
-      <h2 class="listheader">COOLSCULPTING VS LIPOSUCTION</h2>
-      <p>A method of fat removal, liposuction is a surgical procedure that requires individuals to undergo general anesthesia. It works by using large tubes to pull out fat from targeted areas of the body, leaving individuals with immediate results. However, it's an invasive procedure and can require a week or two of recovery. CoolSculpting doesn't require surgery and therefore has no downtime.</p>
-      <br>
-      <br>
-      <h2 class="listheader">COOLSCULPTING VS. DIET & EXERCISE</h2>
-      <p>Your health - in addition to your appearance - is largely reliant on a well-balanced diet and regular exercise. CoolSculpting shouldn't take the place of either of these, but rather act as an aid that can help you accomplish your goals. Diet and exercise can help reduce the appearance of fat cells, but they don't permanently rid your body of them. CoolSculpting freezes off fat cells for good, enhancing your diet plan and serving as great encouragement for continuing a healthy lifestyle.</p>
-      <br>
-      <br>
-      <a href="https://schedulingapp.mypatientnow.com/Account/Login/719" class="button">SCHEDULE YOUR FREE CONSULTATION HERE</></a>
     </section>
+    <div class="carouselins"><?php include 'carousel.php' ?></div>
 
 
-    <section class="section black rev">
-      <img class="sectionimg smallimg" src="pics/csdiagram.png" alt="CoolSculpting Procedure">
-      <h2 class="listheader listheaderspecial">YOUR FAT CELLS HATE THE COLD...<br>IT'S SCIENCE!!!</h2>
-          <p>Freeze away fat? It comes down to science. Fat cells freeze at higher temperatures than surrounding tissues. CoolSculpting technology enables us to precisely target fat cells beneath the skin, and cool them to temperatures that trigger their natural death. This process, known as Cryolipolysis®, results in the treated fat cells becoming crystallized (frozen), and actually die. Because however the fats crystallize faster than normal cells, there is no damage to skin, nerves or other surrounding tissue. Over time as the treated fat cells shrink and die, your body naturally metabolizes them, eliminating these dead cells, and leaving a more sculpted you. Unlike with diet or exercise where the fat cells are reduced in size, with CoolSculpting, once the treated fat cells are gone, they're gone for good. With each session you are able to decrease the number of treated fat cells by about 20%. Each additional treatment further enhances your results, ridding you of an additional 20% of the treated fat cells per session. With CoolSculpting at Wellness District Aesthetics, it’s easy to sit back, relax and reduce that stubborn fat. Despite diet and exercise, fat cells accumulate in the body and can be very tough to get rid of. CoolSculpting technology uses controlled cooling (Cryolipolysis) to target, freeze, and kill only these fat cells. In the weeks to follow, these fat cells are naturally eliminated from the body. CoolSculpting results are long-term, as treated fat cells are gone for good.
-          </p>
-      <br>
-      <br>
-      <p>With each session you are able to decrease the number of treated fat cells by about 20%. Each additional treatment further enhances your results, ridding you of an additional 20% of the treated fat cells per session. With CoolSculpting at Wellness District Aesthetics, it’s easy to sit back, relax and reduce that stubborn fat.</p>
-      <br><br>
-      <p>Despite diet and exercise, fat cells accumulate in the body and can be very tough to get rid of. CoolSculpting technology uses controlled cooling (Cryolipolysis) to target, freeze, and kill only these fat cells.</p>
-      <br><br>
-      <p>In the weeks to follow, these fat cells are naturally eliminated from the body. CoolSculpting results are long-term, as treated fat cells are gone for good.</p>
-      <br>
-      <br>
-      <a href="#" class="button">SEE BEFORE & AFTERS HERE</></a>
+    <section class="fifth-section">
+      <img class="fifth-section-img" src="pics/wdtreatment.jpg">
+      <div class="fifth-section-color-block"></div>
+      <div class="sneaky-img-container">
+      <p class="sneaky-img-text">View all our treatments</p>
+      <a class="sneaky-img-button-left appt-button" href="#">Learn more</a>
+      <a class="sneaky-img-button-right appt-button" href="#">Book online</a>
+    </div>
     </section>
-
-    <section class="section black bottom">
-      <a href="https://www.greensky.com/provider/dermphilosophy?channel=External-Button-Cosmetic-250x250" target="_blank" tabindex="0"><img class="greenskyimg" src="https://www.greensky.com/providerkit/images/finance_buttons/GSPS_ProviderAds_250x250_Cosmetic.jpg?v=1.0.02" alt="Cosmetic Financing" style="border: 1px solid #333;" /></a>
-      <h2 class="subheading_special">LOOKING FOR FINANCING OPTIONS?</h2>
-      <p>GreenSky Patient Solutions® offers CoolSculpting FInancing!
-        NO INTEREST with monthly payments as low as $300 when paid in full in 12 months.</p>
-      <br>
-      <br>
-      <a href="https://www.greensky.com/provider/prequal/dermphilosophy" class="button">CLICK HERE FOR FINANCING OPTIONS</></a>
-    </section>
-
-
-
-
   </main>
-    <?php include 'wdfooter.php' ?>
 </body>
-
-
+<?php include 'wdfooter.php' ?>
 </html>

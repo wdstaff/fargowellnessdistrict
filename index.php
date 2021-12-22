@@ -4,7 +4,7 @@
   <title>FARGO WELLNESS DISTRICT</title>
   <link rel="stylesheet" type="text/css" href="css/index.css" />
   <meta name="description" content="Fargo Wellness District Is The Premier Botox, Dermal Filler & Medical Weight Loss Clinic In The Fargo Moorhead Area. We Take The Time. It's What We Do." />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
   <!-- W3 Animations !-->
@@ -70,7 +70,7 @@
 </section>
 </div>
 </main>
-<script src="scripts/index.js"></script>
+<script src="scripts/index2.js"></script>
 <div class="sticky-schedule">
   <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><i class="far fa-calendar-alt line calendar"></i></a>
   <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><p class="sticky-schedule-text">Book a consultation</p></a>

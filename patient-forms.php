@@ -5,22 +5,21 @@
   <link rel="stylesheet" type="text/css" href="css/patient-forms.css" />
   <meta name="description" content="Download Our New Patient Paperwork For Your First Appointment At Wellness District Medical Weight Loss" />
   <meta name="keywords" content="Patient Forms" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 
 </head>
 
 <body>
   <?php include 'wdheader.php' ?>
-  <?php include 'banner.php' ?>
+
   <main>
 
 
-    <h1 class="page_header"><a>PATIENT FORMS</a></h1>
-    <h2 class="listheader centertext">WELLNESS DISTRICT MEDICAL WEIGHT LOSS<br>PATIENT FORMS</h2>
+    <h1 class="patient-forms-header"><a>PATIENT FORMS</a></h1>
 
 
-    <section class="section white">
+    <section class="patient-forms-section">
       <h2 class="subheading">New Patient Letter</h2>
         <a href="/files/New Patient Letter.pdf" Download class="button">Download New Patient Letter Here</a>
       <br>

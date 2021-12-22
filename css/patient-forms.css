@@ -11,261 +11,30 @@ img {
 
 a {
   text-decoration:none;
-  color:black;
-}
-
-main {
-  margin:auto;
-    max-width: 1150px;
-}
-
-.page_header {
-  font-size:4em;
-  text-align:center;
-}
-
-.paragraph_header p {
-
-  text-align:center;
-
-}
-
-.section1 b {
-  font-size:1.2em;
-}
-
-section li {
-  width:80%;
-  margin:auto;
-  text-align:left;
-  font-size: 1.5em;
-  line-height:200%;
-  padding-top:.75em;
-
 }
 
 
-/* Section Formatting */
 
-.sectionimg {
-  padding-top:3em;
-  display:block;
-  margin:auto;
+
+/* Patient Forms CSS */
+
+.patient-forms-header {
+  margin-top:7vh;
+  margin-bottom:10vh;
+  text-align: center;
 }
-
-.subheading {
-  font-size:2.5em;
-  text-align:left;
-  padding-bottom:.75em;
-  border-bottom:solid 1px;
-  width:90%;
-  margin:auto;
-  padding-top:.75em;
-  margin-bottom:2em;
-}
-
-p {
-
-    width:90%;
-    margin:auto;
-    text-align:left;
-    font-size: 1.5em;
-    line-height:200%;
-}
-
-.button {
-  display:block;
-  width:80%;
-  margin:auto;
-  font-size:1.7em;
-  text-align:center;
-  background-color:#008480;
-  color:white;
-  border-radius:100px;
-  padding-top:2em;
-  padding-bottom:2em;
-  position:relative;
-
-
-}
-
-.button:hover {
-
-    background-color:grey;
-
-}
-
-
-/* Section black */
-
-.black {
-  background-color:#333333;
-  padding-top:6em;
-  z-index:1;
-  color:white;
-
-}
-
-/* White Section */
-
-.rev {
-
-background-color:white;
-color:#333333
-
-}
-
-/* Extra Formatting */
 
 .listheader {
-  font-size:2.5em;
-  text-align:left;
-  padding-bottom:.75em;
-  border-bottom:none;
-  width:90%;
-  margin:auto;
-  padding-top:.75em;
-
+  text-align: center;
 
 }
 
-.smallimg {
-  width:60%;
+.patient-forms-section {
+  text-align: center;
 }
 
-.bottom {
+.patient-forms-section a:hover {
 
-padding-bottom:6em;
+  color:blue;
 
-}
-
-.centertext {
-text-align:center;
-}
-
-@media only screen and (max-width:1079px) {
-
-  .page_header {
-    font-size:4em;
-    text-align:center;
-  }
-
-  .paragraph_header p {
-
-    text-align:center;
-
-  }
-
-  .section1 b {
-    font-size:1.2em;
-  }
-
-  li {
-    width:80%;
-    margin:auto;
-    text-align:left;
-    font-size: 1.5em;
-    line-height:200%;
-    padding-top:.75em;
-
-  }
-
-
-  /* Section Formatting */
-
-  .sectionimg {
-    padding-top:3em;
-    display:block;
-    margin:auto;
-  }
-
-  .subheading {
-    font-size:2.5em;
-    text-align:left;
-    padding-bottom:.75em;
-    border-bottom:solid 1px;
-    width:90%;
-    margin:auto;
-    padding-top:.75em;
-    margin-bottom:2em;
-  }
-
-p {
-
-      width:90%;
-      margin:auto;
-      text-align:left;
-      font-size: 1.5em;
-      line-height:200%;
-  }
-
-  .button {
-    display:block;
-    width:80%;
-    margin:auto;
-    font-size:1.7em;
-    text-align:center;
-    background-color:#008480;
-    color:white;
-    border-radius:100px;
-    padding-top:2em;
-    padding-bottom:2em;
-    position:relative;
-
-
-  }
-
-  .button:hover {
-
-      background-color:grey;
-
-  }
-
-
-  /* Section black */
-
-  .black {
-    background-color:#333333;
-    padding-top:6em;
-    z-index:1;
-    color:white;
-
-  }
-
-/* White Section */
-
-  .rev {
-
-  background-color:white;
-  color:#333333
-
-  }
-
-  /* Extra Formatting */
-
-  .listheader {
-    font-size:2.5em;
-    text-align:left;
-    padding-bottom:.75em;
-    border-bottom:none;
-    width:90%;
-    margin:auto;
-    padding-top:.75em;
-
-
-  }
-
-.smallimg {
-    width:60%;
-}
-
-.bottom {
-
-  padding-bottom:6em;
-
-}
-
-.centertext {
-  text-align:center;
-}
 }

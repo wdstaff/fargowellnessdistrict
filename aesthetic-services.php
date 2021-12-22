@@ -3,14 +3,14 @@
 
   <title>Aesthetic Services at Wellness District</title>
   <meta name="description" content="Fargo Wellness District Specializes In Services Like Botox, Coolsculpting, Medical Weight Loss, Juvederm And Kybella!">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0, shrink-to-fit=no">
+  <meta name="viewport" width="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="css/aesthetic-services.css" />
   <!-- Lato Font Link -->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
 </head>
 <body>
 
-  <?php include 'wdheader.php' ?>
+  <?php include 'wdheader2.php' ?>
   <main>
       <img class="img-header" src="pics/services-banner.jpg" />
 
@@ -94,5 +94,5 @@
   </main>
 
 </body>
-<?php include 'wdfooter.php' ?>
+<?php include 'wdfooter2.php' ?>
 </html>

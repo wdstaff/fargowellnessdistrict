@@ -28,8 +28,11 @@
                                   <p id='treatmenttest' class="treatment menu-subheader-text"><a href="botox.php">Botox</a></p>
                                   <p class="treatment menu-subheader-text"><a href="filler.php">Dermal Fillers</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coolsculpting.php">CoolSculpting</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="fargo-medical-weight-loss.php">Medical Weightloss Specialists</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="skin-care.php">Skin Care</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="weight-loss-services.php">Medical Weightloss</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="facials.php">Facials</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="procell.php">Procell</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="chemical-peel.php">Chemical Peels</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="diamond-glow.php">Diamond Glow</a></p>
                                   <p class="treatment menu-subheader-text"><a href="kybella.php">Kybella</a></p>
                                 </div>
     <div class="extra-menu-items"><p class="menu-header-text">COMPANY<a onClick="companymenu()"><i id="company-arrow" class="fas fa-angle-right company-arrow" style="font-size:2em;float:right;"></i><a/></p>
@@ -59,20 +62,20 @@
   <div class="item-wrapper desktop-right">
     <div class="extra-menu-items"><p class="menu-header-text">SHOP ONLINE</p></div>
     <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><img class="menuimg" src="pics/menu-long-img1.jpg"></a></div>
-    <div class="extra-menu-items"><a href="#"><img class="menuimg" src="pics/menu-long-img2.jpg"></a></div>
+    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict"><img class="menuimg" src="pics/menu-long-img2.jpg"></a></div>
     </div>
-  <div class="item-wrapper desktop-right">
+  <div class="item-wrapper desktop-right dright2">
     <div class="extra-menu-items"><p class="menu-header-text">OUR LOCATION</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658">435 32nd Ave E, Suite B</a></p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658">West Fargo, ND 58078</a></p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="tel:7012053088">701.205.3088</a></p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719">Schedule an Appointment</a></p></div>
-    <div class="extra-menu-items"><i class="fas fa-user"></i></div>
+    <div class="extra-menu-items spec-center-user"><i class="fas fa-user"></i></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Open M-H: 7:30 am - 6:00pm</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Open F: 9:00 am - 4:00 pm</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Closed Saturday & Sunday</p></div>
   </div>
 </div>
-  <script src="scripts/wdheader.js"></script>
+  <script src="scripts/wdheader2.js"></script>
 </body>
 </html>
