@@ -50,8 +50,8 @@
   <form class="vipform w3-container w3-center w3-animate-top">
     <span class="close" onclick="closeform()">&times</span>
     <div class="form-content-wrapper">
-    <p class="form-header-text">Feel Lovely in Your Skin</p>
-    <p class="form-body-text">Sign up for our monthly newsletter to stay up to date on our latest trends and skin tips & tricks.</p>
+    <p class="form-header-text">Feel Healthy in Your Skin</p>
+    <p class="form-body-text">Sign up for text messages on all of our specials, flash sales, and all things wellness.</p>
 
     <input type="text" id="name" name="name" placeholder="Your Name"><br>
     <input type="email" id="email" name="email" placeholder="Your Email"><br>
