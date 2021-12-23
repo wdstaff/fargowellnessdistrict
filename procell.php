@@ -4,7 +4,7 @@
 <head>
   <title>DERMAL FILLER</title>
   <meta name="description" content="Wellness District Aesthetics Has The Top Injectors In The Fargo Moorhead Area. Let Us Help Give You A Youthful Rejuvenated Look" />
-  <link rel="stylesheet" type="text/css" href="css/filler2.css" />
+  <link rel="stylesheet" type="text/css" href="css/procell.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
@@ -19,7 +19,7 @@
 </head>
 <body>
   <main>
-  <?php include 'wdheader2.php' ?>
+  <?php include 'wdheader.php' ?>
 
   <img class="img-header" src="pics/fillerfront.jpg" />
 
@@ -163,5 +163,5 @@
     </section>
   </main>
 </body>
-<?php include 'wdfooter2.php' ?>
+<?php include 'wdfooter.php' ?>
 </html>

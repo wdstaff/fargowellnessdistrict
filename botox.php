@@ -21,19 +21,21 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/slideshow/botox-mobile3.jpg" />
+  <div class="botox-titantron">
+  <img class="img-header" src="pics/wd212.jpg" />
+</div>
 
   <section class="first-section">
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Fine Lines & Wrinkles</h1>
+        <h1 class="page-header">Botox</h1>
 
-        <p class="section-text">You have probably heard “fine lines and wrinkles” used interchangeably, but there is actually some difference between the two! Not only do they appear in different areas of the face, but they are also treated differently, both in the types of facial rejuvenation procedures and products we recommend to you. Understanding the differences before you begin researching different treatment options will help you plan your appointment to our practice a little bit better.
+        <p class="section-text">At Wellness District Aesthetics we use an innovative Botox® injection technique not used by any other clinic in the Fargo/Moorhead area. Our Botox® technique gives patients a natural yet flawless look. We take our time to ensure that our Botox® is strategically placed for each individual patient's anatomy.
         </p>
-        <li class="section-text section-text-li"><h2 class="midline-header">Fine lines</h2> often indicate the beginning of your skin’s aging process. They are small and shallow and may be hard to see initially. Fine lines on the face are often associated with repetitive movements, such as squinting, smiling, laughing or frowning. They are so superficial that they respond to treatments faster and easier than deeper wrinkles would.</li>
-        <li class="section-text section-text-li"><h2 class="midline-header">Wrinkles</h2> form when fine lines are not treated quickly and begin to deepen, but they also tend to form in different areas of the face more quickly, often progressing into facial folds.</li>
-        <p class="section-text">While these are often treated with <b>wrinkle relaxers</b>, like <b>BOTOX</b>® <b>Cosmetic</b> and <b>Dysport</b>, we also recommend using Retinol nightly and getting microneedling treatments.</p>
+        <li class="section-text section-text-li"><h2 class="midline-header">New Patient Special</h2> We are so confident in our techniques and precise placement that we offer patients their first Botox® treatment at Wellness District for <b>$150 (up to 35 units).</b></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Botox</h2> is a purified protein derived from Botulin Toxin A. Botox® works by preventing the transmission of nerve impulses to the injected muscle therefore relaxing the facial movements that create facial lines. Botox® can be used to treat and prevent fine lines and wrinkles.</li>
+        <p class="section-text">Both women and men can receive Botox® injections. Botox® is most commonly used to treat fine lines and wrinkles, but it is not for all types of fine lines and wrinkles. Our expert injectors will guide you towards the best treatment option for you.</p>
         <p class="section-text">Each patient’s unique anatomy will determine the specific treatment and skincare regimen we recommend to attain the best results!</p>
         <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
 
@@ -42,19 +44,18 @@
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Recommended Treatments:</h3>
+      <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
+        <li>Dermal Fillers</li>
         <li>Chemical Peels</li>
-        <li>Microneedling</li>
-        <li>Wrinkle Relaxers</li>
-        <li>Platlet-Rich Fibrin (PRF)
+        <li>ProCell Micro-Channeling</li>
         </ol>
         <hr>
         <h3 class="heading-text">Skincare:</h3>
         <ol class="skincare">
-          <li>C+ Correcting Complex 30%</li>
-          <li>Restorative Complex</li>
-          <li>TNS Advanced+</li>
+          <li>TNS Advanced +</li>
+          <li>Retinol Complex</li>
+          <li>Revox Line Relaxer</li>
         </ol>
         <hr>
         <h3 class="heading-text">Treatment areas:</h3>
@@ -84,8 +85,8 @@
       <div class="second-left-wrapper">
         <h1 class="second-page-header">Real Botox Results</h1>
 
-        <p class="section-text">Our goal has remained the same since we opened our doors back in 2009— natural-looking, gorgeously refreshed patient results.</p>
-        <p class="section-text">This beauty received wrinkle relaxers to smooth & relax fine lines & wrinkles around the crow’s feet, forehead & frown.</p>
+        <p class="section-text">Our goal has remained the same since we opened our doors back in 2016— natural-looking, gorgeously refreshed patient results.</p>
+        <p class="section-text">This beauty received Botox to smooth & relax fine lines & wrinkles around the crow’s feet, forehead & frown.</p>
         <p class="section-text">You’ll also notice her entire eye area is now more open & ‘awake’— our expert Injection Specialists use a ‘brow lift’ technique to achieve this look.</p>
 
     </div>
@@ -160,15 +161,14 @@
     <div class="carouselins"><?php include 'carousel.php' ?></div>
     <section id="new-patient-special" class="botox-special-section">
 
-      <img src="pics/botoximg.png" class="botox-special-section-img">
+      <img src="pics/wd60.jpg" class="botox-special-section-img">
       <div class="botox-special-section-text-wrapper">
-          <h4 class="botox-special-section-heading">Botox special</h4>
+          <h4 class="botox-special-section-heading">New Patient Botox Special</h4>
             <p class="botox-special-section-text">We are so confident in our techniques and precise placement that we offer patients their first Botox® treatment for $150 (up to 35 units).</p>
               <ol class="terms-of-service-botox">
                 <li>1 Treatment Of Botox® Up To 35 Units</li>
                 <li>Additional Units $13 Per Unit.</li>
                 <li>Unused Units Will Expire 1 Month After Injection</li>
-                <li>Injection Must Be Done M-TH Between 9am - 3:30pm</li>
                 <li>1st Time Wellness District Patients Only</li>
 
               </ol>
@@ -183,7 +183,7 @@
 
 
     <section class="fifth-section">
-      <img class="fifth-section-img" src="pics/wdtreatment.jpg">
+      <img class="fifth-section-img" src="pics/wd173.jpg">
       <div class="fifth-section-color-block"></div>
       <div class="sneaky-img-container">
       <p class="sneaky-img-text">View all our treatments</p>

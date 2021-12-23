@@ -26,20 +26,20 @@
     </section>
 
     <section class="second section">
-      <div class="second-section-item item1"><img class="pink-pic" src="pics/icon1.png"><h2 class="item-header">Injectables</h2><p class="item-p">Take care of your skin 24/7 with a customized regimen catered to your needs.</p></div>
-      <div class="second-section-item item2"><img class="pink-pic" src="pics/icon2.png"><h2 class="item-header">Weight Loss</h2><p class="item-p">Improve your skin’s tone & texture with microneedling, PRF & chemical peels.</p></div>
-      <div class="second-section-item item3"><img class="pink-pic" src="pics/icon3.png"><h2 class="item-header">Body Contouring</h2><p class="item-p">Take care of your skin 24/7 with a customized regimen catered to your needs.</p></div>
+      <div class="second-section-item item1"><img class="pink-pic" src="pics/icon1.png"><h2 class="item-header">Injectables</h2><p class="item-p">Relax wrinkles with Botox and restore facial volume with signature dermal filler treatments like our one of a kind mid face rejuvanation.</p></div>
+      <div class="second-section-item item2"><img class="pink-pic" src="pics/icon2.png"><h2 class="item-header">Weight Loss</h2><p class="item-p">Improve your overall health with our medical weight loss nutritional program, over 10 years of experience.</p></div>
+      <div class="second-section-item item3"><img class="pink-pic" src="pics/icon3.png"><h2 class="item-header">Body Contouring</h2><p class="item-p">Get the newest body contouring technology at Fargo Moorhead's first and only CoolSculpting Elite Clinic. </p></div>
     </section>
     <div class="learncont"><a class="second-section-link" href="#">Learn More</a></div>
 
     <section class="third section">
       <h3 class="third-header">Check Out Our Monthly Specials</h3>
-      <a class="index-button" href="botox.php">Monthly Specials</a>
+      <a class="index-button" href="monthly-specials.php">Monthly Specials</a>
     </section>
 
     <section class="fourth section">
-      <h3 class="fourth-header">Meet our amazing team of aesthetic providers</h3>
-      <a class="index-button" href="#">Meet the Providers</a>
+      <h3 class="fourth-header">Meet Our Amazing Team</h3>
+      <a class="index-button" href="#">Meet the team</a>
 
     </section>
     <div class="carouselins"><?php include 'carousel.php' ?></div>

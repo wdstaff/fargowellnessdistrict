@@ -10,9 +10,9 @@
 </head>
 <body>
 
-  <?php include 'wdheader2.php' ?>
+  <?php include 'wdheader.php' ?>
   <main>
-      <img class="img-header" src="pics/services-banner.jpg" />
+      <img class="img-header" src="pics/wd189.jpg" />
 
       <section class="first section w3-container w3-center w3-animate-bottom">
         <h1 class="section-heading-text">THE WELLNESS DISTRICT WAY</h1>
@@ -31,7 +31,7 @@
 
         <section class="ind-treatment-section">
           <div class="left-ind-treatment-section-wrapper">
-              <img class="ind-treatment-section-img" src="pics/mwlspic1.jpg">
+              <img class="ind-treatment-section-img" src="pics/wd189.jpg">
           </div>
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Nutritional Program</h3>
@@ -94,5 +94,5 @@
   </main>
 
 </body>
-<?php include 'wdfooter2.php' ?>
+<?php include 'wdfooter.php' ?>
 </html>

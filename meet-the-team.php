@@ -17,8 +17,8 @@
 
     <section class="meet-the-team-header-section">
     <h3 class="meet-the-team-page-subheader">MEET THE TEAM</h3>
-    <h1 class="meet-the-team-page-header">Say <i>Hello</i> to the Wellness District team</h1>
-    <p class="meet-the-team-page-header-text">Our team of experts are here to guide you through your aesthetic journey every step of the way. We know you'll be in amazing hands.</p>
+    <h1 class="meet-the-team-page-header">Say <i>Hello</i> to the Wellness District Team</h1>
+    <p class="meet-the-team-page-header-text">Our team of experts are here to guide you through your wellness journey every step of the way. We know you'll be in amazing hands.</p>
     </section>
     <div class="meet-the-team-background-section"></div>
     <section class="meet-the-team-section">

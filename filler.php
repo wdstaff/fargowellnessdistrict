@@ -21,7 +21,7 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/fillerfront.jpg" />
+  <img class="img-header" src="pics/wd158.jpg" />
 
   <section class="first-section">
 

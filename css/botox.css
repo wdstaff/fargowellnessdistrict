@@ -14,11 +14,29 @@ a {
   color:black;
 }
 
+.botox-titantron {
+  display:block;
+  margin:auto;
+  height:50vh;
+  width:80%;
+  object-fit: cover;
+  background-color:rgba(0,132,128,1);
+
+}
+
 .img-header {
   display:block;
   margin:auto;
   height:50vh;
+  background-color:rgba(0,132,128,1);
+  width:80%;
+  object-fit: cover;
+
 }
+
+
+
+
 
 .first-section {
   display:flex;
@@ -128,6 +146,11 @@ a {
   display:flex;
     margin-top:100px;
     margin-bottom:100px;
+}
+
+.right-section-img {
+  display:block;
+  margin:auto;
 }
 
 .above-img-text {
