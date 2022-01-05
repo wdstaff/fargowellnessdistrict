@@ -2,8 +2,8 @@
 <html>
 
 <head>
-  <title>COOLSCULPTING FARGO</title>
-  <meta name="description" content="Wellness District Aesthetics Has The Top Coolsculpting Adminstrators In The Fargo Moorhead Area. Let Us Help You With Those Stubborn Areas Of Fat." />
+  <title>CoolSculpting Fargo</title>
+  <meta name="description" content="CoolSculpting Elite: The NEW Revolutionary Fat-Freezing Machine Only at Wellness District." />
   <link rel="stylesheet" type="text/css" href="css/coolsculpting.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -21,53 +21,79 @@
   <main>
   <?php include 'wdheader.php' ?>
 
+  <div class="botox-titantron">
   <img class="img-header" src="pics/coolsculptingbanner.jpg" />
+</div>
 
   <section class="first-section">
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Coolsculpting</h1>
+        <h1 class="page-header">CoolSculpting Elite:</h1>
+        <h3 class="page-header-subheader">The NEW Revolutionary Fat-Freezing Machine Only at Wellness District</h3>
 
-        <p class="section-text">Developed by renowned scientists of Harvard University and Massachusetts General Hospital, the FDA-cleared procedure known as CoolSculpting uses patented cooling technology to eliminate fat cells, without surgery, and little to no downtime. The reduction in fat cells in the treated area provides noticeable, and lasting results to help you look and feel your very best.
+        <p class="section-text">CoolSculpting, the revolutionary body contouring treatment, hit the industry back in 2010. At the time, it was the only FDA-cleared treatment to reduce fat using the advanced cooling technology known as Cryolipolysis.
         </p>
-        <li class="section-text section-text-li"><h2 class="midline-header">Coolsculpting Fargo</h2> often indicate the beginning of your skin’s aging process. They are small and shallow and may be hard to see initially. Fine lines on the face are often associated with repetitive movements, such as squinting, smiling, laughing or frowning. They are so superficial that they respond to treatments faster and easier than deeper wrinkles would.</li>
-        <li class="section-text section-text-li"><h2 class="midline-header">Wrinkles</h2> form when fine lines are not treated quickly and begin to deepen, but they also tend to form in different areas of the face more quickly, often progressing into facial folds.</li>
-        <p class="section-text">While these are often treated with <b>wrinkle relaxers</b>, like <b>BOTOX</b>® <b>Cosmetic</b> and <b>Dysport</b>, we also recommend using Retinol nightly and getting microneedling treatments.</p>
 
+        <p class="section-text">The original CoolSculpting machine targets a stubborn bulge with one applicator, isolating a persistent bulge of fat. This applicator subjects the bulge to calibrated cold temperatures that effectively freeze the fat cells underneath without harming overlying skin or tissue.
+        </p>
+
+        <p class="section-text">Afterward, the body’s immune system naturally gathers and disposes of the dead cells via the lymphatic system. Once fat cells are gone, they can never re-grow. CoolSculpting provides patients with natural-looking, long-lasting fat reduction results.
+        </p>
+
+        <p class="section-text">While we have only great things to say about treating patients with the old CoolSculpting machine, as a Top 500 National Allergan Account, we decided to upgrade to the CoolSculpting Elite. Patients of the Elite have been so excited with the benefits: faster results, more fat reduction, and better sculpting. This is why we are excited to be the only clinic in the Fargo/Moorhead area with this brand new technology!
+        </p>
+
+        <h3>Top 5 Reasons the Elite CoolSculpting machine is now the only option for CoolSculpting
+        </h3>
+
+        <li class="section-text section-text-li"><h2 class="midline-header">25% More Fat Reduction</h2> - The new design of the ELITE applicators allows for better “tissue draw” (bringing fat up into the cold applicator’s center.) CoolSculpting ELITE removes 20-25% of unwanted fat – an improvement on the classic model, and the best fat-freeze stats on the market!
+        </li>
+
+        <li class="section-text section-text-li"><h2 class="midline-header">18% More Coverage</h2> - Elite covers up to 18% more skin surface, targeting more fat cells in the same treatment time. You get added CoolSculpting at no added cost.
+        </li>
+
+        <li class="section-text section-text-li"><h2 class="midline-header">Dual & QuadSculpting</h2> - Whereas the old model had one applicator, Elite has two. This means no more treatment rooms stuffed with CoolSculpting devices. We often use two ELITE devices to treat four body areas simultaneously. Our clients love the convenience of sculpting several fat “trouble areas” at the same time with CoolSculpting Elite.
+        </li>
+
+        <li class="section-text section-text-li"><h2 class="midline-header">10 Years of Improvements</h2> - Elite is the culmination of 10+ years of CoolSculpting research, development, and widespread use. The device is now sleeker, more compact, and offers superior freezing technology.
+        </li>
+
+        <li class="section-text section-text-li"><h2 class="midline-header">9 Treatment Areas</h2> - Customize away! Elite’s new “every size” applicators (pictured) get the job done with better fitting CoolSculpting. Freeze your stomach to your neck fat with never-before-seen precision.
+        </li>
+
+        <p class="section-text">Book your free consultation to learn more about pricing, your custom treatment plan and more!</p>
         <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
-
-        <iframe  class="coolsculptingframe" width="560" height="315" src="https://www.youtube.com/embed/0JC6aXPlwZI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 
     </div>
   </div>
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Recommended Treatments:</h3>
+      <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
-        <li>Juvederm</li>
-        <li>Radiesse</li>
-        <li>Restylane</li>
-        <li>Sculptra</li>
+        <li>Medical Weight Loss Nutritional Program</li>
+        <li>Kybella</li>
+        <li>ProCell Micro-Channeling</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Recommended Skincare:</h3>
+        <h3 class="heading-text">Skincare:</h3>
         <ol class="skincare">
-          <li>DEJ Night Cream</li>
-          <li>DEJ Face Cream</li>
-          <li>Restorative Skin Complex</li>
-          <li>TNS Advnaced+</li>
+          <li>Revision Body Firm</li>
+          <li>Neck Correct</li>
         </ol>
         <hr>
         <h3 class="heading-text">Treatment areas:</h3>
         <ol class="treatment-area">
-            <li>Bunny Lines</li>
-            <li>Crow's Feet</li>
-            <li>Forehead Lines</li>
-            <li>Frown Lift</li>
-            <li>Glabella/Frown Lines</li>
+            <li>Abdomen</li>
+            <li>Love Handles</li>
+            <li>Thighs</li>
+            <li>Upper Arms</li>
+            <li>Armpit Area or Bra Bulges</li>
+            <li>Back</li>
+            <li>Banana Roll</li>
+            <li>Chin</li>
+            <li>Jawline / Double Chin</li>
             </ol>
 
 
@@ -81,11 +107,11 @@
   <section class="second-section">
     <div class="second-left-section">
       <div class="second-left-wrapper">
-        <h1 class="second-page-header">Natural Results</h1>
+        <h1 class="second-page-header">CoolSculpting Results</h1>
 
-        <p class="section-text">Our goal has remained the same since we opened our doors back in 2009— natural-looking, gorgeously refreshed patient results.</p>
-        <p class="section-text">Have questions about cheek filler or want to book your complimentary consultation?</p>
-        <p class="section-text">Contact us or schedule your appointment below!</p>
+        <p class="section-text">Our goal has remained the same since we opened our doors back in 2016— natural-looking, gorgeously refreshed patient results.</p>
+        <p class="section-text">This beauty received Botox to smooth & relax fine lines & wrinkles around the crow’s feet, forehead & frown.</p>
+        <p class="section-text">You’ll also notice her entire eye area is now more open & ‘awake’— our expert Injection Specialists use a ‘brow lift’ technique to achieve this look.</p>
 
     </div>
   </div>
@@ -112,27 +138,22 @@
             <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
           </div>
 
-          <button class="accordion">Why choose Wellness District Aesthetics among the countless Fargo Moorhead area aesthetics practices?</button>
+          <button class="accordion">Why choose Wellness District?</button>
           <div class="panel">
-            <p>For starters, our practice is the #1 BOTOX provider in Santa Monica, CA. Nationally, we are ranked in the top 10 for Botox and Juvederm by their manufacturer Allergan.</p>
-            <p>We specialize in injectables, and so our providers administer a higher volume of Botox treatments. In fact, we inject more in two weeks than most high performing dermatologists and plastic surgeons do in an entire year! Additionally, several of our Aesthetic Injection Specialists are National Trainers for Allergan. Our industry accolades are mirrored in our five star reviews and real patient results, clearly demonstrating why they continue to see us instead of choosing one of countless competing aesthetics practices across Los Angeles.</p>
+            <p>For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox treatments continue to see us.</p>
           </div>
 
           <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
           <div class="panel">
-            <p>Yes, we accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
+            <p>Of course, we offer the Botox Club which patients can save $2/unit on their Botox treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, CoolSculpting Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
           </div>
 
-          <button class="accordion">What about downtime, results and follow-up appointments for a wrinkle relaxer treatment?</button>
+          <button class="accordion">What about downtime, results and follow-up appointments for a Botox treatments?</button>
           <div class="panel">
-            <p>The best part about a wrinkle relaxer treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. Results vary but are usually visible by day seven. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
-            <p>After three or four months, you will need a new treatment and can return to Skin by Lovely to maintain your fresh, youthful look.</p>
+            <p>The best part about a Botox treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. We do recommend that you do not lie down for four hours following the treatment. We also recommend you do not work out the rest of the day. Results vary but are usually visible by day seven. Complete results can be seen by day 14. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
+            <p>After three or four months, you will need a new treatment and can return to Wellness District to maintain your fresh, youthful look.</p>
           </div>
 
-          <button class="accordion">What is the pre & post care?</button>
-          <div class="panel">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
           <script>
                     var acc = document.getElementsByClassName("accordion");
                     var i;
@@ -151,23 +172,9 @@
                   </script>
 
     </section>
-    <section class="fourth-section">
-      <h3 class="fourth-header">Meet our amazing team of aesthetic providers</h3>
-      <a class="appt-button testbutton" href="#">Meet the Providers</a>
-
-    </section>
-    <div class="carouselins"><?php include 'carousel.php' ?></div>
-
-
-    <section class="fifth-section">
-      <img class="fifth-section-img" src="pics/wdtreatment.jpg">
-      <div class="fifth-section-color-block"></div>
-      <div class="sneaky-img-container">
-      <p class="sneaky-img-text">View all our treatments</p>
-      <a class="sneaky-img-button-left appt-button" href="#">Learn more</a>
-      <a class="sneaky-img-button-right appt-button" href="#">Book online</a>
-    </div>
-    </section>
+    <?php include 'staff-carousel.php' ?>
+    <?php include 'new-patient-special.php' ?>
+    <?php include 'all-treatments.php' ?>
   </main>
 </body>
 <?php include 'wdfooter.php' ?>

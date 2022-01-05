@@ -119,13 +119,71 @@ font-weight:bold;
   font-weight:300;
 }
 
-.titantron {
-}
-
-.titantron img {
+.homepage-titantron {
   display:block;
   margin:auto;
+  height:50vh;
+  width:80%;
+  background-color:rgba(0,132,128,1);
 
+}
+
+.homepage-header {
+  display:block;
+  margin:auto;
+  height:50vh;
+  width:80%;
+  object-fit:scale-down;
+  object-position: right;
+  background-color:white;
+
+}
+
+.homepage-header-decal-container {
+  display:flex;
+  flex-direction: column;
+  position:absolute;
+  height:25vh;
+  top:30vh;
+  left:30%;
+  z-index:0;
+
+}
+
+.homepage-header-decal-container img {
+
+  object-fit: scale-down;
+
+
+}
+
+.homepage-appt-button {
+  background-color:#008480;
+  color:white;
+  padding-left:.7em;
+  padding-right:.7em;
+  padding-top:.5em;
+  padding-bottom:.5em;
+  letter-spacing: .05em;
+  position:relative;
+  z-index: 1;
+  font-size:.7em;
+  display:block;
+  margin-top:3em;
+  width:150px;
+  text-align: center;
+  border-radius: 5px;
+
+
+
+
+
+}
+
+.homepage-appt-button:hover {
+  animation: change 1s 1;
+  background:black;
+  color:white;
 }
 
 /* First Section Code */
@@ -133,18 +191,17 @@ font-weight:bold;
 .first {
   text-align:center;
   letter-spacing:.1em;
-  margin-top:12vh;
+  margin-top:6vh;
   margin-bottom:12vh;
-}
-
-.section-heading-text {
-  font-size:1em;
-
 }
 
 .section-p-text {
   font-size:1.5em;
+  margin:auto;
   margin-top:0;
+  width:80%;
+  font-weight: lighter;
+  color:grey;
 }
 
 
@@ -192,6 +249,7 @@ font-weight:bold;
 
 .second-section-item {
   letter-spacing:.1em;
+  width:33%;
 }
 
 .second-section-link {
@@ -343,7 +401,81 @@ p.sticky-schedule-text {
 
 
 
-@media only screen and (max-width:990px) {
+@media only screen and (max-width:1080px) {
+
+  .homepage-titantron {
+      display:block;
+      margin:auto;
+      height:50vh;
+      width:100%;
+
+    }
+
+    .homepage-header {
+      display:block;
+      margin:auto;
+      height:50vh;
+      width:100%;
+
+
+    }
+
+    .homepage-header-decal-container {
+      display:flex;
+      flex-direction: column;
+      position:absolute;
+      height:20vh;
+      top:18vh;
+      left:5vh;
+
+    }
+
+    .homepage-header-decal-container img {
+
+      object-fit:scale-down;
+
+
+    }
+
+    .homepage-appt-button {
+      background-color:#008480;
+      color:white;
+      padding-left:.7em;
+      padding-right:.7em;
+      padding-top:.5em;
+      padding-bottom:.5em;
+      letter-spacing: .05em;
+      position:relative;
+      z-index: 1;
+      font-size:.6em;
+      display:block;
+      margin-top:3em;
+      width:125px;
+      text-align: center;
+      border-radius: 5px;
+
+
+
+
+
+    }
+
+    .homepage-appt-button:hover {
+      animation: change 1s 1;
+      background:black;
+      color:white;
+    }
+
+
+    .section-p-text {
+      font-size:.8em;
+      margin:auto;
+      margin-top:0;
+      width:90%;
+      font-weight: lighter;
+      color:grey;
+    }
+
   .sticky-schedule {
     right:10px;
     bottom:30px;
@@ -386,5 +518,6 @@ p.sticky-schedule-text {
 
     .second-section-item {
       margin-bottom:50px;
+      width:100%;
     }
   }

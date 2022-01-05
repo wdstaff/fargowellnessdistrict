@@ -14,13 +14,27 @@ a {
   color:black;
 }
 
-.img-header {
+.botox-titantron {
   display:block;
   margin:auto;
   height:50vh;
   width:80%;
   object-fit: cover;
+  background-color:rgba(0,132,128,1);
+
 }
+
+.img-header {
+  display:block;
+  margin:auto;
+  height:50vh;
+  background-color:rgba(0,132,128,1);
+  width:80%;
+  object-fit: cover;
+
+}
+
+
 
 
 
@@ -132,6 +146,11 @@ a {
   display:flex;
     margin-top:100px;
     margin-bottom:100px;
+}
+
+.right-section-img {
+  display:block;
+  margin:auto;
 }
 
 .above-img-text {
@@ -249,158 +268,6 @@ a {
   background-color: #ccc;
 }
 
-/* Fourth Section Provider Section */
-
-.carouselins {
-  background:rgba(0, 0, 0, 0);
-  position: relative;
-  top:-30vh;
-  margin:0;
-  z-index: 0;
-}
-
-.fourth-section {
-  margin-top:15vh;
-  text-align:center;
-  padding-top:7vh;
-  padding-bottom:25vh;
-  background: rgba(0,132,128,.2);
-}
-
-.fourth-header {
-  margin-bottom:5vh;
-}
-
-/* BOTOX SPECIALS SECTION CODE */
-
-.botox-special-section {
-  margin-top:-20vh;
-  display:flex;
-    margin-bottom:50vh;
-
-}
-
-.botox-special-section-img {
-  display:block;
-  width:60%;
-  height:50vh;
-  object-fit:scale-down;
-}
-
-.botox-special-section-text-wrapper {
-  padding-right:5%;
-}
-
-.botox-special-section-heading {
-
-  font-size:2em;
-
-}
-
-.botox-special-section-text {
-
-  font-size:1.5em;
-
-}
-
-.terms-of-service-botox {
-  list-style-type: disc;
-  font-size:1.3em;
-}
-
-.botox-special-section-button {
-  background-color:#008480;
-  color:white;
-  padding-left:.7em;
-  padding-right:.7em;
-  padding-top:.5em;
-  padding-bottom:.5em;
-  letter-spacing: .05em;
-  z-index: 1;
-  font-size:.9em;
-  display:block;
-  margin-top:3em;
-  width:170px;
-  text-align: center;
-  margin-right:auto;
-  margin-left:auto;
-
-
-
-
-
-}
-
-.botox-special-section-button:hover {
-  animation: change 1s 1;
-  background:black;
-  color:white;
-}
-
-
-/* Fifth Section All Treatments */
-
-.fifth-section {
-  display:flex;
-  margin:auto;
-  position:relative;
-  text-align: center;
-  top:-20vh;
-  height:370px;
-  margin-bottom:-10vh;
-}
-
-.fifth-section-img {
-  width:60%;
-  object-fit:cover;
-
-}
-
-.fifth-section-color-block {
-  width:40%;
-  background-color:rgba(0, 132 ,128 ,1)
-}
-
-.sneaky-img-container {
-  position:absolute;
-  text-align: center;
-  width:100%;
-  left:0;
-  right:0;
-  margin:0;
-  top:30%;
-  bottom:0;
-}
-
-.sneaky-img-text {
-  font-size:2.5em;
-  font-weight:bold;
-  letter-spacing: .05em;
-  color:white;
-}
-
-.sneaky-img-button-left, .sneaky-img-button-right {
-    background-color:white;
-    color:black;
-    font-size:.9em;
-    padding-left:2.3em;
-    padding-right:2.3em;
-    padding-top:.7em;
-    padding-bottom:.7em;
-    border:1px black solid;
-}
-
-.sneaky-img-button-left {
-  display:inline;
-  margin-right:10px;
-
-}
-
-.sneaky-img-button-right {
-  display:inline;
-  margin-left:10px;
-}
-
 
 
 /* Funky Background */
@@ -419,18 +286,28 @@ a {
 
 
 
-@media only screen and (max-width:990px) {
+@media only screen and (max-width:1080px) {
 
 
+  .botox-titantron {
+    display:block;
+    margin:auto;
+    height:50vh;
+    width:100%;
+    object-fit: cover;
+    background-color:rgba(0,132,128,1);
 
-
-
+  }
 
   .img-header {
-  height:55vh;
-  object-fit: cover;
+    display:block;
+    margin:auto;
+    height:55vh;
+    background-color:rgba(0,132,128,1);
+    width:100%;
+    object-fit: cover;
 
-}
+  }
 
   .first-section {
     display:block;

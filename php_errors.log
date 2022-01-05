@@ -1,0 +1,5 @@
+[28-Dec-2021 02:18:43 UTC] PHP Parse error:  syntax error, unexpected token "?" in C:\inetpub\wwwroot\botox.php on line 152
+[28-Dec-2021 04:40:45 UTC] PHP Warning:  include(wdheader2.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\metabolic-detox.php on line 22
+[28-Dec-2021 04:40:45 UTC] PHP Warning:  include(): Failed opening 'wdheader2.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\metabolic-detox.php on line 22
+[28-Dec-2021 04:40:45 UTC] PHP Warning:  include(wdfooter2.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\metabolic-detox.php on line 166
+[28-Dec-2021 04:40:45 UTC] PHP Warning:  include(): Failed opening 'wdfooter2.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\metabolic-detox.php on line 166

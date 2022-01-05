@@ -114,27 +114,22 @@
             <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
           </div>
 
-          <button class="accordion">Why choose Wellness District Aesthetics among the countless Fargo Moorhead area aesthetics practices?</button>
+          <button class="accordion">Why choose Wellness District?</button>
           <div class="panel">
-            <p>For starters, our practice is the #1 BOTOX provider in Santa Monica, CA. Nationally, we are ranked in the top 10 for Botox and Juvederm by their manufacturer Allergan.</p>
-            <p>We specialize in injectables, and so our providers administer a higher volume of Botox treatments. In fact, we inject more in two weeks than most high performing dermatologists and plastic surgeons do in an entire year! Additionally, several of our Aesthetic Injection Specialists are National Trainers for Allergan. Our industry accolades are mirrored in our five star reviews and real patient results, clearly demonstrating why they continue to see us instead of choosing one of countless competing aesthetics practices across Los Angeles.</p>
+            <p>For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox treatments continue to see us.</p>
           </div>
 
           <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
           <div class="panel">
-            <p>Yes, we accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
+            <p>Of course, we offer the Botox Club which patients can save $2/unit on their Botox treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, CoolSculpting Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
           </div>
 
-          <button class="accordion">What about downtime, results and follow-up appointments for a wrinkle relaxer treatment?</button>
+          <button class="accordion">What about downtime, results and follow-up appointments for a Botox treatments?</button>
           <div class="panel">
-            <p>The best part about a wrinkle relaxer treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. Results vary but are usually visible by day seven. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
-            <p>After three or four months, you will need a new treatment and can return to Skin by Lovely to maintain your fresh, youthful look.</p>
+            <p>The best part about a Botox treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. We do recommend that you do not lie down for four hours following the treatment. We also recommend you do not work out the rest of the day. Results vary but are usually visible by day seven. Complete results can be seen by day 14. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
+            <p>After three or four months, you will need a new treatment and can return to Wellness District to maintain your fresh, youthful look.</p>
           </div>
 
-          <button class="accordion">What is the pre & post care?</button>
-          <div class="panel">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
           <script>
                     var acc = document.getElementsByClassName("accordion");
                     var i;
@@ -153,44 +148,9 @@
                   </script>
 
     </section>
-    <section class="fourth-section">
-      <h3 class="fourth-header">Meet our amazing team of aesthetic providers</h3>
-      <a class="appt-button testbutton" href="#">Meet the Providers</a>
-
-    </section>
-    <div class="carouselins"><?php include 'carousel.php' ?></div>
-    <section id="new-patient-special" class="botox-special-section">
-
-      <img src="pics/wd60.jpg" class="botox-special-section-img">
-      <div class="botox-special-section-text-wrapper">
-          <h4 class="botox-special-section-heading">New Patient Botox Special</h4>
-            <p class="botox-special-section-text">We are so confident in our techniques and precise placement that we offer patients their first Botox® treatment for $150 (up to 35 units).</p>
-              <ol class="terms-of-service-botox">
-                <li>1 Treatment Of Botox® Up To 35 Units</li>
-                <li>Additional Units $13 Per Unit.</li>
-                <li>Unused Units Will Expire 1 Month After Injection</li>
-                <li>1st Time Wellness District Patients Only</li>
-
-              </ol>
-
-              <a class="botox-special-section-button " href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
-
-
-      </div>
-
-
-    </section>
-
-
-    <section class="fifth-section">
-      <img class="fifth-section-img" src="pics/wd173.jpg">
-      <div class="fifth-section-color-block"></div>
-      <div class="sneaky-img-container">
-      <p class="sneaky-img-text">View all our treatments</p>
-      <a class="sneaky-img-button-left appt-button" href="#">Learn more</a>
-      <a class="sneaky-img-button-right appt-button" href="#">Book online</a>
-    </div>
-    </section>
+    <?php include 'staff-carousel.php' ?>
+    <?php include 'new-patient-special.php' ?>
+    <?php include 'all-treatments.php' ?>
   </main>
 </body>
 <?php include 'wdfooter.php' ?>

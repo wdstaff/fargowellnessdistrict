@@ -20,7 +20,7 @@ a {
 .top-header {
   display:flex;
   justify-content:space-around;
-  height:5vh;
+  max-height:5vh;
   background-color:#008480;
   line-height:5vh;
   color:white;
@@ -44,7 +44,7 @@ a.top-phone-number:hover {
 .bottom-header {
   display:flex;
   justify-content:space-around;
-  height:15vh;
+  max-height:15vh;
   background-color:white;
   line-height:15vh;
   align-items: center;
@@ -57,6 +57,7 @@ a.top-phone-number:hover {
   padding:10px;
   padding-bottom:0px;
   box-shadow:5px 10px 8px;
+  z-index:1;
 
 }
 
@@ -192,7 +193,7 @@ a.top-phone-number:hover {
 }
 }
 
-@media only screen and (max-width:990px) {
+@media only screen and (max-width:1080px) {
 
   .logo {
     height:5vh;

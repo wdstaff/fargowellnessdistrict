@@ -1,23 +1,26 @@
-if (window.innerWidth > 980) {
+if (window.innerWidth > 1080) {
   document.getElementById('treatment-arrow').style.display = "none";
   document.getElementById('company-arrow').style.display = "none";
-  document.getElementById('resource-arrow').style.display ="none";
+  document.getElementById('resource-arrow').style.display = 'none';
 }
 
 function openmenu() {
-  if (document.getElementById("extra-menu").style.display == "" & window.innerWidth > 980) {
+  if (document.getElementById("extra-menu").style.display == "" & window.innerWidth > 1080) {
   document.getElementById("extra-menu").style.display = "flex";
   document.getElementById('hamburger').innerHTML = "<p class='menuicon'>&times</p><p class='hamtext'>Menu</p>";
+  document.getElementById('homepage-header-decal-container').style.display = "none";
 }
 
-else if (document.getElementById("extra-menu").style.display == "" & window.innerWidth < 980) {
+else if (document.getElementById("extra-menu").style.display == "" & window.innerWidth <= 1080) {
 document.getElementById("extra-menu").style.display = "block";
 document.getElementById('hamburger').innerHTML = "<p class='menuicon'>&times</p><p class='hamtext'>Menu</p>";
+  document.getElementById('homepage-header-decal-container').style.display = "none";
 }
 
 else {
     document.getElementById("extra-menu").style.display = "";
     document.getElementById('hamburger').innerHTML = "<span id='menuicon'></span><p class='hamtext'>Menu</p>";
+      document.getElementById('homepage-header-decal-container').style.display = "flex";
   }
 
 

@@ -16,18 +16,21 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-    <container class="titantron">
-      <a href="https://www.fargowellnessdistrict.com/botox.php"><img src="pics/slideshow/botox-mobile.jpg"></a>
-    </container>
+  <div class="homepage-titantron">
+  <img class="homepage-header" src="pics/frontpage.jpg" />
+    <div id="homepage-header-decal-container" class="homepage-header-decal-container">
+      <img class="homepage-header-decal" src="pics/top500.png" />
+  <a class="homepage-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+    </div>
+</div>
 
     <section class="first section w3-container w3-center w3-animate-bottom">
-      <h1 class="section-heading-text">Our Mission</h1>
-      <p class="section-p-text">Help Every Patient Feel Comfortable In Their Skin</p>
+      <p class="section-p-text">ALLERGAN HANDPICKS THE “TOP 500” AESTHETIC PRACTICES IN THE USA. THE AWARD IS AMONG THE HIGHEST RECOGNITIONS AN AESTHETIC PRACTICE CAN ACHIEVE. THE TOP 500 IN THE NATION AWARD PLACES WELLNESS DISTRICT IN THE TOP 1% OF ALL PRACTICES ACROSS THE NATION! IT IS BECAUSE OF OUR AMAZING PATIENTS AND STAFF THAT WE ARE ABLE TO ACHIEVE THIS HONOR!</p>
     </section>
 
     <section class="second section">
-      <div class="second-section-item item1"><img class="pink-pic" src="pics/icon1.png"><h2 class="item-header">Injectables</h2><p class="item-p">Relax wrinkles with Botox and restore facial volume with signature dermal filler treatments like our one of a kind mid face rejuvanation.</p></div>
-      <div class="second-section-item item2"><img class="pink-pic" src="pics/icon2.png"><h2 class="item-header">Weight Loss</h2><p class="item-p">Improve your overall health with our medical weight loss nutritional program, over 10 years of experience.</p></div>
+      <div class="second-section-item item1"><a href="botox.php"><img class="pink-pic" src="pics/icon1.png"></a><h2 class="item-header">Injectables</h2><p class="item-p">Relax wrinkles with Botox and restore facial volume with signature dermal filler treatments like our one of a kind mid face rejuvanation.</p></div>
+      <div class="second-section-item item2"><a href="weight-loss-services.php"><img class="pink-pic" src="pics/icon2.png"></a><h2 class="item-header">Weight Loss</h2><p class="item-p">Improve your overall health with our medical weight loss nutritional program, over 10 years of experience.</p></div>
       <div class="second-section-item item3"><img class="pink-pic" src="pics/icon3.png"><h2 class="item-header">Body Contouring</h2><p class="item-p">Get the newest body contouring technology at Fargo Moorhead's first and only CoolSculpting Elite Clinic. </p></div>
     </section>
     <div class="learncont"><a class="second-section-link" href="#">Learn More</a></div>
@@ -70,7 +73,6 @@
 </section>
 </div>
 </main>
-<script src="scripts/index2.js"></script>
 <div class="sticky-schedule">
   <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><i class="far fa-calendar-alt line calendar"></i></a>
   <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><p class="sticky-schedule-text">Book a consultation</p></a>

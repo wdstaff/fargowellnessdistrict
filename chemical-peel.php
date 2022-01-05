@@ -3,7 +3,7 @@
 
 <head>
   <title>Chemical Peel</title>
-  <meta name="description" content="Wellness District Aesthetics Has The Top Injectors In The Fargo Moorhead Area. Let Us Help Give You A Youthful Rejuvenated Look" />
+  <meta name="description" content="A chemical peel is a solution applied to the surface of your skin. They are used to brighten a dull facial complexion, and to treat several skin conditions." />
   <link rel="stylesheet" type="text/css" href="css/chemical-peel.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -21,15 +21,41 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/fillerfront.jpg" />
+  <div class="botox-titantron">
+  <img class="img-header" src="pics/wd212.jpg" />
+</div>
 
   <section class="first-section">
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Cheek Enhancement & Revolumization</h1>
+        <h1 class="page-header">Chemical Peels Fargo</h1>
 
-        <p class="section-text">The goal of cheek enhancement with dermal fillers is to add volume or lift the cheeks. As we age, we gradually lose facial volume. Our mid face and lower face is usually where this is seen most with “jowls”, sagginess, and deep nasolabial folds sometimes appearing. By injecting a hyaluronic acid based dermal filler such as Restylane Contour, Restylane Lyft, Juvederm Voluma, or Radiesse along the cheekbones and in the temples, we can help lift the entire lower face. The results are diminished jowling and softer nasolabial folds and a revolumization of the cheek area. This area can also be treated with Sculptra® Aesthetic, a poly-l-lactic acid that helps stimulate your skin’s own natural collagen production over time.
+        <p class="section-text">A chemical peel is a solution applied to the surface of your skin. They are used to brighten a dull facial complexion, and to treat several skin conditions such as:
+        </p>
+
+        <li class="section-text section-text-li">Fine lines and wrinkles</li>
+        <li class="section-text section-text-li">Rough texture</li>
+        <li class="section-text section-text-li">Uneven tone</li>
+        <li class="section-text section-text-li">Lighter Acne scars</li>
+        <li class="section-text section-text-li">Irregular</li>
+        <li class="section-text section-text-li">Sun spots</li>
+
+        <p class="section-text">The chemical peel exfoliates your skin using a specific solution of chemicals. Peels come in different strengths, targeting mild to moderate skin issues. Our experienced team will determine which peel will fit your goals and skin type.
+        </p>
+
+        <h3>At Wellness District we use the exceptional line of peels from SkinMedica®.
+        </h3>
+
+        <li class="section-text section-text-li chemp"><h2 class="midline-header">Illuminize Peel:</h2> This is the gentlest and lightest-strength peel. Like all of the peels, it has minimal downtime. It treats mild imperfections, including fine lines and rough texture. Because it is so gentle, it can be a great option for first-time peel patients who want to get a feel for the treatment. The mild solution means you won't experience any peeling skin after the appointment, but you will still see a more even, uniform complexion.</li>
+
+        <li class="section-text section-text-li chemp"><h2 class="midline-header">Vitalize Peel:</h2> Creates radiant skin by treating mild skin imperfections. You will notice a difference after a single treatment alone, and ideal results can be reached with three to six treatment sessions.
+        </li>
+
+        <li class="section-text section-text-li chemp"><h2 class="midline-header">Rejuvenize Peel:</h2> This peel is great for treating moderate skin imperfections. Results include smooth skin, softened wrinkles and an overall healthy facial appearance. If you have a dark skin tone, we may suggest using one of the milder peels first, to establish how it is tolerated.. If your skin responds well to those, then the Rejuvenize peel will be an option.
+        </li>
+
+        <p class="section-text">When you visit our practice as a first time aesthetic patient, we will be able to suggest the most appropriate peel and number of peels needed based on your skin and your goals.
         </p>
         <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
 
@@ -38,29 +64,27 @@
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Recommended Treatments:</h3>
+      <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
-        <li>Juvederm</li>
-        <li>Radiesse</li>
-        <li>Restylane</li>
-        <li>Sculptra</li>
+        <li>Facials</li>
+        <li>Botox</li>
+        <li>Dermal Fillers</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Recommended Skincare:</h3>
+        <h3 class="heading-text">Skincare:</h3>
         <ol class="skincare">
-          <li>DEJ Night Cream</li>
-          <li>DEJ Face Cream</li>
-          <li>Restorative Skin Complex</li>
-          <li>TNS Advnaced+</li>
+          <li>Ceremide Treatment Cream</li>
+          <li>Dermal Repair Cream</li>
+          <li>Lytera 2.0</li>
         </ol>
         <hr>
         <h3 class="heading-text">Treatment areas:</h3>
         <ol class="treatment-area">
-            <li>Bunny Lines</li>
-            <li>Crow's Feet</li>
-            <li>Forehead Lines</li>
-            <li>Frown Lift</li>
-            <li>Glabella/Frown Lines</li>
+            <li>Face</li>
+            <li>Neck</li>
+            <li>Décolleté</li>
+            <li>Back</li>
+            <li>Other areas upon request</li>
             </ol>
 
 
@@ -74,11 +98,11 @@
   <section class="second-section">
     <div class="second-left-section">
       <div class="second-left-wrapper">
-        <h1 class="second-page-header">Natural Results</h1>
+        <h1 class="second-page-header">Real Botox Results</h1>
 
-        <p class="section-text">Our goal has remained the same since we opened our doors back in 2009— natural-looking, gorgeously refreshed patient results.</p>
-        <p class="section-text">Have questions about cheek filler or want to book your complimentary consultation?</p>
-        <p class="section-text">Contact us or schedule your appointment below!</p>
+        <p class="section-text">Our goal has remained the same since we opened our doors back in 2016— natural-looking, gorgeously refreshed patient results.</p>
+        <p class="section-text">This beauty received Botox to smooth & relax fine lines & wrinkles around the crow’s feet, forehead & frown.</p>
+        <p class="section-text">You’ll also notice her entire eye area is now more open & ‘awake’— our expert Injection Specialists use a ‘brow lift’ technique to achieve this look.</p>
 
     </div>
   </div>
@@ -105,27 +129,22 @@
             <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
           </div>
 
-          <button class="accordion">Why choose Wellness District Aesthetics among the countless Fargo Moorhead area aesthetics practices?</button>
+          <button class="accordion">Why choose Wellness District?</button>
           <div class="panel">
-            <p>For starters, our practice is the #1 BOTOX provider in Santa Monica, CA. Nationally, we are ranked in the top 10 for Botox and Juvederm by their manufacturer Allergan.</p>
-            <p>We specialize in injectables, and so our providers administer a higher volume of Botox treatments. In fact, we inject more in two weeks than most high performing dermatologists and plastic surgeons do in an entire year! Additionally, several of our Aesthetic Injection Specialists are National Trainers for Allergan. Our industry accolades are mirrored in our five star reviews and real patient results, clearly demonstrating why they continue to see us instead of choosing one of countless competing aesthetics practices across Los Angeles.</p>
+            <p>For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox treatments continue to see us.</p>
           </div>
 
           <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
           <div class="panel">
-            <p>Yes, we accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
+            <p>Of course, we offer the Botox Club which patients can save $2/unit on their Botox treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, CoolSculpting Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
           </div>
 
-          <button class="accordion">What about downtime, results and follow-up appointments for a wrinkle relaxer treatment?</button>
+          <button class="accordion">What about downtime, results and follow-up appointments for a Botox treatments?</button>
           <div class="panel">
-            <p>The best part about a wrinkle relaxer treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. Results vary but are usually visible by day seven. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
-            <p>After three or four months, you will need a new treatment and can return to Skin by Lovely to maintain your fresh, youthful look.</p>
+            <p>The best part about a Botox treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. We do recommend that you do not lie down for four hours following the treatment. We also recommend you do not work out the rest of the day. Results vary but are usually visible by day seven. Complete results can be seen by day 14. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
+            <p>After three or four months, you will need a new treatment and can return to Wellness District to maintain your fresh, youthful look.</p>
           </div>
 
-          <button class="accordion">What is the pre & post care?</button>
-          <div class="panel">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
           <script>
                     var acc = document.getElementsByClassName("accordion");
                     var i;
@@ -144,23 +163,9 @@
                   </script>
 
     </section>
-    <section class="fourth-section">
-      <h3 class="fourth-header">Meet our amazing team of aesthetic providers</h3>
-      <a class="appt-button testbutton" href="#">Meet the Providers</a>
-
-    </section>
-    <div class="carouselins"><?php include 'carousel.php' ?></div>
-
-
-    <section class="fifth-section">
-      <img class="fifth-section-img" src="pics/wdtreatment.jpg">
-      <div class="fifth-section-color-block"></div>
-      <div class="sneaky-img-container">
-      <p class="sneaky-img-text">View all our treatments</p>
-      <a class="sneaky-img-button-left appt-button" href="#">Learn more</a>
-      <a class="sneaky-img-button-right appt-button" href="#">Book online</a>
-    </div>
-    </section>
+    <?php include 'staff-carousel.php' ?>
+    <?php include 'new-patient-special.php' ?>
+    <?php include 'all-treatments.php' ?>
   </main>
 </body>
 <?php include 'wdfooter.php' ?>

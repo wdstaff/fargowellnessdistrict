@@ -1,0 +1,156 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+/* BOTOX SPECIALS SECTION CODE */
+
+.botox-special-section {
+  width:100%;
+  margin:auto;
+  margin-top:-20vh;
+  display:flex;
+  margin-bottom:30vh;
+
+}
+
+.botox-special-section-img {
+  display:block;
+  max-width:50%;
+  margin:auto;
+  padding-right:5vh;
+  padding-left:5vh;
+  object-fit: scale-down;
+  height:40vh;
+}
+
+.botox-special-section-text-wrapper {
+  padding-right:5vh;
+}
+
+.botox-special-section-heading {
+
+  font-size:1.5em;
+
+}
+
+.botox-special-section-text {
+
+  font-size:1em;
+
+}
+
+.terms-of-service-botox {
+  list-style-type: disc;
+  font-size:1.3em;
+}
+
+.botox-special-section-button {
+  background-color:#008480;
+  color:white;
+  padding-left:.7em;
+  padding-right:.7em;
+  padding-top:.5em;
+  padding-bottom:.5em;
+  letter-spacing: .05em;
+  z-index: 1;
+  font-size:.9em;
+  display:block;
+  margin-top:3em;
+  width:170px;
+  text-align: center;
+
+
+
+
+
+}
+
+.botox-special-section-button:hover {
+  animation: change 1s 1;
+  background:black;
+  color:white;
+}
+
+@media only screen and (max-width:1080px) {
+
+  /* BOTOX SPECIALS SECTION CODE */
+
+  .botox-special-section {
+    margin-top:-40vh;
+    display:flex;
+    flex-direction:column;
+    margin-bottom:10vh;
+
+
+  }
+
+  .botox-special-section-img {
+    display:block;
+    max-width:100%;
+    height:50vh;
+    margin:auto;
+    padding:0;
+  }
+
+  .botox-special-section-text-wrapper {
+    padding-right:0;
+  }
+
+  .botox-special-section-heading {
+
+    font-size:2em;
+    text-align:center;
+    margin-top:1em;
+
+  }
+
+  .botox-special-section-text {
+
+    font-size:1em;
+    text-align:center;
+
+
+  }
+
+  .terms-of-service-botox {
+    list-style-type: disc;
+    font-size:0.9em;
+  }
+
+  .botox-special-section-button {
+    background-color:#008480;
+    color:white;
+    padding-left:.7em;
+    padding-right:.7em;
+    padding-top:.5em;
+    padding-bottom:.5em;
+    letter-spacing: .05em;
+    z-index: 1;
+    font-size:.9em;
+    display:block;
+    margin-top:3em;
+    width:200px;
+    text-align: center;
+    margin-right:auto;
+    margin-left:auto;
+
+
+
+
+
+  }
+
+  .botox-special-section-button:hover {
+    animation: change 1s 1;
+    background:black;
+    color:white;
+  }
+
+}

@@ -1,0 +1,88 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+/* Fifth Section All Treatments */
+
+.fifth-section {
+  display:flex;
+  margin:auto;
+  position:relative;
+  text-align: center;
+  height:370px;
+  margin-bottom:20vh;
+}
+
+.fifth-section-img {
+  width:60%;
+  object-fit:cover;
+
+}
+
+.fifth-section-color-block {
+  width:40%;
+  background-color:rgba(0, 132 ,128 ,1)
+}
+
+.sneaky-img-container {
+  position:absolute;
+  text-align: center;
+  width:100%;
+  left:0;
+  right:0;
+  margin:0;
+  top:30%;
+  bottom:0;
+}
+
+.sneaky-img-text {
+  font-size:2.5em;
+  font-weight:bold;
+  letter-spacing: .05em;
+  color:white;
+}
+
+.sneaky-img-button-left, .sneaky-img-button-right {
+    background-color:white;
+    color:black;
+    font-size:.9em;
+    padding-left:2.3em;
+    padding-right:2.3em;
+    padding-top:.7em;
+    padding-bottom:.7em;
+    border:1px black solid;
+}
+
+.sneaky-img-button-left {
+  display:inline;
+  margin-right:10px;
+
+}
+
+.sneaky-img-button-right {
+  display:inline;
+  margin-left:10px;
+}
+
+@media only screen and (max-width:1080px) {
+
+  .fifth-section {
+
+    margin-bottom:10vh;
+
+  }
+
+
+}
