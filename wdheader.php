@@ -14,7 +14,7 @@
 <body>
 <header id="top-header" class="top-header">
   <div class="wrapper"><a class="top-phone-number" href="tel:7012053088"><i class="fas fa-phone line"> 701.205.3088</i></a></div>
-  <div class="wrapper"><a class="top-phone-number" href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank">Skincare & Make-Up: 25% Off</a></div>
+  <div class="wrapper"><a class="top-phone-number" href="monthly-specials.php" target="_blank">$150 Botox Treatment For First Time Wellness District Patients!</a></div>
   <div class="wrapper"><a class="top-phone-number" href="mailto:staff@fargowellnessdistrict.com"><i class="fas fa-envelope"></i></a></div>
 </header>
 <header id="bottom-header" class="bottom-header">
@@ -28,17 +28,17 @@
                                   <p id='treatmenttest' class="treatment menu-subheader-text"><a href="botox.php">Botox</a></p>
                                   <p class="treatment menu-subheader-text"><a href="filler.php">Dermal Fillers</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coolsculpting.php">CoolSculpting</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="weight-loss-services.php">Medical Weight Loss</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="facials.php">Facials</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="procell.php">Procell</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="chemical-peel.php">Chemical Peels</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="diamond-glow.php">Diamond Glow</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="kybella.php">Kybella</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="weight-loss-services.php">Weight Loss Services</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Facials</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Procell</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Chemical Peels</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Diamond Glow</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Kybella</a></p>
                                 </div>
     <div class="extra-menu-items"><p class="menu-header-text">COMPANY<a onClick="companymenu()"><i id="company-arrow" class="fas fa-angle-right company-arrow" style="font-size:2em;float:right;"></i><a/></p>
-                                  <p id="companytest" class="company menu-subheader-text"><a href="#">About Us</a></p>
+                                  <p id="companytest" class="company menu-subheader-text"><a href="coming-soon.php">About Us</a></p>
                                   <p class="company menu-subheader-text"><a href="meet-the-team.php">Meet the Team</a></p>
-                                  <p class="company menu-subheader-text"><a href="#">Careers</a></p>
+                                  <p class="company menu-subheader-text"><a href="coming-soon.php">Careers</a></p>
                                   </div>
   </div>
   <div class="item-wrapper">

@@ -1,0 +1,367 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+.botox-titantron {
+  display:block;
+  margin:auto;
+  height:50vh;
+  width:80%;
+  object-fit: cover;
+  background-color:rgba(0,132,128,1);
+
+}
+
+.img-header {
+  display:block;
+  margin:auto;
+  height:50vh;
+  background-color:rgba(0,132,128,1);
+  width:80%;
+  object-fit: cover;
+
+}
+
+
+
+
+
+.first-section {
+  display:flex;
+    margin-top:100px;
+}
+
+.right-section {
+  width:40%;
+}
+
+.left-section {
+  width:60%;
+  font-size:.9em;
+  letter-spacing:.05em;
+  line-height:2em;
+  margin-bottom:7vh;
+}
+
+.left-wrapper {
+  margin-left:15%;
+  margin-right:5%;
+
+}
+
+.page-header {
+
+}
+
+.midline-header {
+  display:inline;
+  font-size: 1.2em;
+  font-weight:bold;
+}
+
+
+.section-text-li {
+  padding-left:2.5em;
+  text-indent:-1.5em;
+}
+
+
+
+
+
+
+
+/* card css */
+
+.right-wrapper {
+  /* Add shadows to create the "card" effect */
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  margin-right:20%;
+  margin-left:10%;
+  min-width: 300px;
+
+}
+
+/* Add some padding inside the card container */
+.container-spec {
+  padding: 2px 16px;
+  line-height: 1.5em;
+  background-image: linear-gradient(to bottom right,  rgba(255,255,255,.7),  rgba(255,255,255,.7), rgba(255,255,255,.7), rgba(255,255,255,.7), rgba(0,132,128,1) );
+}
+
+.right-wrapper .heading-text {
+  font-size:1.5em;
+}
+
+.right-wrapper li {
+  font-size:.9em;
+}
+
+.weight-loss-appt-button {
+  background-color:#008480;
+  color:white;
+  padding-left:.7em;
+  padding-right:.7em;
+  padding-top:.5em;
+  padding-bottom:.5em;
+  letter-spacing: .05em;
+  position:relative;
+  z-index: 1;
+  font-size:.9em;
+  display:block;
+  margin-top:3em;
+  width:150px;
+  text-align: center;
+
+
+
+
+
+}
+
+.weight-loss-appt-button:hover {
+  animation: change 1s 1;
+  background:black;
+  color:white;
+}
+
+
+
+/* 2nd section */
+
+.second-section {
+  display:flex;
+    margin-top:100px;
+    margin-bottom:100px;
+}
+
+.right-section-img {
+  display:block;
+  margin:auto;
+}
+
+.above-img-text {
+  font-size:.9em;
+  letter-spacing: .05em;
+  text-align: center;
+}
+
+.under-img-text {
+  font-size:.9em;
+  letter-spacing:.05em;
+  text-align:center;
+}
+
+.second-left-section {
+  width:50%;
+}
+
+.second-right-section {
+  width:50%;
+}
+
+.second-left-section {
+  width:60%;
+  font-size:.9em;
+  letter-spacing:.05em;
+  line-height:2em;
+}
+
+.second-left-wrapper {
+  margin-left:15%;
+  margin-right:5%;
+
+}
+
+.second-page-header {
+  margin-bottom:4vh;
+}
+
+.second-right-wrapper {
+  margin-right:15%;
+  margin-left:5%;
+}
+
+/* Testimonials Section */
+
+.testimonials-section {
+  text-align: center;
+  display:block;
+}
+
+.testbutton {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.testbuttonlrg {
+  width:200px;
+}
+
+/* FAQ SECTION */
+
+.third-section {
+  margin-top:100px;
+  width:85%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:100px;
+}
+
+.third-section button {
+  font-size:.7em;
+  font-weight: bold;
+  border-bottom:1px grey solid;
+}
+
+.third-section p {
+  font-size:.7em;
+}
+
+.accordion {
+  background-color:white;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+.third-section .active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.third-section .active, .accordion:hover {
+  background-color: #ccc;
+}
+
+
+
+/* Funky Background */
+
+.funky-background {
+  background-image:url('/pics/wd-pattern.jpg');
+
+}
+
+.desktop-move-button {
+  display:none;
+}
+
+
+
+
+
+
+@media only screen and (max-width:1080px) {
+
+
+  .botox-titantron {
+    display:block;
+    margin:auto;
+    height:50vh;
+    width:100%;
+    object-fit: cover;
+    background-color:rgba(0,132,128,1);
+
+  }
+
+  .img-header {
+    display:block;
+    margin:auto;
+    height:55vh;
+    background-color:rgba(0,132,128,1);
+    width:100%;
+    object-fit: cover;
+
+  }
+
+  .first-section {
+    display:block;
+    margin-top:50px;
+  }
+
+  .right-section {
+    width:100%;
+  }
+
+  .left-section {
+    width:100%;
+
+  }
+
+  .page-header {
+      font-size:1.5em;
+      font-weight: bold;
+      margin-bottom:10px;
+  }
+
+  .left-wrapper {
+    margin-left:5%;
+    margin-right:5%;
+
+  }
+
+  .second-section {
+    display:block;
+    margin-top:50px;
+  }
+
+  .second-left-section {
+    width:100%;
+  }
+
+  .second-left-wrapper {
+    margin-right:5%;
+    margin-left:5%;
+  }
+
+  .second-page-header {
+    font-size: 1.5em;
+
+  }
+
+  .second-right-section {
+    width:100%;
+    margin-top:50px;
+
+  }
+
+  .second-right-wrapper {
+    text-align:center;
+    margin-right:5%;
+    margin-left:5%;
+  }

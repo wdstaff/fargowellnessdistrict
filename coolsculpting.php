@@ -63,7 +63,7 @@
         </li>
 
         <p class="section-text">Book your free consultation to learn more about pricing, your custom treatment plan and more!</p>
-        <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+        <a class="coolsculpting-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
 
     </div>
   </div>
@@ -109,16 +109,15 @@
       <div class="second-left-wrapper">
         <h1 class="second-page-header">CoolSculpting Results</h1>
 
-        <p class="section-text">Our goal has remained the same since we opened our doors back in 2016— natural-looking, gorgeously refreshed patient results.</p>
-        <p class="section-text">This beauty received Botox to smooth & relax fine lines & wrinkles around the crow’s feet, forehead & frown.</p>
-        <p class="section-text">You’ll also notice her entire eye area is now more open & ‘awake’— our expert Injection Specialists use a ‘brow lift’ technique to achieve this look.</p>
+        <p class="section-text">Developed by renowned scientists of Harvard University and Massachusetts General Hospital, the FDA-cleared procedure known as CoolSculpting uses patented cooling technology to eliminate fat cells, without surgery, and little to no downtime.</p>
+        <p class="section-text">The reduction in fat cells in the treated area provides noticeable, and lasting results to help you look and feel your very best.</p>
 
     </div>
   </div>
   <div class="second-right-section">
     <div class="second-right-wrapper">
       <h4 class="above-img-text">BEFORE • AFTER</h3>
-      <img class="right-section-img" src="pics/botoxbf1.jpg">
+      <img class="right-section-img" src="pics/CS1.jpg">
       <h4 class="under-img-text">Results may vary</h4>
     </div>
   </div>
@@ -132,46 +131,7 @@
   </section>
   <a class="appt-button testbutton testbuttonlrg" href="#">Book an appointment</a>
 </div>
-  <section class="third-section faq-section">
-              <button class="accordion">What is BOTOX Cosmetic?</button>
-          <div class="panel">
-            <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
-          </div>
 
-          <button class="accordion">Why choose Wellness District?</button>
-          <div class="panel">
-            <p>For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox treatments continue to see us.</p>
-          </div>
-
-          <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
-          <div class="panel">
-            <p>Of course, we offer the Botox Club which patients can save $2/unit on their Botox treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, CoolSculpting Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
-          </div>
-
-          <button class="accordion">What about downtime, results and follow-up appointments for a Botox treatments?</button>
-          <div class="panel">
-            <p>The best part about a Botox treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. We do recommend that you do not lie down for four hours following the treatment. We also recommend you do not work out the rest of the day. Results vary but are usually visible by day seven. Complete results can be seen by day 14. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
-            <p>After three or four months, you will need a new treatment and can return to Wellness District to maintain your fresh, youthful look.</p>
-          </div>
-
-          <script>
-                    var acc = document.getElementsByClassName("accordion");
-                    var i;
-
-                    for (i = 0; i < acc.length; i++) {
-                    acc[i].addEventListener("click", function() {
-                      this.classList.toggle("active");
-                      var panel = this.nextElementSibling;
-                      if (panel.style.maxHeight) {
-                        panel.style.maxHeight = null;
-                      } else {
-                        panel.style.maxHeight = panel.scrollHeight + "px";
-                      }
-                    });
-                    }
-                  </script>
-
-    </section>
     <?php include 'staff-carousel.php' ?>
     <?php include 'new-patient-special.php' ?>
     <?php include 'all-treatments.php' ?>

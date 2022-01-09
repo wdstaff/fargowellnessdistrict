@@ -84,6 +84,32 @@ a {
   margin-top:20px;
 }
 
+.bottom-input {
+  margin-bottom:20px;
+  margin-top:20px;
+  color white;
+
+}
+
+input#date.bottom-input {
+  color:white;
+}
+
+/* change date placholder */
+
+input[type=date] {
+  text-align:right;
+  color:white;
+}
+
+input[type='date']:before {
+  content:attr(placeholder) !important;
+}
+
+input[type='date']:focus:before {
+  color:#007a9d;
+}
+
 input#formsubmit.modal-input-button {
   border:1px solid white;
   margin-top:8vh;
@@ -520,4 +546,11 @@ p.sticky-schedule-text {
       margin-bottom:50px;
       width:100%;
     }
+
+    /* change date placholder */
+
+    input[type=date] {
+      text-align:center;
+    }
+
   }

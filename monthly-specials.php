@@ -21,44 +21,11 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/december.jpg" />
+  <img class="img-header" src="pics/janspec.jpg" />
 
-
-  </section>
-
-    <section id="new-patient-special" class="botox-special-section">
-
-      <img src="pics/botoximg.png" class="botox-special-section-img">
-      <div class="botox-special-section-text-wrapper">
-          <h4 class="botox-special-section-heading">Botox special</h4>
-            <p class="botox-special-section-text">We are so confident in our techniques and precise placement that we offer patients their first Botox® treatment for $150 (up to 35 units).</p>
-              <ol class="terms-of-service-botox">
-                <li>1 Treatment Of Botox® Up To 35 Units</li>
-                <li>Additional Units $13 Per Unit.</li>
-                <li>Unused Units Will Expire 1 Month After Injection</li>
-                <li>Injection Must Be Done M-TH Between 9am - 3:30pm</li>
-                <li>1st Time Wellness District Patients Only</li>
-
-              </ol>
-
-              <a class="botox-special-section-button " href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
-
-
-      </div>
-
-
-    </section>
-
-
-    <section class="fifth-section">
-      <img class="fifth-section-img" src="pics/wdtreatment.jpg">
-      <div class="fifth-section-color-block"></div>
-      <div class="sneaky-img-container">
-      <p class="sneaky-img-text">View all our treatments</p>
-      <a class="sneaky-img-button-left appt-button" href="#">Learn more</a>
-      <a class="sneaky-img-button-right appt-button" href="#">Book online</a>
-    </div>
-    </section>
+  <?php include 'staff-carousel.php' ?>
+  <?php include 'new-patient-special.php' ?>
+  <?php include 'all-treatments.php' ?>
   </main>
 </body>
 <?php include 'wdfooter.php' ?>

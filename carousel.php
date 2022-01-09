@@ -166,7 +166,7 @@
 							</div>
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/casey.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/casey-mobile.jpg);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>

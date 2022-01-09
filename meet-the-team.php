@@ -74,7 +74,7 @@
       </div>
 
       <div class="meet-the-team-card">
-      <img src="pics/emp/alecia.jpg" alt="Avatar" style="width:100%">
+      <img src="pics/emp/kt-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
       <h4><b>Katie Bittner</b></h4>
       <p>RN</p>

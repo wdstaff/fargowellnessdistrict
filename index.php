@@ -31,26 +31,21 @@
     <section class="second section">
       <div class="second-section-item item1"><a href="botox.php"><img class="pink-pic" src="pics/icon1.png"></a><h2 class="item-header">Injectables</h2><p class="item-p">Relax wrinkles with Botox and restore facial volume with signature dermal filler treatments like our one of a kind mid face rejuvanation.</p></div>
       <div class="second-section-item item2"><a href="weight-loss-services.php"><img class="pink-pic" src="pics/icon2.png"></a><h2 class="item-header">Weight Loss</h2><p class="item-p">Improve your overall health with our medical weight loss nutritional program, over 10 years of experience.</p></div>
-      <div class="second-section-item item3"><img class="pink-pic" src="pics/icon3.png"><h2 class="item-header">Body Contouring</h2><p class="item-p">Get the newest body contouring technology at Fargo Moorhead's first and only CoolSculpting Elite Clinic. </p></div>
+      <div class="second-section-item item3"><a href="coolsculpting.php"><img class="pink-pic" src="pics/icon4.jpg"></a><h2 class="item-header">Body Contouring</h2><p class="item-p">Get the newest body contouring technology at Fargo Moorhead's first and only CoolSculpting Elite Clinic. </p></div>
     </section>
-    <div class="learncont"><a class="second-section-link" href="#">Learn More</a></div>
+    <div class="learncont"><a class="second-section-link" href="aesthetic-services.php">Learn More</a></div>
 
     <section class="third section">
       <h3 class="third-header">Check Out Our Monthly Specials</h3>
       <a class="index-button" href="monthly-specials.php">Monthly Specials</a>
     </section>
 
-    <section class="fourth section">
-      <h3 class="fourth-header">Meet Our Amazing Team</h3>
-      <a class="index-button" href="#">Meet the team</a>
-
-    </section>
-    <div class="carouselins"><?php include 'carousel.php' ?></div>
+  <?php include 'staff-carousel.php' ?>
 
 <script src="scripts/vip-form.js"></script>
  <div id="myModal" class="modalvip">
   <!-- Modal content -->
-  <form class="vipform w3-container w3-center w3-animate-top">
+  <form class="vipform w3-container w3-center w3-animate-top" action="action.php" method="post">
     <span class="close" onclick="closeform()">&times</span>
     <div class="form-content-wrapper">
     <p class="form-header-text">Feel Healthy in Your Skin</p>
@@ -58,6 +53,7 @@
 
     <input type="text" id="name" name="name" placeholder="Your Name"><br>
     <input type="email" id="email" name="email" placeholder="Your Email"><br>
+    <input class="bottom-input" type="date" id="date" name="date" placeholder="Date of Birth"><br>
     <input class="modal-input-button" id="formsubmit" type="submit" value="Sign Up">
 </form>
 </div>

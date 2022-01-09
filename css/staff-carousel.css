@@ -31,8 +31,38 @@ img {
   margin-bottom:5vh;
 }
 
+.appt-button {
+  background-color:#008480;
+  color:white;
+  padding-left:.7em;
+  padding-right:.7em;
+  padding-top:.5em;
+  padding-bottom:.5em;
+  letter-spacing: .05em;
+  position:relative;
+  z-index: 1;
+  font-size:.9em;
+  display:block;
+  margin-top:3em;
+  width:150px;
+  text-align: center;
+  margin-left:auto;
+  margin-right:auto;
+
+
+
+
+
+}
+
+.appt-button:hover {
+  animation: change 1s 1;
+  background:black;
+  color:white;
+}
+
 @media only screen and (max-width:1080px) {
 
-  
+
 
 }

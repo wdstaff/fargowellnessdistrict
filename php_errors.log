@@ -3,3 +3,29 @@
 [28-Dec-2021 04:40:45 UTC] PHP Warning:  include(): Failed opening 'wdheader2.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\metabolic-detox.php on line 22
 [28-Dec-2021 04:40:45 UTC] PHP Warning:  include(wdfooter2.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\metabolic-detox.php on line 166
 [28-Dec-2021 04:40:45 UTC] PHP Warning:  include(): Failed opening 'wdfooter2.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\metabolic-detox.php on line 166
+[06-Jan-2022 00:30:48 UTC] PHP Warning:  include(banner.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\contact-us.php on line 15
+[06-Jan-2022 00:30:48 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\contact-us.php on line 15
+[08-Jan-2022 05:49:17 UTC] PHP Warning:  Undefined array key "name" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:49:17 UTC] PHP Warning:  Undefined array key "date" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:49:17 UTC] PHP Warning:  Undefined array key "email" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:49:17 UTC] PHP Warning:  Undefined array key "tel" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:49:17 UTC] PHP Warning:  Undefined array key "subject" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:49:19 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\inetpub\wwwroot\action.php on line 10
+[08-Jan-2022 05:50:09 UTC] PHP Warning:  Undefined array key "name" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:09 UTC] PHP Warning:  Undefined array key "date" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:09 UTC] PHP Warning:  Undefined array key "email" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:09 UTC] PHP Warning:  Undefined array key "tel" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:09 UTC] PHP Warning:  Undefined array key "subject" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:10 UTC] PHP Warning:  Undefined array key "name" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:10 UTC] PHP Warning:  Undefined array key "date" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:10 UTC] PHP Warning:  Undefined array key "email" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:10 UTC] PHP Warning:  Undefined array key "tel" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:10 UTC] PHP Warning:  Undefined array key "subject" in C:\inetpub\wwwroot\action.php on line 4
+[08-Jan-2022 05:50:11 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\inetpub\wwwroot\action.php on line 10
+[08-Jan-2022 05:50:12 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\inetpub\wwwroot\action.php on line 10
+[08-Jan-2022 21:15:04 UTC] PHP Warning:  include(banner.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\contact-us.php on line 15
+[08-Jan-2022 21:15:04 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\contact-us.php on line 15
+[09-Jan-2022 03:43:43 UTC] PHP Warning:  include(banner.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\contact-us.php on line 15
+[09-Jan-2022 03:43:43 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\contact-us.php on line 15
+[09-Jan-2022 04:12:07 UTC] PHP Warning:  include(banner.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\contact-us.php on line 15
+[09-Jan-2022 04:12:07 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\contact-us.php on line 15

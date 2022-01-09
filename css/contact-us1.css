@@ -1,0 +1,423 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+
+.contact-us-class {
+  display:block;
+  background-color:black;
+  color:white;
+  width:400px;
+  margin:auto;
+  padding-top:10px;
+  padding-bottom:10px;
+  position:relative;
+  z-index:0;
+}
+
+.contact-us-class label {
+  margin-left:4%;
+  display:block;
+  padding-bottom:5px;
+  font-size:18px;
+}
+
+.contact-us-class input, textarea {
+  width:90%;
+  margin-bottom:10px;
+  height:30px;
+  margin-left:auto;
+  margin-right:auto;
+  display:block;
+}
+
+.contact-us-class h2 {
+  text-align:center;
+  font-size:20px;
+}
+
+.contact-us-class button {
+  font-size:20px;
+  margin-left:73%;
+  padding:5px;
+  background-color:#008480;
+  color:white;
+}
+
+.contact-us-class a {
+  display:block;
+  color:white;
+  text-align:center;
+  background-color:#008480;
+  width:90%;
+  margin:auto;
+  padding:5px;
+
+}
+
+.contact-us-class {
+  width:50%;
+  margin-top:2em;
+}
+
+.contact-us-class button {
+
+  margin-left:55%;
+
+}
+
+
+
+
+.page_header {
+  font-size:4em;
+  text-align:center;
+}
+
+.paragraph_header p {
+
+  text-align:center;
+
+}
+
+.section1 b {
+  font-size:1.2em;
+}
+
+section li {
+  width:80%;
+  margin:auto;
+  text-align:left;
+  font-size: 1.5em;
+  line-height:200%;
+  padding-top:.75em;
+
+}
+
+
+/* Section Formatting */
+
+.sectionimg {
+  padding-top:3em;
+  display:block;
+  margin:auto;
+}
+
+.subheading {
+  font-size:2.5em;
+  text-align:left;
+  padding-bottom:.75em;
+  border-bottom:solid 1px;
+  width:90%;
+  margin:auto;
+  padding-top:.75em;
+}
+
+p {
+
+    width:90%;
+    margin:auto;
+    text-align:left;
+    font-size: 1.5em;
+    line-height:200%;
+}
+
+.button {
+  display:block;
+  width:80%;
+  margin:auto;
+  font-size:1.7em;
+  text-align:center;
+  background-color:#008480;
+  color:white;
+  border-radius:100px;
+  padding-top:2em;
+  padding-bottom:2em;
+  margin-bottom:-2.5em;
+  position:relative;
+
+
+}
+
+.button:hover {
+
+    background-color:grey;
+
+}
+
+
+/* Section black */
+
+.black {
+  background-color:#333333;
+  padding-top:6em;
+  z-index:1;
+  color:white;
+
+}
+
+/* White Section */
+
+.rev {
+
+background-color:white;
+color:#333333
+
+}
+
+/* Extra Formatting */
+
+.listheader {
+  font-size:2.5em;
+  text-align:left;
+  padding-bottom:.75em;
+  border-bottom:none;
+  width:90%;
+  margin:auto;
+  padding-top:.75em;
+
+
+}
+
+.smallimg {
+  width:60%;
+}
+
+.bottom {
+
+padding-bottom:6em;
+
+}
+
+.centertext {
+
+text-align:center;
+
+}
+
+.right_welcome {
+display:table-header-group;
+}
+
+.right_welcome form {
+width:90%;
+padding-top:20px;
+margin-bottom:50px;
+}
+
+.form_submit_button {
+width:200px;
+height:75px;
+}
+
+.right_welcome h2 {
+font-size:35px;
+}
+
+.right_welcome label {
+font-size:30px;
+}
+
+.right_welcome input {
+font-size:30px;
+height:50px;
+}
+
+.right_welcome {
+margin-bottom:100px;
+}
+
+.topper {
+padding-top:2em;
+}
+
+@media only screen and (max-width:1079px) {
+
+  .vipform {
+    width:50%;
+    margin-top:2em;
+  }
+
+  .vipform button {
+
+    margin-left:55%;
+
+  }
+
+
+
+
+  .page_header {
+    font-size:4em;
+    text-align:center;
+  }
+
+  .paragraph_header p {
+
+    text-align:center;
+
+  }
+
+  .section1 b {
+    font-size:1.2em;
+  }
+
+  li {
+    width:80%;
+    margin:auto;
+    text-align:left;
+    font-size: 1.5em;
+    line-height:200%;
+    padding-top:.75em;
+
+  }
+
+
+  /* Section Formatting */
+
+  .sectionimg {
+    padding-top:3em;
+    display:block;
+    margin:auto;
+  }
+
+  .subheading {
+    font-size:2.5em;
+    text-align:left;
+    padding-bottom:.75em;
+    border-bottom:solid 1px;
+    width:90%;
+    margin:auto;
+    padding-top:.75em;
+  }
+
+p {
+
+      width:90%;
+      margin:auto;
+      text-align:left;
+      font-size: 1.5em;
+      line-height:200%;
+  }
+
+  .button {
+    display:block;
+    width:80%;
+    margin:auto;
+    font-size:1.7em;
+    text-align:center;
+    background-color:#008480;
+    color:white;
+    border-radius:100px;
+    padding-top:2em;
+    padding-bottom:2em;
+    margin-bottom:-2.5em;
+    position:relative;
+
+
+  }
+
+  .button:hover {
+
+      background-color:grey;
+
+  }
+
+
+  /* Section black */
+
+  .black {
+    background-color:#333333;
+    padding-top:6em;
+    z-index:1;
+    color:white;
+
+  }
+
+/* White Section */
+
+  .rev {
+
+  background-color:white;
+  color:#333333
+
+  }
+
+  /* Extra Formatting */
+
+  .listheader {
+    font-size:2.5em;
+    text-align:left;
+    padding-bottom:.75em;
+    border-bottom:none;
+    width:90%;
+    margin:auto;
+    padding-top:.75em;
+
+
+  }
+
+.smallimg {
+    width:60%;
+}
+
+.bottom {
+
+  padding-bottom:6em;
+
+}
+
+.centertext {
+
+  text-align:center;
+
+}
+
+.right_welcome {
+  display:table-header-group;
+}
+
+.right_welcome form {
+  width:90%;
+  padding-top:20px;
+  margin-bottom:50px;
+}
+
+.form_submit_button {
+  width:200px;
+  height:75px;
+}
+
+.right_welcome h2 {
+  font-size:35px;
+}
+
+.right_welcome label {
+  font-size:30px;
+}
+
+.right_welcome input {
+  font-size:30px;
+  height:50px;
+}
+
+.right_welcome {
+  margin-bottom:100px;
+}
+
+.topper {
+  padding-top:2em;
+}
+}

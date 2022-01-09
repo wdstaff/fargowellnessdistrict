@@ -14,12 +14,24 @@ a {
   color:black;
 }
 
-.img-header {
+.botox-titantron {
   display:block;
   margin:auto;
   height:50vh;
   width:80%;
-  object-fit:cover;
+  object-fit: cover;
+  background-color:rgba(0,132,128,1);
+
+}
+
+.img-header {
+  display:block;
+  margin:auto;
+  height:50vh;
+  background-color:rgba(0,132,128,1);
+  width:80%;
+  object-fit: cover;
+
 }
 
 .first {
@@ -245,11 +257,25 @@ a {
 @media only screen and (max-width:990px) {
 
 
-  .img-header {
-  height:55vh;
-  object-fit: cover;
+  .botox-titantron {
+    display:block;
+    margin:auto;
+    height:50vh;
+    width:100%;
+    object-fit: cover;
+    background-color:rgba(0,132,128,1);
 
-}
+  }
+
+  .img-header {
+    display:block;
+    margin:auto;
+    height:55vh;
+    background-color:rgba(0,132,128,1);
+    width:100%;
+    object-fit: cover;
+
+  }
 
 
 
@@ -281,6 +307,7 @@ a {
       height:auto;
       margin:auto;
       margin-bottom:2em;
+      min-width:90%;
     }
 
     .ind-treatment-section-off {

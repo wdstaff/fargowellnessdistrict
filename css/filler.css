@@ -14,6 +14,10 @@ a {
   color:black;
 }
 
+details {
+  margin-bottom: 3vh;
+}
+
 .botox-titantron {
   display:block;
   margin:auto;
@@ -110,7 +114,7 @@ a {
   font-size:.9em;
 }
 
-.appt-button {
+.appt-button-filler {
   background-color:#008480;
   color:white;
   padding-left:.7em;
@@ -132,7 +136,7 @@ a {
 
 }
 
-.appt-button:hover {
+.appt-button-filler:hover {
   animation: change 1s 1;
   background:black;
   color:white;
@@ -148,6 +152,7 @@ a {
     margin-bottom:100px;
 }
 
+
 .right-section-img {
   display:block;
   margin:auto;
@@ -159,10 +164,17 @@ a {
   text-align: center;
 }
 
+.above-img-text:first-of-type {
+
+  margin-top:5vh;
+
+}
+
 .under-img-text {
   font-size:.9em;
   letter-spacing:.05em;
   text-align:center;
+  margin-bottom:5vh;
 }
 
 .second-left-section {
@@ -281,6 +293,8 @@ a {
   display:none;
 }
 
+
+/* late additions */
 
 
 
