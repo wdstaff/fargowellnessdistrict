@@ -38,7 +38,7 @@
         </p>
 
 
-        <a class="appt-button-filler" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+        <a class="appt-button-filler" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
 
     </div>
   </div>
@@ -67,8 +67,8 @@
             <li>Marionette Lines</li>
             <li>Nasolabial Folds</li>
             <li>Chin/Jaw</li>
-            <li>Mid Face Rejuvenation</li>
-            <li>Lower Face Rejuvenation</li>
+            <li>Mid-Face Rejuvenation</li>
+            <li>Lower-Face Rejuvenation</li>
             <li>Under Eye Bags</li>
             </ol>
 
@@ -85,12 +85,12 @@
       <div class="second-left-wrapper">
         <h1 class="second-page-header">Dermal Filler Treatments:</h1>
 
-        <h3 class="dermal-filler-treatment-header">Mid Face Rejuvenation</h3>
+        <h3 class="dermal-filler-treatment-header">Mid-Face Rejuvenation</h3>
         <details><p class="section-text">Restore the loss of volume to your cheeks and mid-face with our signature procedure. Patients will look visibly younger immediately following their visit. Pair with Botox for the ultimate youthful rejuvenation.
         </p></details>
 
-        <h3 class="dermal-filler-treatment-header">Lower Face Rejuvenation</h3>
-        <details><p class="section-text">Restore the loss of volume and get rid of folds and deep lines in your lower face with our one-of-a-kind lower face rejuvenation. This pairs great with a Mid Face Rejuvenation that will leave patients looking years younger.
+        <h3 class="dermal-filler-treatment-header">Lower-Face Rejuvenation</h3>
+        <details><p class="section-text">Restore the loss of volume and get rid of folds and deep lines in your lower face with our one-of-a-kind Lower-Face Rejuvenation. This pairs great with a Mid Face Rejuvenation that will leave patients looking years younger.
         </p></details>
 
         <h3 class="dermal-filler-treatment-header">Petite Pout</h3>
@@ -115,7 +115,7 @@
 
         <h3 class="dermal-filler-treatment-header">Under Eye Bags</h3>
 
-        <details><p class="section-text">Under eye bags are one of the biggest concerns we hear about at Wellness District. They can leave you looking tired and aged. Under Eye filler can help diminish the signs of under eye bags. This procedure usually must be paired with a Mid Face Rejuvenation or dermal fillers in the cheeks.
+        <details><p class="section-text">Under eye bags are one of the biggest concerns we hear about at Wellness District. They can leave you looking tired and aged. Under Eye filler can help diminish the signs of under eye bags. This procedure usually must be paired with a Mid-Face Rejuvenation or dermal fillers in the cheeks.
         </p></details>
 
         <h3 class="dermal-filler-treatment-header">Contour and Define</h3>
@@ -130,7 +130,7 @@
 
         <h3 class="dermal-filler-treatment-header">Not sure what service is best for you?</h3>
 
-        <details><p class="section-text">Our highly skilled, highly trained, Top 500 injectors can do a free Facial Assessment!
+        <details><p class="section-text">Our highly skilled, highly trained, Top 500 Injectors can do a free Facial Assessment!
         </p></details>
       </div>
     </div>
@@ -158,7 +158,7 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book an appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
 </div>
 
     <?php include 'staff-carousel.php' ?>

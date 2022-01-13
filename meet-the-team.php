@@ -26,9 +26,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/spencer.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Spencer Berry</b></h4>
-      <p>MD</p>
-      <h5>Medical Director</h4>
+      <h4><b>Spencer Berry, MD</b></h4>
+      <h5>Medical Director & Master Injector</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -36,9 +35,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/nichole.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Nichole Jackson-Lind</b></h4>
-      <p>FNP-C</p>
-      <h5>Medical Weight Loss Expert</h4>
+      <h4><b>Nichole Jackson-Lind, FNP-C</b></h4>
+      <h5>Medical Weight Loss Provider</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -46,9 +44,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/sam.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Samantha Koepp</b></h4>
-      <p>LRD</p>
-      <h5>Dietician</h4>
+      <h4><b>Samantha Koepp, LRD</b></h4>
+      <h5>Registered Dietician & StrongPour Director</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -56,9 +53,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/alecia-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Alecia Ziemen</b></h4>
-      <p>RN</p>
-      <h5>Injection Specialist</h4>
+      <h4><b>Alecia Zieman, RN</b></h4>
+      <h5>Injection & CoolSculpting Specialist</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -66,9 +62,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/megan-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Megan Medrano</b></h4>
-      <p>RN</p>
-      <h5>Injection Specialist</h4>
+      <h4><b>Megan Medrano, RN</b></h4>
+      <h5>Injection & CoolSculpting Specialist</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -76,9 +71,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/kt-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Katie Bittner</b></h4>
-      <p>RN</p>
-      <h5>Injection & CoolSculpting Specialist</h4>
+      <h4><b>Katie Bittner, RN</b></h4>
+      <h5>CoolSculpting Director & Injection Specialist</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -86,9 +80,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/jamie-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Jamie Pederson</b></h4>
-      <p>LPN</p>
-      <h5>Medical Weight Loss Expert</h4>
+      <h4><b>Jamie Pederson, LPN</b></h4>
+      <h5>Medical Weight Loss Nurse</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -96,9 +89,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/maribel-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Maribel Hamm</b></h4>
-      <p>APRN-NP</p>
-      <h5>Medical Weight Loss Expert</h4>
+      <h4><b>Maribel Hamm, WHNP-C</b></h4>
+      <h5>Medical Weight Loss Provider</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -107,7 +99,6 @@
       <img src="pics/emp/casey.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
       <h4><b>Casey Bjugstad</b></h4>
-      <p>Master Aesthetician</p>
       <h5>Master Aesthetician</h4>
       <a href="#">Learn More</a>
       </div>
@@ -117,7 +108,6 @@
       <img src="pics/emp/emily-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
       <h4><b>Emily Peterson</b></h4>
-      <p>Master Aesthetician</p>
       <h5>Master Aesthetician</h4>
       <a href="#">Learn More</a>
       </div>
@@ -126,9 +116,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/amber.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Amber DeAnn</b></h4>
-      <p>FNP-C</p>
-      <h5>Medical Weight Loss Expert</h4>
+      <h4><b>Amber Strobel, DNP-C</b></h4>
+      <h5>Medical Weight Loss Provider</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -136,9 +125,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/ashli-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Ashli Boehm</b></h4>
-      <p>FNP-C</p>
-      <h5>Medical Weight Loss Expert</h4>
+      <h4><b>Ashli Boehm, FNP-C</b></h4>
+      <h5>Medical Weight Loss Provider</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -146,8 +134,7 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/suzanne-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Suzanne Flickinger</b></h4>
-      <p>M.S. in Business</p>
+      <h4><b>Suzanne Flickinger, MBA</b></h4>
       <h5>Master Aesthetician</h4>
       <a href="#">Learn More</a>
       </div>
@@ -157,8 +144,7 @@
       <img src="pics/emp/dd-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
       <h4><b>DD Yanske</b></h4>
-      <p>Aesthetician</p>
-      <h5>Associate</h4>
+      <h5>Aesthetician & Patient Relations Specialist</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -166,9 +152,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/work-12-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Jesse</b></h4>
-      <p>Graphic Design</p>
-      <h5>Associate</h4>
+      <h4><b>Jess Elliott</b></h4>
+      <h5>Social Media & Patient Relations Specialist</h4>
       <a href="#">Learn More</a>
       </div>
       </div>
@@ -176,9 +161,8 @@
       <div class="meet-the-team-card">
       <img src="pics/emp/mar.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
-      <h4><b>Marilyn Berry</b></h4>
-      <p>M.S. Psychology</p>
-      <h5>Associate</h4>
+      <h4><b>Marilyn Berry, MS</b></h4>
+      <h5>Business Manager & Patient Care Specialist</h4>
       <a href="#">Learn More</a>
       </div>
       </div>

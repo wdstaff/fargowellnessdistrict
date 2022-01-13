@@ -7,7 +7,7 @@ $msg = $_POST['name'].' '.$_POST['date'].' '.$_POST['email'].' '.$_POST['tel'].'
 $msg = wordwrap($msg,70);
 
 // send Email
-mail("staff@fargowellnessdistrict.com","Website Message",$msg);
+mail("beth@fargowellnessdistrict.com","Website Message",$msg);
 die();
 
 ?>

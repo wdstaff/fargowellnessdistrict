@@ -18,7 +18,7 @@
 
             </ol>
 
-            <a class="botox-special-section-button " href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+            <a class="botox-special-section-button " href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
 
 
     </div>

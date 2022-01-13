@@ -34,7 +34,7 @@
       <label for="subject">What is your message?</label>
       <textarea id="subject" name="subject" placeholder="Write something.." style="height:200px"></textarea>
 
-      <button class="form_submit_button" action="action.php" method="post" type="submit" value="Submit">SUBMIT</button>
+      <button class="form_submit_button" type="submit" value="Submit">SUBMIT</button>
       </form>
 
       <p class="paragraph_header topper bottom centertext">

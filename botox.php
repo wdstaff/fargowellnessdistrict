@@ -37,7 +37,7 @@
         <li class="section-text section-text-li"><h2 class="midline-header">Botox</h2> is a purified protein derived from Botulin Toxin A. Botox® works by preventing the transmission of nerve impulses to the injected muscle therefore relaxing the facial movements that create facial lines. Botox® can be used to treat and prevent fine lines and wrinkles.</li>
         <p class="section-text">Both women and men can receive Botox® injections. Botox® is most commonly used to treat fine lines and wrinkles, but it is not for all types of fine lines and wrinkles. Our expert injectors will guide you towards the best treatment option for you.</p>
         <p class="section-text">Each patient’s unique anatomy will determine the specific treatment and skincare regimen we recommend to attain the best results!</p>
-        <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
 
     </div>
   </div>
@@ -106,7 +106,7 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book an appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
 </div>
   <section class="third-section faq-section">
               <button class="accordion">What is BOTOX Cosmetic?</button>

@@ -2,8 +2,8 @@
 <html>
 
 <head>
-  <title>Chemical Peel</title>
-  <meta name="description" content="A chemical peel is a solution applied to the surface of your skin. They are used to brighten a dull facial complexion, and to treat several skin conditions." />
+  <title>FARGO BOTOX</title>
+  <meta name="description" content="At Wellness District we use the exceptional line of peels from SkinMedica." />
   <link rel="stylesheet" type="text/css" href="css/chemical-peel.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -22,42 +22,35 @@
   <?php include 'wdheader.php' ?>
 
   <div class="botox-titantron">
-  <img class="img-header" src="pics/wd212.jpg" />
+  <img class="img-header" src="pics/wd179.jpg" />
 </div>
 
   <section class="first-section">
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Chemical Peels Fargo</h1>
+        <h1 class="page-header">Chemical Peels</h1>
 
         <p class="section-text">A chemical peel is a solution applied to the surface of your skin. They are used to brighten a dull facial complexion, and to treat several skin conditions such as:
         </p>
+        <li class="section-text section-text-li"><h2 class="midline-header">Fine lines and wrinkles</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Rough texture</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Uneven tone</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Lighter Acne scars</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Irregular pigmentation</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Sun spots</h2></li>
+        <p class="section-text">The chemical peel exfoliates your skin using a specific solution of chemicals. Peels come in different strengths, targeting mild to moderate skin issues. Our experienced team will determine which peel will fit your goals and skin type.</p>
+        <p class="section-text">At Wellness District we use the exceptional line of peels from SkinMedica®.</p>
 
-        <li class="section-text section-text-li">Fine lines and wrinkles</li>
-        <li class="section-text section-text-li">Rough texture</li>
-        <li class="section-text section-text-li">Uneven tone</li>
-        <li class="section-text section-text-li">Lighter Acne scars</li>
-        <li class="section-text section-text-li">Irregular</li>
-        <li class="section-text section-text-li">Sun spots</li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Illuminize Peel:</h2> This is the gentlest and lightest-strength peel. Like all of the peels, it has minimal downtime. It treats mild imperfections, including fine lines and rough texture. Because it is so gentle, it can be a great option for first-time peel patients who want to get a feel for the treatment. The mild solution means you won't experience any peeling skin after the appointment, but you will still see a more even, uniform complexion.</li>
+        <br>
+        <li class="section-text section-text-li"><h2 class="midline-header">Vitalize Peel:</h2>Creates radiant skin by treating mild skin imperfections. You will notice a difference after a single treatment alone, and ideal results can be reached with three to six treatment sessions.</li>
+        <br>
+        <li class="section-text section-text-li"><h2 class="midline-header">Rejuvenize Peel:</h2> This peel is great for treating moderate skin imperfections. Results include smooth skin, softened wrinkles and an overall healthy facial appearance. If you have a dark skin tone, we may suggest using one of the milder peels first, to establish how it is tolerated.. If your skin responds well to those, then the Rejuvenize peel will be an option.</li>
+        <br>
+        <p class="section-text">When you visit our practice as a first time aesthetic patient, we will be able to suggest the most appropriate peel and number of peels needed based on your skin and your goals.</p>
 
-        <p class="section-text">The chemical peel exfoliates your skin using a specific solution of chemicals. Peels come in different strengths, targeting mild to moderate skin issues. Our experienced team will determine which peel will fit your goals and skin type.
-        </p>
-
-        <h3>At Wellness District we use the exceptional line of peels from SkinMedica®.
-        </h3>
-
-        <li class="section-text section-text-li chemp"><h2 class="midline-header">Illuminize Peel:</h2> This is the gentlest and lightest-strength peel. Like all of the peels, it has minimal downtime. It treats mild imperfections, including fine lines and rough texture. Because it is so gentle, it can be a great option for first-time peel patients who want to get a feel for the treatment. The mild solution means you won't experience any peeling skin after the appointment, but you will still see a more even, uniform complexion.</li>
-
-        <li class="section-text section-text-li chemp"><h2 class="midline-header">Vitalize Peel:</h2> Creates radiant skin by treating mild skin imperfections. You will notice a difference after a single treatment alone, and ideal results can be reached with three to six treatment sessions.
-        </li>
-
-        <li class="section-text section-text-li chemp"><h2 class="midline-header">Rejuvenize Peel:</h2> This peel is great for treating moderate skin imperfections. Results include smooth skin, softened wrinkles and an overall healthy facial appearance. If you have a dark skin tone, we may suggest using one of the milder peels first, to establish how it is tolerated.. If your skin responds well to those, then the Rejuvenize peel will be an option.
-        </li>
-
-        <p class="section-text">When you visit our practice as a first time aesthetic patient, we will be able to suggest the most appropriate peel and number of peels needed based on your skin and your goals.
-        </p>
-        <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
 
     </div>
   </div>
@@ -100,16 +93,16 @@
       <div class="second-left-wrapper">
         <h1 class="second-page-header">Real Botox Results</h1>
 
-        <p class="section-text">Our goal has remained the same since we opened our doors back in 2016— natural-looking, gorgeously refreshed patient results.</p>
-        <p class="section-text">This beauty received Botox to smooth & relax fine lines & wrinkles around the crow’s feet, forehead & frown.</p>
-        <p class="section-text">You’ll also notice her entire eye area is now more open & ‘awake’— our expert Injection Specialists use a ‘brow lift’ technique to achieve this look.</p>
+        <p class="section-text">Our team strives for a natural result, where you can experience the benefits of Botox® without having a “frozen face”.</p>
+        <p class="section-text">The treatment is a simple and safe non-surgical procedure that can be performed in as little as ten minutes and requires no recovery time.</p>
+        <p class="section-text">With a few tiny injections, even your toughest fine lines and wrinkles can be dramatically reduced within one to two weeks of receiving the treatment and results can last up to 4 months.</p>
 
     </div>
   </div>
   <div class="second-right-section">
     <div class="second-right-wrapper">
       <h4 class="above-img-text">BEFORE • AFTER</h3>
-      <img class="right-section-img" src="pics/botoxbf1.jpg">
+      <img class="right-section-img" src="pics/BAFBOTOX2.jpg">
       <h4 class="under-img-text">Results may vary</h4>
     </div>
   </div>

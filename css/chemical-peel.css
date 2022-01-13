@@ -34,11 +34,6 @@ a {
 
 }
 
-.left-wrapper h3 {
-  padding-top:3vh;
-  padding-bottom:3vh;
-}
-
 
 
 
@@ -82,14 +77,6 @@ a {
   text-indent:-1.5em;
 }
 
-.chemp {
-
-  padding-bottom: 5vh;
-
-}
-
-
-
 
 
 
@@ -123,7 +110,7 @@ a {
   font-size:.9em;
 }
 
-.appt-button {
+.botox-appt-button {
   background-color:#008480;
   color:white;
   padding-left:.7em;
@@ -145,7 +132,7 @@ a {
 
 }
 
-.appt-button:hover {
+.botox-appt-button:hover {
   animation: change 1s 1;
   background:black;
   color:white;

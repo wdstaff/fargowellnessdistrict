@@ -29,8 +29,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Spencer Berry</a></h3>
-										<span>Physician</span>
+										<h3><a href="#">Spencer Berry, MD</a></h3>
+										<span>Medical Director & Master Injector</span>
 									</div>
 								</div>
 							</div>
@@ -42,8 +42,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Nichole Jackson-Lind</a></h3>
-										<span>NP-C</span>
+										<h3><a href="#">Nichole Jackson-Lind, FNP-C</a></h3>
+										<span>Medical Weight Loss Provider</span>
 									</div>
 								</div>
 							</div>
@@ -55,8 +55,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Maribel Hamm</a></h3>
-										<span>NP</span>
+										<h3><a href="#">Maribel Hamm, WHNP-C</a></h3>
+										<span>Medical Weight Loss Provider</span>
 									</div>
 								</div>
 							</div>
@@ -68,8 +68,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Megan Medrano</a></h3>
-										<span>RN</span>
+										<h3><a href="#">Megan Medrano, RN</a></h3>
+										<span>Injection & CoolSculpting Specialist</span>
 									</div>
 								</div>
 							</div>
@@ -81,8 +81,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Alecia Zieman</a></h3>
-										<span>RN</span>
+										<h3><a href="#">Alecia Zieman, RN</a></h3>
+										<span>Injection & CoolSculpting Specialist</span>
 									</div>
 								</div>
 							</div>
@@ -94,8 +94,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Ashli Boehm</a></h3>
-										<span>NP</span>
+										<h3><a href="#">Ashli Boehm, FNP-C</a></h3>
+										<span>Medical Weight Loss Provider</span>
 									</div>
 								</div>
 							</div>
@@ -107,8 +107,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Amber Strobel</a></h3>
-										<span>NP</span>
+										<h3><a href="#">Amber Strobel, DNP-C</a></h3>
+										<span>Medical Weight Loss Provider</span>
 									</div>
 								</div>
 							</div>
@@ -120,8 +120,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Samantha Koepp</a></h3>
-										<span>LRD</span>
+										<h3><a href="#">Samantha Koepp, LRD</a></h3>
+										<span>Registered Dietician & StrongPour Director</span>
 									</div>
 								</div>
 							</div>
@@ -133,8 +133,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Jamie Pederson</a></h3>
-										<span>LPN</span>
+										<h3><a href="#">Jamie Pederson, LPN</a></h3>
+										<span>Medical Weight Loss Nurse</span>
 									</div>
 								</div>
 							</div>
@@ -146,8 +146,8 @@
                     </a>
                   </div>
                   <div class="text pt-3 w-100 text-center">
-                    <h3><a href="#">Katie Bittner</a></h3>
-                    <span>RN</span>
+                    <h3><a href="#">Katie Bittner, RN</a></h3>
+                    <span>CoolSculpting Director & Injection Specialist</span>
                   </div>
                 </div>
               </div>
@@ -159,8 +159,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Suzanne Flickinger</a></h3>
-										<span>Aesthetician</span>
+										<h3><a href="#">Suzanne Flickinger, MBA</a></h3>
+										<span>Master Aesthetician</span>
 									</div>
 								</div>
 							</div>
@@ -173,7 +173,7 @@
 									</div>
 									<div class="text pt-3 w-100 text-center">
 										<h3><a href="#">Casey Bjugstad</a></h3>
-										<span>Aesthetician</span>
+										<span>Master Aesthetician</span>
 									</div>
 								</div>
 							</div>
@@ -185,8 +185,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Jess</a></h3>
-										<span>Associate</span>
+										<h3><a href="#">Jess Elliott</a></h3>
+										<span>Social Media & Patient Relations Specialist</span>
 									</div>
 								</div>
 							</div>
@@ -199,7 +199,7 @@
 									</div>
 									<div class="text pt-3 w-100 text-center">
 										<h3><a href="#">Emily Peterson</a></h3>
-										<span>Aesthetician</span>
+										<span>Master Aesthetician</span>
 									</div>
 								</div>
 							</div>
@@ -211,8 +211,8 @@
 										</a>
 									</div>
 									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Marilyn Berry</a></h3>
-										<span>Associate</span>
+										<h3><a href="#">Marilyn Berry, MS</a></h3>
+										<span>Business Manager & Patient Care Specialist</span>
 									</div>
 								</div>
 							</div>
@@ -225,7 +225,7 @@
                   </div>
                   <div class="text pt-3 w-100 text-center">
                     <h3><a href="#">DD Yanske</a></h3>
-                    <span>Aesthetician</span>
+                    <span>Aesthetician & Patient Relations Specialist</span>
                   </div>
                 </div>
               </div>

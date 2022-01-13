@@ -24,7 +24,6 @@
 
       <div class="funky-background">
 
-        <h3 class="all-treatments-section-header">We focus on your areas of concern</h3>
 
         <section class="ind-treatment-section">
           <div class="left-ind-treatment-section-wrapper">

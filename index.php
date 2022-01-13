@@ -10,6 +10,7 @@
   <!-- W3 Animations !-->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+
 </head>
 
 <body>
@@ -48,11 +49,12 @@
   <form class="vipform w3-container w3-center w3-animate-top" action="action.php" method="post">
     <span class="close" onclick="closeform()">&times</span>
     <div class="form-content-wrapper">
-    <p class="form-header-text">Feel Healthy in Your Skin</p>
+    <p class="form-header-text">Feel Healthy In Your Skin</p>
     <p class="form-body-text">Sign up for text messages on all of our specials, flash sales, and all things wellness.</p>
 
     <input type="text" id="name" name="name" placeholder="Your Name"><br>
     <input type="email" id="email" name="email" placeholder="Your Email"><br>
+    <input class="bottom-input" type="tel" id="tel" name="tel" placeholder="Your Cell Phone Number..">
     <input class="bottom-input" type="date" id="date" name="date" placeholder="Date of Birth"><br>
     <input class="modal-input-button" id="formsubmit" type="submit" value="Sign Up">
 </form>
@@ -71,7 +73,7 @@
 </main>
 <div class="sticky-schedule">
   <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><i class="far fa-calendar-alt line calendar"></i></a>
-  <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><p class="sticky-schedule-text">Book a consultation</p></a>
+  <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><p class="sticky-schedule-text">Book A Consultation</p></a>
 </a>
 </div>
 <?php include 'wdfooter.php' ?>

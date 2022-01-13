@@ -50,15 +50,14 @@
         <hr>
         <h3 class="heading-text">Initial Visit: $279</h3>
         <ol class="treatment-area">
-            <li>Physical Examination</li>
-            <li>Weight Loss History</li>
-            <li>Body Composition analysis</li>
-            <li>EKG(electrocardiogram)</li>
-            <li>Labs: Complete Blood Count, Comprehensive Metabolid Panel</li>
-            <li>Labs: A1C, TSH </li>
-            <li>1 hr presentation on the medical science of obesity and healthy nutritional concepts</li>
-            <li>Individualized Treatment Plan</li>
-            <li>Free Registered Dietician Visit</li>
+            <li>Comprehensive weight loss history and physical examination with one of our Providers</li>
+            <li>Body Composition Analysis</li>
+            <li>EKG (electrocardiogram)</li>
+            <li>Labs: blood profile to evaluate for metabolic and/or endocrine factors that may be involved in, or affected by, your current weight issues</li>
+            <li>1 hour and 20 minute presentation on the medical science or overweight and obesity, and the healthy nutritional concepts  that can be integrated into your everyday life to help you achieve your weight loss goals</li>
+            <li>Receive your individualized treatment plan that will optimize your likelihood for successful weight management.</li>
+            <li>One free visit with our Registered Dietitian that can be used at any time</li>
+            <li>Arrange appropriate follow up visits so that your progress can be monitored and managed.</li>
             </ol>
 
 

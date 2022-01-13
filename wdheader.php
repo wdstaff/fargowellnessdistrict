@@ -10,7 +10,38 @@
   <!-- Icon Links !-->
   <script src="https://kit.fontawesome.com/fe324ec7be.js" crossorigin="anonymous"></script>
 
+  <!-- Cable One Tag -->
+  <script async src='https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c'></script>
+
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154678264-1"></script>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88182100-3"></script>
+<script>
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
+
+
+
+gtag('config', 'UA-88182100-3');
+</script>
+
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-154678264-1');
+
+  gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id.
+</script>
+
 </head>
+
+
 <body>
 <header id="top-header" class="top-header">
   <div class="wrapper"><a class="top-phone-number" href="tel:7012053088"><i class="fas fa-phone line"> 701.205.3088</i></a></div>
@@ -31,7 +62,7 @@
                                   <p class="treatment menu-subheader-text"><a href="weight-loss-services.php">Weight Loss Services</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coming-soon.php">Facials</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coming-soon.php">Procell</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Chemical Peels</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="chemical-peel.php">Chemical Peels</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coming-soon.php">Diamond Glow</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coming-soon.php">Kybella</a></p>
                                 </div>
