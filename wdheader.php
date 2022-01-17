@@ -60,10 +60,10 @@ gtag('config', 'UA-88182100-3');
                                   <p class="treatment menu-subheader-text"><a href="filler.php">Dermal Fillers</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coolsculpting.php">CoolSculpting</a></p>
                                   <p class="treatment menu-subheader-text"><a href="weight-loss-services.php">Weight Loss Services</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Facials</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Procell</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="facials.php">Facials</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="procell.php">Procell</a></p>
                                   <p class="treatment menu-subheader-text"><a href="chemical-peel.php">Chemical Peels</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Diamond Glow</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="diamond-glow.php">Diamond Glow</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coming-soon.php">Kybella</a></p>
                                 </div>
     <div class="extra-menu-items"><p class="menu-header-text">COMPANY<a onClick="companymenu()"><i id="company-arrow" class="fas fa-angle-right company-arrow" style="font-size:2em;float:right;"></i><a/></p>
@@ -90,8 +90,8 @@ gtag('config', 'UA-88182100-3');
     <div class="verticaldivide"></div>
   <div class="item-wrapper desktop-right">
     <div class="extra-menu-items"><p class="menu-header-text">SHOP ONLINE</p></div>
-    <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><img class="menuimg" src="pics/menu-long-img1.jpg"></a></div>
-    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict"><img class="menuimg" src="pics/menu-long-img2.jpg"></a></div>
+    <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><img class="menuimg" src="pics/wd39.jpg"></a></div>
+    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict"><img class="menuimg" src="pics/wd32.jpg"></a></div>
     </div>
   <div class="item-wrapper desktop-right dright2">
     <div class="extra-menu-items"><p class="menu-header-text">OUR LOCATION</p></div>

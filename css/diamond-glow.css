@@ -19,6 +19,7 @@ a {
   margin:auto;
   height:50vh;
   width:80%;
+  object-fit: cover;
   background-color:rgba(0,132,128,1);
 
 }
@@ -30,7 +31,6 @@ a {
   background-color:rgba(0,132,128,1);
   width:80%;
   object-fit: cover;
-  object-position: top;
 
 }
 
@@ -59,18 +59,6 @@ a {
   margin-left:15%;
   margin-right:5%;
 
-}
-
-.left-wrapper p {
-  padding-bottom:2vh;
-}
-
-.left-wrapper li {
-  padding-bottom:5vh;
-}
-
-.left-wrapper li:first-of-type {
-  padding-top:3vh;
 }
 
 .page-header {
@@ -122,7 +110,7 @@ a {
   font-size:.9em;
 }
 
-.appt-button {
+.botox-appt-button {
   background-color:#008480;
   color:white;
   padding-left:.7em;
@@ -144,7 +132,7 @@ a {
 
 }
 
-.appt-button:hover {
+.botox-appt-button:hover {
   animation: change 1s 1;
   background:black;
   color:white;
@@ -280,6 +268,8 @@ a {
   background-color: #ccc;
 }
 
+
+
 /* Funky Background */
 
 .funky-background {
@@ -293,10 +283,7 @@ a {
 
 
 
-.coolsculptingframe {
-  display:block;
-  margin-top:10vh;
-}
+
 
 
 @media only screen and (max-width:1080px) {
@@ -377,11 +364,4 @@ a {
     text-align:center;
     margin-right:5%;
     margin-left:5%;
-  }
-
-  .coolsculptingframe {
-    display:block;
-    margin-top:10vh;
-    width:95%;
-    object
   }

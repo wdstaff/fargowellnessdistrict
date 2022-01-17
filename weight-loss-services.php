@@ -40,9 +40,9 @@
 
         <section class="ind-treatment-section ind-treatment-section-off">
           <div class="right-ind-treatment-section-wrapper">
-              <h3 class="right-ind-treatment-section-header">Lypotropic Injections</h3>
+              <h3 class="right-ind-treatment-section-header">Lipotropic Injections</h3>
               <p class="right-ind-treatment-section-text">In addition to better nutrition and daily physical activity, the combination of these naturally occurring components are known to increase metabolism, decrease appetite, and improve the body's sensitivity to insulin.</p>
-              <a class="ind-treatment-section-button" href="coming-soon.php">Learn more</a>
+              <a class="ind-treatment-section-button" href="lipotropic-injections.php">Learn more</a>
           </div>
           <div class="left-ind-treatment-section-wrapper">
               <img class="ind-treatment-section-img" src="pics/enerjectics.jpg">
@@ -58,7 +58,7 @@
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Metabolic Detox</h3>
               <p class="right-ind-treatment-section-text">The Metabolic Detox is designed for people who are looking to breakthrough a plateau, minimize cravings, jump start their weight loss or simply have more energy and feel better!</p>
-              <a class="ind-treatment-section-button" href="coming-soon.php">Learn more</a>
+              <a class="ind-treatment-section-button" href="metabolic-detox.php">Learn more</a>
           </div>
         </section>
 
@@ -66,7 +66,7 @@
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Pediatric Nutritional Program</h3>
               <p class="right-ind-treatment-section-text">Our pediatric program is designed to help children and adolescents develop healthy eating habits early in life. Studies show that children and adolescents that develop proper activity and nutritional habits demonstrate a higher rate of achieving and maintaining proper body weight throughout their life.​</p>
-              <a class="ind-treatment-section-button" href="coming-soon.php">Learn more</a>
+              <a class="ind-treatment-section-button" href="fargo-medical-weight-loss.php">Learn more</a>
           </div>
           <div class="left-ind-treatment-section-wrapper">
               <img class="ind-treatment-section-img" src="pics/happy-teens.jpg">

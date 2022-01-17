@@ -156,6 +156,8 @@ a.top-phone-number:hover {
 .menuimg {
   width:13em;
   height:7vh;
+  object-fit:cover;
+  object-position:top;
 
 }
 

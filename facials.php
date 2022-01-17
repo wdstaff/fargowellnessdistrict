@@ -2,8 +2,8 @@
 <html>
 
 <head>
-  <title>Facials</title>
-  <meta name="description" content="Wellness District Aesthetics Has The Top Injectors In The Fargo Moorhead Area. Let Us Help Give You A Youthful Rejuvenated Look" />
+  <title>FACIALS</title>
+  <meta name="description" content="Bright, Glowing, Radiant Skin. Our Facials Are Here To Ensure That You Are Protecting, Exfoliating, And Correcting Your Skin." />
   <link rel="stylesheet" type="text/css" href="css/facials.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -21,46 +21,55 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/fillerfront.jpg" />
+  <div class="botox-titantron">
+  <img class="img-header" src="pics/wd111.jpg" />
+</div>
 
   <section class="first-section">
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Cheek Enhancement & Revolumization</h1>
+        <h1 class="page-header">Facials</h1>
 
-        <p class="section-text">The goal of cheek enhancement with dermal fillers is to add volume or lift the cheeks. As we age, we gradually lose facial volume. Our mid face and lower face is usually where this is seen most with “jowls”, sagginess, and deep nasolabial folds sometimes appearing. By injecting a hyaluronic acid based dermal filler such as Restylane Contour, Restylane Lyft, Juvederm Voluma, or Radiesse along the cheekbones and in the temples, we can help lift the entire lower face. The results are diminished jowling and softer nasolabial folds and a revolumization of the cheek area. This area can also be treated with Sculptra® Aesthetic, a poly-l-lactic acid that helps stimulate your skin’s own natural collagen production over time.
+        <p class="section-text">Dermal Fillers are made of hyaluronic acid (HA), a hydrating substance found naturally in your body. When injected just below the skin, this gel provides youthful plumpness and definition in precisely targeted areas. It also attracts water, which gives your skin an added glow.
         </p>
-        <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+
+        <p class="section-text">Wellness District has helped to redefine how people use Dermal Fillers in our area. Dr Berry has taken extensive training from Dr Mauricio de Maio and has brought the MD Codes to the Fargo/Moorhead area. A very limited number of clinics in the entire country are advanced enough to use these methods. The MD Codes is a system developed by Dr Mauricio de Maio to provide specific injection guidelines giving the precise location, layer, tool, delivery system, and product volume information to be used to achieve optimal results, regardless of patient age, gender, or ethnicity. No one will know, but everyone will ask why you look so good!
+        </p>
+
+
+        <a class="appt-button-filler" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
 
     </div>
   </div>
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Recommended Treatments:</h3>
+      <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
-        <li>Juvederm</li>
-        <li>Radiesse</li>
-        <li>Restylane</li>
-        <li>Sculptra</li>
+        <li>Botox</li>
+        <li>Kybella</li>
+        <li>CoolSculpting</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Recommended Skincare:</h3>
+        <h3 class="heading-text">Skincare:</h3>
         <ol class="skincare">
-          <li>DEJ Night Cream</li>
-          <li>DEJ Face Cream</li>
-          <li>Restorative Skin Complex</li>
-          <li>TNS Advnaced+</li>
+          <li>Revision Lip Replenisher</li>
+          <li>TNS Advanced +</li>
+          <li>HA5</li>
         </ol>
         <hr>
         <h3 class="heading-text">Treatment areas:</h3>
         <ol class="treatment-area">
-            <li>Bunny Lines</li>
-            <li>Crow's Feet</li>
-            <li>Forehead Lines</li>
-            <li>Frown Lift</li>
-            <li>Glabella/Frown Lines</li>
+            <li>Lips</li>
+            <li>Temples</li>
+            <li>Cheeks</li>
+            <li>Marionette Lines</li>
+            <li>Nasolabial Folds</li>
+            <li>Chin/Jaw</li>
+            <li>Mid-Face Rejuvenation</li>
+            <li>Lower-Face Rejuvenation</li>
+            <li>Under Eye Bags</li>
             </ol>
 
 
@@ -74,93 +83,52 @@
   <section class="second-section">
     <div class="second-left-section">
       <div class="second-left-wrapper">
-        <h1 class="second-page-header">Natural Results</h1>
+        <h1 class="second-page-header">Facial Treatments:</h1>
 
-        <p class="section-text">Our goal has remained the same since we opened our doors back in 2009— natural-looking, gorgeously refreshed patient results.</p>
-        <p class="section-text">Have questions about cheek filler or want to book your complimentary consultation?</p>
-        <p class="section-text">Contact us or schedule your appointment below!</p>
+        <h3 class="dermal-filler-treatment-header">Express Facial</h3>
+        <details><p class="section-text">The Express Facial is perfect for clients that are short on time or is a great starter treatment for teens. This mini treatment packs in a deep cleanse, purifying mask with steam, high frequency treatment, a hydrating mask, and a mini massage on the hands and arms. Reveal your healthy skin in a flash! Add on a Dermaplane treatment to reveal your best skin yet.
+        </p></details>
 
+        <h3 class="dermal-filler-treatment-header">Signature Facial</h3>
+        <details><p class="section-text">The Signature Facial gives you even more of what you love; the results you want and the ability to go back out there and face your day. Unwind with an enzymatic steam exfoliation and purifying mask. De-stress as a calming mask couples with Gua Sha stones to detoxify. Enjoy the arm and hand massage prior to a calming application of skincare and Colorescience products. Add on a Dermaplane treatment for the ultimate spa experience.
+        </p></details>
+
+        <h3 class="dermal-filler-treatment-header">Dermaplane Facial</h3>
+
+        <details><p class="section-text">Bask in the built-in TLC of our dermaplaning treatment. Begin with freshly cleansed skin before your esthetician gently removes the dead layer of skin and peach fuzz from your face. Gift yourself soothing moments of tranquility during enzyme exfoliation, calming mask, and the opulent post treatment skincare, SPF, and make-up products. Reveal your softest skin today!
+        </p></details>
+
+        <h3 class="dermal-filler-treatment-header"><a href="diamond-glow.php">DiamondGlow Facial (Click Here)</a></h3>
+
+        <details><p class="section-text">The DiamondGlow Facial is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. The DiamondGlow dermabrasion device has a special wand that uses a diamond tip to gently remove dead skin cells on the outer layer of your skin. The diamond tip exfoliates the skin while high-powered suction deeply cleans your pores. After your DiamondGlow treatment, you will notice visibly healthier, glowing skin that appears well-hydrated and has a smoother, more even skin tone. Reveal your GLOW today!
+        </p></details>
+
+
+      </div>
     </div>
-  </div>
-  <div class="second-right-section">
-    <div class="second-right-wrapper">
-      <h4 class="above-img-text">BEFORE • AFTER</h3>
-      <img class="right-section-img" src="pics/botoxbf1.jpg">
-      <h4 class="under-img-text">Results may vary</h4>
-    </div>
-  </div>
+        <div class="second-right-section">
+          <div class="second-right-wrapper">
+            <h4 class="above-img-text">BEFORE • AFTER</h3>
+            <img class="right-section-img" src="pics/filler3.jpg">
+            <h4 class="under-img-text">Results may vary</h4>
 
-  </section>
+
+          </div>
+        </div>
+
+      </section>
 
   <div class="funky-background">
   <section class="testimonials-section">
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book an appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
 </div>
-  <section class="third-section faq-section">
-              <button class="accordion">What is BOTOX Cosmetic?</button>
-          <div class="panel">
-            <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
-          </div>
 
-          <button class="accordion">Why choose Wellness District Aesthetics among the countless Fargo Moorhead area aesthetics practices?</button>
-          <div class="panel">
-            <p>For starters, our practice is the #1 BOTOX provider in Santa Monica, CA. Nationally, we are ranked in the top 10 for Botox and Juvederm by their manufacturer Allergan.</p>
-            <p>We specialize in injectables, and so our providers administer a higher volume of Botox treatments. In fact, we inject more in two weeks than most high performing dermatologists and plastic surgeons do in an entire year! Additionally, several of our Aesthetic Injection Specialists are National Trainers for Allergan. Our industry accolades are mirrored in our five star reviews and real patient results, clearly demonstrating why they continue to see us instead of choosing one of countless competing aesthetics practices across Los Angeles.</p>
-          </div>
-
-          <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
-          <div class="panel">
-            <p>Yes, we accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
-          </div>
-
-          <button class="accordion">What about downtime, results and follow-up appointments for a wrinkle relaxer treatment?</button>
-          <div class="panel">
-            <p>The best part about a wrinkle relaxer treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. Results vary but are usually visible by day seven. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
-            <p>After three or four months, you will need a new treatment and can return to Skin by Lovely to maintain your fresh, youthful look.</p>
-          </div>
-
-          <button class="accordion">What is the pre & post care?</button>
-          <div class="panel">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
-          <script>
-                    var acc = document.getElementsByClassName("accordion");
-                    var i;
-
-                    for (i = 0; i < acc.length; i++) {
-                    acc[i].addEventListener("click", function() {
-                      this.classList.toggle("active");
-                      var panel = this.nextElementSibling;
-                      if (panel.style.maxHeight) {
-                        panel.style.maxHeight = null;
-                      } else {
-                        panel.style.maxHeight = panel.scrollHeight + "px";
-                      }
-                    });
-                    }
-                  </script>
-
-    </section>
-    <section class="fourth-section">
-      <h3 class="fourth-header">Meet our amazing team of aesthetic providers</h3>
-      <a class="appt-button testbutton" href="#">Meet the Providers</a>
-
-    </section>
-    <div class="carouselins"><?php include 'carousel.php' ?></div>
-
-
-    <section class="fifth-section">
-      <img class="fifth-section-img" src="pics/wdtreatment.jpg">
-      <div class="fifth-section-color-block"></div>
-      <div class="sneaky-img-container">
-      <p class="sneaky-img-text">View all our treatments</p>
-      <a class="sneaky-img-button-left appt-button" href="#">Learn more</a>
-      <a class="sneaky-img-button-right appt-button" href="#">Book online</a>
-    </div>
-    </section>
+    <?php include 'staff-carousel.php' ?>
+    <?php include 'new-patient-special.php' ?>
+    <?php include 'all-treatments.php' ?>
   </main>
 </body>
 <?php include 'wdfooter.php' ?>

@@ -2,8 +2,8 @@
 <html>
 
 <head>
-  <title>DERMAL FILLER</title>
-  <meta name="description" content="Wellness District Aesthetics Has The Top Injectors In The Fargo Moorhead Area. Let Us Help Give You A Youthful Rejuvenated Look" />
+  <title>PROCELL</title>
+  <meta name="description" content="Procell is a micro-needling and micro-dermabrasion system in one package." />
   <link rel="stylesheet" type="text/css" href="css/procell.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -21,46 +21,65 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/fillerfront.jpg" />
+  <div class="botox-titantron">
+  <img class="img-header" src="pics/wd212.jpg" />
+</div>
 
   <section class="first-section">
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Cheek Enhancement & Revolumization</h1>
+        <h1 class="page-header">Procell</h1>
 
-        <p class="section-text">The goal of cheek enhancement with dermal fillers is to add volume or lift the cheeks. As we age, we gradually lose facial volume. Our mid face and lower face is usually where this is seen most with “jowls”, sagginess, and deep nasolabial folds sometimes appearing. By injecting a hyaluronic acid based dermal filler such as Restylane Contour, Restylane Lyft, Juvederm Voluma, or Radiesse along the cheekbones and in the temples, we can help lift the entire lower face. The results are diminished jowling and softer nasolabial folds and a revolumization of the cheek area. This area can also be treated with Sculptra® Aesthetic, a poly-l-lactic acid that helps stimulate your skin’s own natural collagen production over time.
+        <p class="section-text">Procell is a micro-needling and micro-dermabrasion system in one package. The micro-channeling will keep your skin looking and feeling younger by activating your body’s natural regenerative ability to help tighten and lift skin, while minimizing many common skin problems.
         </p>
-        <a class="appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+
+        <p class="section-text">Micro-channeling stimulates your body’s natural ability to generate new health skin rather than utilizing destructive and inflammatory techniques like many treatments in the aesthetic industry. This results is a more enjoyable treatment, virtually non-existent downtime, and happier skin. Micro-channeling can also improve the overall health of your skin by stimulating the rejuvenation cascade for new collagen production.
+        </p>
+
+        <h3>Micro-Channeling Improves:</h3>
+
+        <li class="section-text section-text-li"><h2 class="midline-header">Fine Lines And Wrinkles</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Acne Scars/Surgical Scars</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Sun Damage/Dark Spots</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Hyperpigmentation</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Firms, Tightens and Tones Skin</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Thinning Hair</h2></li>
+
+
+
+
+
+        <p class="section-text">Procell serums contain growth factors derived from human bone marrow, which produce a potent, anti-inflammatory effect. This effectively reduces healing time, and can help improve the appearance of hyperpigmentation and scar tissue deposition. These growth factors support cellular renewal and have strong regenerating properties to improve skin firmness, elasticity, texture, and tone. This can diminish the prominence of scarring, fine lines, and wrinkles, leaving the skin looking and feeling bright and healthy.
+        </p>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
 
     </div>
   </div>
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Recommended Treatments:</h3>
+      <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
-        <li>Juvederm</li>
-        <li>Radiesse</li>
-        <li>Restylane</li>
-        <li>Sculptra</li>
+        <li>Botox</li>
+        <li>Dermal Filler</li>
+        <li>DiamondGlow</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Recommended Skincare:</h3>
+        <h3 class="heading-text">Skincare:</h3>
         <ol class="skincare">
-          <li>DEJ Night Cream</li>
-          <li>DEJ Face Cream</li>
-          <li>Restorative Skin Complex</li>
-          <li>TNS Advnaced+</li>
+          <li>Ceremide Treatment Cream</li>
+          <li>Lumivive System</li>
+          <li>HA5</li>
         </ol>
         <hr>
         <h3 class="heading-text">Treatment areas:</h3>
         <ol class="treatment-area">
-            <li>Bunny Lines</li>
-            <li>Crow's Feet</li>
-            <li>Forehead Lines</li>
-            <li>Frown Lift</li>
-            <li>Glabella/Frown Lines</li>
+            <li>Face</li>
+            <li>Neck</li>
+            <li>Décolleté</li>
+            <li>Stomach</li>
+            <li>Hands</li>
             </ol>
 
 
@@ -74,18 +93,18 @@
   <section class="second-section">
     <div class="second-left-section">
       <div class="second-left-wrapper">
-        <h1 class="second-page-header">Natural Results</h1>
+        <h1 class="second-page-header">Real Botox Results</h1>
 
-        <p class="section-text">Our goal has remained the same since we opened our doors back in 2009— natural-looking, gorgeously refreshed patient results.</p>
-        <p class="section-text">Have questions about cheek filler or want to book your complimentary consultation?</p>
-        <p class="section-text">Contact us or schedule your appointment below!</p>
+        <p class="section-text">Our team strives for a natural result, where you can experience the benefits of Botox® without having a “frozen face”.</p>
+        <p class="section-text">The treatment is a simple and safe non-surgical procedure that can be performed in as little as ten minutes and requires no recovery time.</p>
+        <p class="section-text">With a few tiny injections, even your toughest fine lines and wrinkles can be dramatically reduced within one to two weeks of receiving the treatment and results can last up to 4 months.</p>
 
     </div>
   </div>
   <div class="second-right-section">
     <div class="second-right-wrapper">
       <h4 class="above-img-text">BEFORE • AFTER</h3>
-      <img class="right-section-img" src="pics/botoxbf1.jpg">
+      <img class="right-section-img" src="pics/BAFBOTOX2.jpg">
       <h4 class="under-img-text">Results may vary</h4>
     </div>
   </div>
@@ -97,7 +116,7 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book an appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
 </div>
   <section class="third-section faq-section">
               <button class="accordion">What is BOTOX Cosmetic?</button>
@@ -105,27 +124,22 @@
             <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
           </div>
 
-          <button class="accordion">Why choose Wellness District Aesthetics among the countless Fargo Moorhead area aesthetics practices?</button>
+          <button class="accordion">Why choose Wellness District?</button>
           <div class="panel">
-            <p>For starters, our practice is the #1 BOTOX provider in Santa Monica, CA. Nationally, we are ranked in the top 10 for Botox and Juvederm by their manufacturer Allergan.</p>
-            <p>We specialize in injectables, and so our providers administer a higher volume of Botox treatments. In fact, we inject more in two weeks than most high performing dermatologists and plastic surgeons do in an entire year! Additionally, several of our Aesthetic Injection Specialists are National Trainers for Allergan. Our industry accolades are mirrored in our five star reviews and real patient results, clearly demonstrating why they continue to see us instead of choosing one of countless competing aesthetics practices across Los Angeles.</p>
+            <p>For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox treatments continue to see us.</p>
           </div>
 
           <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
           <div class="panel">
-            <p>Yes, we accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
+            <p>Of course, we offer the Botox Club which patients can save $2/unit on their Botox treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, CoolSculpting Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
           </div>
 
-          <button class="accordion">What about downtime, results and follow-up appointments for a wrinkle relaxer treatment?</button>
+          <button class="accordion">What about downtime, results and follow-up appointments for a Botox treatments?</button>
           <div class="panel">
-            <p>The best part about a wrinkle relaxer treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. Results vary but are usually visible by day seven. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
-            <p>After three or four months, you will need a new treatment and can return to Skin by Lovely to maintain your fresh, youthful look.</p>
+            <p>The best part about a Botox treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. We do recommend that you do not lie down for four hours following the treatment. We also recommend you do not work out the rest of the day. Results vary but are usually visible by day seven. Complete results can be seen by day 14. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
+            <p>After three or four months, you will need a new treatment and can return to Wellness District to maintain your fresh, youthful look.</p>
           </div>
 
-          <button class="accordion">What is the pre & post care?</button>
-          <div class="panel">
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</p>
-          </div>
           <script>
                     var acc = document.getElementsByClassName("accordion");
                     var i;
@@ -144,23 +158,9 @@
                   </script>
 
     </section>
-    <section class="fourth-section">
-      <h3 class="fourth-header">Meet our amazing team of aesthetic providers</h3>
-      <a class="appt-button testbutton" href="#">Meet the Providers</a>
-
-    </section>
-    <div class="carouselins"><?php include 'carousel.php' ?></div>
-
-
-    <section class="fifth-section">
-      <img class="fifth-section-img" src="pics/wdtreatment.jpg">
-      <div class="fifth-section-color-block"></div>
-      <div class="sneaky-img-container">
-      <p class="sneaky-img-text">View all our treatments</p>
-      <a class="sneaky-img-button-left appt-button" href="#">Learn more</a>
-      <a class="sneaky-img-button-right appt-button" href="#">Book online</a>
-    </div>
-    </section>
+    <?php include 'staff-carousel.php' ?>
+    <?php include 'new-patient-special.php' ?>
+    <?php include 'all-treatments.php' ?>
   </main>
 </body>
 <?php include 'wdfooter.php' ?>
