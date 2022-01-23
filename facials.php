@@ -22,7 +22,7 @@
   <?php include 'wdheader.php' ?>
 
   <div class="botox-titantron">
-  <img class="img-header" src="pics/wd111.jpg" />
+  <img class="img-header" src="pics/wd112.jpg" />
 </div>
 
   <section class="first-section">
@@ -31,47 +31,89 @@
       <div class="left-wrapper">
         <h1 class="page-header">Facials</h1>
 
-        <p class="section-text">Dermal Fillers are made of hyaluronic acid (HA), a hydrating substance found naturally in your body. When injected just below the skin, this gel provides youthful plumpness and definition in precisely targeted areas. It also attracts water, which gives your skin an added glow.
+        <p class="section-text">At the Wellness District, we understand how important it is for you to look your best. That's why we encourage you to treat yourself to one of our amazing facials. Not only will your facial help improve your skin's appearance, but it will also give you an opportunity to take a break from the usual daily grind and indulge in some much-needed pampering. Our estheticians are highly trained and truly enjoy making clients look and feel their very best.
         </p>
-
-        <p class="section-text">Wellness District has helped to redefine how people use Dermal Fillers in our area. Dr Berry has taken extensive training from Dr Mauricio de Maio and has brought the MD Codes to the Fargo/Moorhead area. A very limited number of clinics in the entire country are advanced enough to use these methods. The MD Codes is a system developed by Dr Mauricio de Maio to provide specific injection guidelines giving the precise location, layer, tool, delivery system, and product volume information to be used to achieve optimal results, regardless of patient age, gender, or ethnicity. No one will know, but everyone will ask why you look so good!
+        <p class="section-text">Breathe new life into your skin. Call today for more information or to schedule an appointment for a facial.
         </p>
-
 
         <a class="appt-button-filler" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+
+        <div class="facial-treatments">
+          <h1 class="second-page-header">Facial Treatments:</h1>
+
+          <h3 class="dermal-filler-treatment-header">Express Facial</h3>
+          <details><p class="section-text">The Express Facial is perfect for clients that are short on time or is a great starter treatment for teens. This mini treatment packs in a deep cleanse, purifying mask with steam, high frequency treatment, a hydrating mask, and a mini massage on the hands and arms. Reveal your healthy skin in a flash! Add on a Dermaplane treatment to reveal your best skin yet.
+          </p></details>
+
+          <h3 class="dermal-filler-treatment-header">Signature Facial</h3>
+          <details><p class="section-text">The Signature Facial gives you even more of what you love; the results you want and the ability to go back out there and face your day. Unwind with an enzymatic steam exfoliation and purifying mask. De-stress as a calming mask couples with Gua Sha stones to detoxify. Enjoy the arm and hand massage prior to a calming application of skincare and Colorescience products. Add on a Dermaplane treatment for the ultimate spa experience.
+          </p></details>
+
+          <h3 class="dermal-filler-treatment-header">Dermaplane Facial</h3>
+
+          <details><p class="section-text">Bask in the built-in TLC of our dermaplaning treatment. Begin with freshly cleansed skin before your esthetician gently removes the dead layer of skin and peach fuzz from your face. Gift yourself soothing moments of tranquility during enzyme exfoliation, calming mask, and the opulent post treatment skincare, SPF, and make-up products. Reveal your softest skin today!
+          </p></details>
+
+          <h3 class="dermal-filler-treatment-header"><a href="diamond-glow.php">DiamondGlow Facial (Click Here)</a></h3>
+
+          <details><p class="section-text">The DiamondGlow Facial is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. The DiamondGlow dermabrasion device has a special wand that uses a diamond tip to gently remove dead skin cells on the outer layer of your skin. The diamond tip exfoliates the skin while high-powered suction deeply cleans your pores. After your DiamondGlow treatment, you will notice visibly healthier, glowing skin that appears well-hydrated and has a smoother, more even skin tone. Reveal your GLOW today!
+          </p></details>
+
+
+        </div>
+
 
     </div>
   </div>
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Complimentary Treatments:</h3>
+          <h3>Skin Care Regimens That Pair Well With Your Facials</h2>
+              <hr>
+      <h3 class="heading-text">Dry Skin:</h3>
       <ol class="treatments">
-        <li>Botox</li>
-        <li>Kybella</li>
-        <li>CoolSculpting</li>
+        <li>Lumivive System</li>
+        <li>Retinol Complex 0.25</li>
+        <li>TNS Eye Repair</li>
+        <li>TNS Ceramide Treatment Cream</li>
+        <li>Dermal Repair Cream</li>
+        <li>HA5 Rejuvenating Hydrator</li>
+
         </ol>
         <hr>
-        <h3 class="heading-text">Skincare:</h3>
+        <h3 class="heading-text">Sensitive Skin:</h3>
         <ol class="skincare">
-          <li>Revision Lip Replenisher</li>
-          <li>TNS Advanced +</li>
-          <li>HA5</li>
+          <li>Lumivive System</li>
+          <li>Retinol Complex 0.25</li>
+          <li>Rejuvenative Moisturizer</li>
+          <li>TNS Eye Repair</li>
+          <li>TNS Ceramide Treatment Cream</li>
+          <li>HA5 Rejuvenating Hydrator</li>
+          <li>Instant Bright Eye Cream</li>
+
         </ol>
         <hr>
-        <h3 class="heading-text">Treatment areas:</h3>
+        <h3 class="heading-text">Oily/Acneic Skin:</h3>
         <ol class="treatment-area">
-            <li>Lips</li>
-            <li>Temples</li>
-            <li>Cheeks</li>
-            <li>Marionette Lines</li>
-            <li>Nasolabial Folds</li>
-            <li>Chin/Jaw</li>
-            <li>Mid-Face Rejuvenation</li>
-            <li>Lower-Face Rejuvenation</li>
-            <li>Under Eye Bags</li>
+          <li>AHA/BHA Exfoliating Cleanser</li>
+          <li>Facial Cleanser</li>
+          <li>Retinol Complex 1.0</li>
+          <li>Neck Correct Cream</li>
+          <li>Ultra-Sheer Moisturizer</li>
+          <li>HA5 Rejuvenating Hydrator</li>
+          <li>Rejuvenative Moisturizer</li>
             </ol>
 
+            <h3 class="heading-text">Aging Skin:</h3>
+            <ol class="treatment-area">
+              <li>Lumivive System</li>
+              <li>Retinol Complex 0.5</li>
+              <li>Dermal Repair Cream</li>
+              <li>TNS Eye Repair</li>
+              <li>HA5 Rejuvenating Hydrator</li>
+              <li>Neck Correct Cream</li>
+
+                </ol>
 
 
     </div>
@@ -79,44 +121,6 @@
 
 
   </section>
-
-  <section class="second-section">
-    <div class="second-left-section">
-      <div class="second-left-wrapper">
-        <h1 class="second-page-header">Facial Treatments:</h1>
-
-        <h3 class="dermal-filler-treatment-header">Express Facial</h3>
-        <details><p class="section-text">The Express Facial is perfect for clients that are short on time or is a great starter treatment for teens. This mini treatment packs in a deep cleanse, purifying mask with steam, high frequency treatment, a hydrating mask, and a mini massage on the hands and arms. Reveal your healthy skin in a flash! Add on a Dermaplane treatment to reveal your best skin yet.
-        </p></details>
-
-        <h3 class="dermal-filler-treatment-header">Signature Facial</h3>
-        <details><p class="section-text">The Signature Facial gives you even more of what you love; the results you want and the ability to go back out there and face your day. Unwind with an enzymatic steam exfoliation and purifying mask. De-stress as a calming mask couples with Gua Sha stones to detoxify. Enjoy the arm and hand massage prior to a calming application of skincare and Colorescience products. Add on a Dermaplane treatment for the ultimate spa experience.
-        </p></details>
-
-        <h3 class="dermal-filler-treatment-header">Dermaplane Facial</h3>
-
-        <details><p class="section-text">Bask in the built-in TLC of our dermaplaning treatment. Begin with freshly cleansed skin before your esthetician gently removes the dead layer of skin and peach fuzz from your face. Gift yourself soothing moments of tranquility during enzyme exfoliation, calming mask, and the opulent post treatment skincare, SPF, and make-up products. Reveal your softest skin today!
-        </p></details>
-
-        <h3 class="dermal-filler-treatment-header"><a href="diamond-glow.php">DiamondGlow Facial (Click Here)</a></h3>
-
-        <details><p class="section-text">The DiamondGlow Facial is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. The DiamondGlow dermabrasion device has a special wand that uses a diamond tip to gently remove dead skin cells on the outer layer of your skin. The diamond tip exfoliates the skin while high-powered suction deeply cleans your pores. After your DiamondGlow treatment, you will notice visibly healthier, glowing skin that appears well-hydrated and has a smoother, more even skin tone. Reveal your GLOW today!
-        </p></details>
-
-
-      </div>
-    </div>
-        <div class="second-right-section">
-          <div class="second-right-wrapper">
-            <h4 class="above-img-text">BEFORE • AFTER</h3>
-            <img class="right-section-img" src="pics/filler3.jpg">
-            <h4 class="under-img-text">Results may vary</h4>
-
-
-          </div>
-        </div>
-
-      </section>
 
   <div class="funky-background">
   <section class="testimonials-section">

@@ -10,10 +10,12 @@
   <!-- W3 Animations !-->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
+  <script src="scripts/cookies.js"></script>
+
 
 </head>
 
-<body>
+<body onload="checkCookie()">
   <main>
   <?php include 'wdheader.php' ?>
 

@@ -22,7 +22,7 @@
   <?php include 'wdheader.php' ?>
 
   <div class="botox-titantron">
-  <img class="img-header" src="pics/wd117.jpg" />
+  <img class="img-header" src="pics/wd500.jpg" />
 </div>
 
   <section class="first-section">
@@ -88,27 +88,6 @@
     </div>
   </div>
 
-
-  </section>
-
-  <section class="second-section">
-    <div class="second-left-section">
-      <div class="second-left-wrapper">
-        <h1 class="second-page-header">Real Botox Results</h1>
-
-        <p class="section-text">Our team strives for a natural result, where you can experience the benefits of Botox® without having a “frozen face”.</p>
-        <p class="section-text">The treatment is a simple and safe non-surgical procedure that can be performed in as little as ten minutes and requires no recovery time.</p>
-        <p class="section-text">With a few tiny injections, even your toughest fine lines and wrinkles can be dramatically reduced within one to two weeks of receiving the treatment and results can last up to 4 months.</p>
-
-    </div>
-  </div>
-  <div class="second-right-section">
-    <div class="second-right-wrapper">
-      <h4 class="above-img-text">BEFORE • AFTER</h3>
-      <img class="right-section-img" src="pics/BAFBOTOX2.jpg">
-      <h4 class="under-img-text">Results may vary</h4>
-    </div>
-  </div>
 
   </section>
 

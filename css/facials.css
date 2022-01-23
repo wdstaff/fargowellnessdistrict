@@ -297,7 +297,9 @@ details {
 /* late additions */
 
 
-
+.facial-treatments {
+  margin-top:8vh;
+}
 
 
 @media only screen and (max-width:1080px) {
@@ -330,6 +332,7 @@ details {
 
   .right-section {
     width:100%;
+    margin-bottom:5vh;
   }
 
   .left-section {

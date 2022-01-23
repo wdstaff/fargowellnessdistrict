@@ -22,7 +22,7 @@
   <?php include 'wdheader.php' ?>
 
   <div class="botox-titantron">
-  <img class="img-header" src="pics/wd133.jpg" />
+  <img class="img-header" src="pics/wd501.jpeg" />
 </div>
 
   <section class="first-section">
