@@ -3,7 +3,7 @@
 
 <head>
   <title>DIAMOND GLOW</title>
-  <meta name="description" content="The DiamondGlow Facial Is A Non-Invasive Combination Facial And Dermabrasion Which Deeply Cleans And Rejuvenates The Appearance Of Your Skin." />
+  <meta name="description" content="The DiamondGlow Is A Non-Invasive Combination Facial And Dermabrasion Which Deeply Cleans And Rejuvenates The Appearance Of Your Skin." />
   <link rel="stylesheet" type="text/css" href="css/diamond-glow.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -29,9 +29,9 @@
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Diamond Glow Facial</h1>
+        <h1 class="page-header">Diamond Glow</h1>
 
-        <p class="section-text">The DiamondGlow Facial is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. This skin resurfacing procedure incorporates three effective techniques into a single treatment:
+        <p class="section-text">The DiamondGlow is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. This skin resurfacing procedure incorporates three effective techniques into a single treatment:
         </p>
         <li class="section-text section-text-li"><h2 class="midline-header">Exfoliation:</h2> Removes dead skin cells that can make your skin look dull.</li>
         <li class="section-text section-text-li"><h2 class="midline-header">Extraction:</h2> Deeply cleanses the skin by removing dirt, oil, debris, and impurities from your pores.</li>
@@ -59,7 +59,7 @@
       <ol class="treatments">
         <li>Dermaplane</li>
         <li>Chemical Peel</li>
-        <li>Botox</li>
+        <li>Botox<sup>&reg</sup></li>
         </ol>
         <hr>
         <h3 class="heading-text">Skincare:</h3>
@@ -71,16 +71,10 @@
         <hr>
         <h3 class="heading-text">Treatment areas:</h3>
         <ol class="treatment-area">
-            <li>Bunny Lines</li>
-            <li>Crow's Feet</li>
-            <li>Forehead Lines</li>
-            <li>Frown Lift</li>
-            <li>Glabella/Frown Lines</li>
-            <li>Gummy Smile (overexposure of the upper teeth & gums when smiling)</li>
-            <li>Hyperhidrosis (excessive sweating in underarms or hands)</li>
-            <li>Mentalis (dimpled chin)</li>
-            <li>Marionette Lines</li>
-            <li>Platysma Bands - Aging muscle neck lines/bands</li>
+            <li>Face</li>
+            <li>Neck</li>
+            <li>Décolleté</li>
+
             </ol>
 
 
@@ -91,13 +85,6 @@
 
   </section>
 
-  <div class="funky-background">
-  <section class="testimonials-section">
-      <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
-
-  </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
-</div>
   <section class="third-section faq-section">
               <button class="accordion">Before Your Treatment</button>
           <div class="panel">
@@ -139,6 +126,16 @@
                   </script>
 
     </section>
+
+
+  <div class="funky-background">
+  <section class="testimonials-section">
+      <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
+
+  </section>
+  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
+</div>
+
     <?php include 'staff-carousel.php' ?>
     <?php include 'new-patient-special.php' ?>
     <?php include 'all-treatments.php' ?>

@@ -53,16 +53,17 @@ a.top-phone-number:hover {
 .shop-dropdown {
   position:absolute;
   display:none;
-  top:115px;
+  top:130px;
   padding:10px;
   padding-bottom:0px;
   box-shadow:5px 10px 8px;
   z-index:1;
+  background-color:white;
 
 }
 
 .shop-dropdown h5 {
-  font-size:1.2em;
+  font-size:1em;
 }
 
 .header-p {

@@ -33,8 +33,8 @@
 
         <p class="section-text">Get ready to learn about sugar and how your body responds to it when consumed! Excessive sugar intake is the number one reason for the obesity epidemic in the United States and around the world. Teaching you how to identify the various forms of sugar in your diet, as well as how it is affecting your health, is our priority.</p>
         <p class="section-text">The nutritional program at Wellness District Medical Weight Loss focuses on educating patients on the science of sugar and then teaches you how to apply this science to your nutritional habits. We believe that real food is the best medicine, therefore do not utilize meal replacements or pre-packaged foods. Enjoy eating out? No problem. Don't love to cook? That's ok! This is not a diet. We will teach you how to integrate simple nutritional guidelines so you can take them with you, wherever life may lead.</p>
-        <p class="section-text">We understand that there are many factors that play a role in nutrition and body weight,which is why we use a holistic approach to weight loss that focuses on all components (nutritional, psychological, emotional, and biochemical). Patients appreciate that our program is DOABLE and that they are able to integrate healthy nutrition into their own, as well as their families lives.</p>
-        <a class="weight-loss-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+        <p class="section-text">We understand that there are many factors that play a role in nutrition and body weight, which is why we use a holistic approach to weight loss that focuses on all components (nutritional, psychological, emotional, and biochemical). Patients appreciate that our program is DOABLE and that they are able to integrate healthy nutrition into their own, as well as their families' lives.</p>
+        <a class="weight-loss-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
 
     </div>
   </div>
@@ -45,7 +45,7 @@
       <ol class="treatments">
         <li>Metabolic Detox</li>
         <li>Lipotropic Injections</li>
-        <li>CoolSculpting</li>
+        <li>Coolsculpting<sup>&reg</sup> Elite</li>
         </ol>
         <hr>
         <h3 class="heading-text">Initial Visit: $279</h3>
@@ -147,7 +147,7 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book an appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
 </div>
 
     </section>

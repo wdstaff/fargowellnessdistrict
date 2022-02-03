@@ -41,20 +41,20 @@
         <div class="facial-treatments">
           <h1 class="second-page-header">Facial Treatments:</h1>
 
-          <h3 class="dermal-filler-treatment-header">Express Facial</h3>
+          <h3 class="dermal-filler-treatment-header">Express Facial: $65</h3>
           <details><p class="section-text">The Express Facial is perfect for clients that are short on time or is a great starter treatment for teens. This mini treatment packs in a deep cleanse, purifying mask with steam, high frequency treatment, a hydrating mask, and a mini massage on the hands and arms. Reveal your healthy skin in a flash! Add on a Dermaplane treatment to reveal your best skin yet.
           </p></details>
 
-          <h3 class="dermal-filler-treatment-header">Signature Facial</h3>
+          <h3 class="dermal-filler-treatment-header">Signature Facial: $100</h3>
           <details><p class="section-text">The Signature Facial gives you even more of what you love; the results you want and the ability to go back out there and face your day. Unwind with an enzymatic steam exfoliation and purifying mask. De-stress as a calming mask couples with Gua Sha stones to detoxify. Enjoy the arm and hand massage prior to a calming application of skincare and Colorescience products. Add on a Dermaplane treatment for the ultimate spa experience.
           </p></details>
 
-          <h3 class="dermal-filler-treatment-header">Dermaplane Facial</h3>
+          <h3 class="dermal-filler-treatment-header">Dermaplane Facial: $65</h3>
 
           <details><p class="section-text">Bask in the built-in TLC of our dermaplaning treatment. Begin with freshly cleansed skin before your esthetician gently removes the dead layer of skin and peach fuzz from your face. Gift yourself soothing moments of tranquility during enzyme exfoliation, calming mask, and the opulent post treatment skincare, SPF, and make-up products. Reveal your softest skin today!
           </p></details>
 
-          <h3 class="dermal-filler-treatment-header"><a href="diamond-glow.php">DiamondGlow Facial (Click Here)</a></h3>
+          <h3 class="dermal-filler-treatment-header"><a href="diamond-glow.php">DiamondGlow Facial: $150 (Click Here)</a></h3>
 
           <details><p class="section-text">The DiamondGlow Facial is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. The DiamondGlow dermabrasion device has a special wand that uses a diamond tip to gently remove dead skin cells on the outer layer of your skin. The diamond tip exfoliates the skin while high-powered suction deeply cleans your pores. After your DiamondGlow treatment, you will notice visibly healthier, glowing skin that appears well-hydrated and has a smoother, more even skin tone. Reveal your GLOW today!
           </p></details>

@@ -289,6 +289,11 @@ a {
   margin-bottom:10vh;
 }
 
+.walkin-appt {
+  font-weight: bold;
+  font-size:1.5em;
+}
+
 
 
 @media only screen and (max-width:1080px) {
@@ -321,6 +326,7 @@ a {
 
   .right-section {
     width:100%;
+    margin-bottom:5vh;
   }
 
   .left-section {

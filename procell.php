@@ -60,7 +60,7 @@
       <div class="right-wrapper container-spec">
       <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
-        <li>Botox</li>
+        <li>Botox<sup>&reg</sup></li>
         <li>Dermal Filler</li>
         <li>DiamondGlow</li>
         </ol>

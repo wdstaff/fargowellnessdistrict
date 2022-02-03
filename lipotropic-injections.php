@@ -45,7 +45,7 @@
           <br><br>Contains: Methionine, Inositol, Choline, Thiamine(B1), Riboflavin(B2), Niacin(B3), Pantothenic Acid(B5), Pyridoxine(B6), Biotin(B7), L-Carnitine
           </li>
           <br>
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An appointment</a>
+          <p class="walkin-appt">No need for an appointment, walk-in appointments encouraged!</p>
 
     </div>
   </div>
@@ -54,31 +54,18 @@
       <div class="right-wrapper container-spec">
       <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
-        <li>Dermal Fillers</li>
-        <li>Chemical Peels</li>
-        <li>ProCell Micro-Channeling</li>
+        <li>Mutritional Program</li>
+        <li>Metabolic Detox</li>
+        <li>Coolsculpting<sup>&reg</sup> Elite</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Skincare:</h3>
+        <h3 class="heading-text">Complimentary Products</h3>
         <ol class="skincare">
-          <li>TNS Advanced +</li>
-          <li>Retinol Complex</li>
-          <li>Revox Line Relaxer</li>
+          <li>Fish Oil</li>
+          <li>Vitamin D</li>
+          <li>Multi-Vitamins</li>
         </ol>
-        <hr>
-        <h3 class="heading-text">Treatment areas:</h3>
-        <ol class="treatment-area">
-            <li>Bunny Lines</li>
-            <li>Crow's Feet</li>
-            <li>Forehead Lines</li>
-            <li>Frown Lift</li>
-            <li>Glabella/Frown Lines</li>
-            <li>Gummy Smile (overexposure of the upper teeth & gums when smiling)</li>
-            <li>Hyperhidrosis (excessive sweating in underarms or hands)</li>
-            <li>Mentalis (dimpled chin)</li>
-            <li>Marionette Lines</li>
-            <li>Platysma Bands - Aging muscle neck lines/bands</li>
-            </ol>
+
 
 
 
@@ -93,7 +80,7 @@
   <section class="tablecontainer">
   <table class="table">
       <tr>
-        <th>PACKAGE</th>
+        <th>LIPOTROPIC INJECTION PACKAGES</th>
         <th>PRICE</th>
         <th>YOUR SAVINGS</th>
       </tr>

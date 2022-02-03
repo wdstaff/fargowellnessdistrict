@@ -2,8 +2,8 @@
 <html>
 
 <head>
-  <title>FARGO BOTOX</title>
-  <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox® Treatment At Wellness District For $150 (Up To 35 Units)." />
+  <title>FARGO BOTOX&reg</title>
+  <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox&reg Treatment At Wellness District For $150 (Up To 35 Units)." />
   <link rel="stylesheet" type="text/css" href="css/botox.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -29,13 +29,13 @@
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Botox</h1>
+        <h1 class="page-header">Botox<sup>&reg</sup></h1>
 
-        <p class="section-text">At Wellness District Aesthetics we use an innovative Botox® injection technique not used by any other clinic in the Fargo/Moorhead area. Our Botox® technique gives patients a natural yet flawless look. We take our time to ensure that our Botox® is strategically placed for each individual patient's anatomy.
+        <p class="section-text">At Wellness District Aesthetics we use an innovative Botox<sup>&reg</sup> injection technique not used by any other clinic in the Fargo/Moorhead area. Our Botox<sup>&reg</sup> technique gives patients a natural yet flawless look. We take our time to ensure that our Botox<sup>&reg</sup> is strategically placed for each individual patient's anatomy.
         </p>
-        <li class="section-text section-text-li"><h2 class="midline-header">New Patient Special</h2> We are so confident in our techniques and precise placement that we offer patients their first Botox® treatment at Wellness District for <b>$150 (up to 35 units).</b></li>
-        <li class="section-text section-text-li"><h2 class="midline-header">Botox</h2> is a purified protein derived from Botulin Toxin A. Botox® works by preventing the transmission of nerve impulses to the injected muscle therefore relaxing the facial movements that create facial lines. Botox® can be used to treat and prevent fine lines and wrinkles.</li>
-        <p class="section-text">Both women and men can receive Botox® injections. Botox® is most commonly used to treat fine lines and wrinkles, but it is not for all types of fine lines and wrinkles. Our expert injectors will guide you towards the best treatment option for you.</p>
+        <li class="section-text section-text-li"><h2 class="midline-header">New Patient Special</h2> We are so confident in our techniques and precise placement that we offer patients their first Botox<sup>&reg</sup> treatment at Wellness District for <b>$150 (up to 35 units).</b></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Botox<sup>&reg</sup></h2> is a purified protein derived from Botulin Toxin A. Botox<sup>&reg</sup> works by preventing the transmission of nerve impulses to the injected muscle therefore relaxing the facial movements that create facial lines. Botox<sup>&reg</sup> can be used to treat and prevent fine lines and wrinkles.</li>
+        <p class="section-text">Both women and men can receive Botox<sup>&reg</sup> injections. Botox<sup>&reg</sup> is most commonly used to treat fine lines and wrinkles, but it is not for all types of fine lines and wrinkles. Our expert injectors will guide you towards the best treatment option for you.</p>
         <p class="section-text">Each patient’s unique anatomy will determine the specific treatment and skincare regimen we recommend to attain the best results!</p>
         <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
 
@@ -80,12 +80,13 @@
 
   </section>
 
+
   <section class="second-section">
     <div class="second-left-section">
       <div class="second-left-wrapper">
-        <h1 class="second-page-header">Real Botox Results</h1>
+        <h1 class="second-page-header">Real Botox<sup>&reg</sup> Results</h1>
 
-        <p class="section-text">Our team strives for a natural result, where you can experience the benefits of Botox® without having a “frozen face”.</p>
+        <p class="section-text">Our team strives for a natural result, where you can experience the benefits of Botox<sup>&reg</sup> without having a “frozen face”.</p>
         <p class="section-text">The treatment is a simple and safe non-surgical procedure that can be performed in as little as ten minutes and requires no recovery time.</p>
         <p class="section-text">With a few tiny injections, even your toughest fine lines and wrinkles can be dramatically reduced within one to two weeks of receiving the treatment and results can last up to 4 months.</p>
 
@@ -93,38 +94,29 @@
   </div>
   <div class="second-right-section">
     <div class="second-right-wrapper">
-      <h4 class="above-img-text">BEFORE • AFTER</h3>
-      <img class="right-section-img" src="pics/BAFBOTOX2.jpg">
-      <h4 class="under-img-text">Results may vary</h4>
+      <?php include 'botox-carousel.php' ?>
     </div>
   </div>
 
   </section>
 
-  <div class="funky-background">
-  <section class="testimonials-section">
-      <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
-
-  </section>
-  <a class="appt-button testbutton testbuttonlrg" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
-</div>
   <section class="third-section faq-section">
-              <button class="accordion">What is BOTOX Cosmetic?</button>
+              <button class="accordion">What is Botox<sup>&reg</sup> Cosmetic?</button>
           <div class="panel">
-            <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
+            <p>Botox<sup>&reg</sup> Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When Botox<sup>&reg</sup> is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
           </div>
 
           <button class="accordion">Why choose Wellness District?</button>
           <div class="panel">
-            <p>For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox treatments continue to see us.</p>
+            <p>For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox<sup>&reg</sup> treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox<sup>&reg</sup> treatments continue to see us.</p>
           </div>
 
-          <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
+          <button class="accordion">Are there ways to save on my Botox<sup>&reg</sup> Cosmetic treatment?</button>
           <div class="panel">
-            <p>Of course, we offer the Botox Club which patients can save $2/unit on their Botox treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, CoolSculpting Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
+            <p>Of course, we offer the Botox<sup>&reg</sup> Club which patients can save $2/unit on their Botox<sup>&reg</sup> treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every Botox<sup>&reg</sup> Cosmetic, Kybella, Coolsculpting<sup>&reg</sup> Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
           </div>
 
-          <button class="accordion">What about downtime, results and follow-up appointments for a Botox treatments?</button>
+          <button class="accordion">What about downtime, results and follow-up appointments for a Botox<sup>&reg</sup> treatments?</button>
           <div class="panel">
             <p>The best part about a Botox treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. We do recommend that you do not lie down for four hours following the treatment. We also recommend you do not work out the rest of the day. Results vary but are usually visible by day seven. Complete results can be seen by day 14. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
             <p>After three or four months, you will need a new treatment and can return to Wellness District to maintain your fresh, youthful look.</p>
@@ -148,6 +140,16 @@
                   </script>
 
     </section>
+
+
+  <div class="funky-background">
+  <section class="testimonials-section">
+      <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
+
+  </section>
+  <a class="appt-button testbutton testbuttonlrg" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+</div>
+
     <?php include 'staff-carousel.php' ?>
     <?php include 'new-patient-special.php' ?>
     <?php include 'all-treatments.php' ?>

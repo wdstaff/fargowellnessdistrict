@@ -60,30 +60,24 @@
       <div class="right-wrapper container-spec">
       <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
-        <li>Dermal Fillers</li>
-        <li>Chemical Peels</li>
-        <li>ProCell Micro-Channeling</li>
+        <li>Nutritional Program</li>
+        <li>Lipotropic Injections</li>
+        <li>Coolsculpting<sup>&reg</sup> Elite</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Skincare:</h3>
+        <h3 class="heading-text">Useful Tools</h3>
         <ol class="skincare">
-          <li>TNS Advanced +</li>
-          <li>Retinol Complex</li>
-          <li>Revox Line Relaxer</li>
+          <li>StrongPour Nutrition Bar</li>
+          <li>Fit Fuel Foods</li>
+          <li>My Fitness Pal</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Treatment areas:</h3>
+        <h3 class="heading-text">Staff Favorites from StrongPour Nutrition Bar</h3>
         <ol class="treatment-area">
-            <li>Bunny Lines</li>
-            <li>Crow's Feet</li>
-            <li>Forehead Lines</li>
-            <li>Frown Lift</li>
-            <li>Glabella/Frown Lines</li>
-            <li>Gummy Smile (overexposure of the upper teeth & gums when smiling)</li>
-            <li>Hyperhidrosis (excessive sweating in underarms or hands)</li>
-            <li>Mentalis (dimpled chin)</li>
-            <li>Marionette Lines</li>
-            <li>Platysma Bands - Aging muscle neck lines/bands</li>
+            <li>Peanut Butter Cookie Shake</li>
+            <li>Iced Collagen Waters</li>
+            <li>ThinSlim Noodles</li>
+            <li>Bacon Cheeseburger Tator Tot Casserole from Fit Fuel Foods</li>
             </ol>
 
 

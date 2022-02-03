@@ -2,7 +2,7 @@
 <head>
 
   <title>Aesthetic Services at Wellness District</title>
-  <meta name="description" content="Fargo Wellness District Specializes In Services Like Botox, Coolsculpting, Medical Weight Loss, Juvederm And Kybella!">
+  <meta name="description" content="Fargo Wellness District Specializes In Services Like Botox&reg, Coolsculpting, Medical Weight Loss, Juvederm And Kybella!">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel="stylesheet" type="text/css" href="css/weight-loss-services.css"/>
   <!-- Lato Font Link -->
@@ -27,7 +27,7 @@
 
         <section class="ind-treatment-section">
           <div class="left-ind-treatment-section-wrapper">
-              <img class="ind-treatment-section-img" src="pics/wd189.jpg">
+              <img class="ind-treatment-section-img" src="pics/wd205.jpg">
           </div>
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Nutritional Program</h3>

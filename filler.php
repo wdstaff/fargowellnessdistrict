@@ -47,9 +47,9 @@
       <div class="right-wrapper container-spec">
       <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
-        <li>Botox</li>
+        <li>Botox<sup>&reg</sup></li>
         <li>Kybella</li>
-        <li>CoolSculpting</li>
+        <li>Coolsculpting<sup>&reg</sup> Elite</li>
         </ol>
         <hr>
         <h3 class="heading-text">Skincare:</h3>
@@ -86,7 +86,7 @@
         <h1 class="second-page-header">Dermal Filler Treatments:</h1>
 
         <h3 class="dermal-filler-treatment-header">Mid-Face Rejuvenation</h3>
-        <details><p class="section-text">Restore the loss of volume to your cheeks and mid-face with our signature procedure. Patients will look visibly younger immediately following their visit. Pair with Botox for the ultimate youthful rejuvenation.
+        <details><p class="section-text">Restore the loss of volume to your cheeks and mid-face with our signature procedure. Patients will look visibly younger immediately following their visit. Pair with Botox<sup>&reg</sup> for the ultimate youthful rejuvenation.
         </p></details>
 
         <h3 class="dermal-filler-treatment-header">Lower-Face Rejuvenation</h3>

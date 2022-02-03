@@ -3,7 +3,7 @@
 
 <head>
   <title>Monthly Specials</title>
-  <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox® Treatment At Wellness District For $150 (Up To 35 Units)." />
+  <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox&reg Treatment At Wellness District For $150 (Up To 35 Units)." />
   <link rel="stylesheet" type="text/css" href="css/monthly-specials.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -21,7 +21,7 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/janspec.jpg" />
+  <img class="img-header" src="pics/febspec.jpg" />
 
   <?php include 'staff-carousel.php' ?>
   <?php include 'new-patient-special.php' ?>

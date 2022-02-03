@@ -3,19 +3,19 @@
 <head>
   <title>FARGO WELLNESS DISTRICT</title>
   <link rel="stylesheet" type="text/css" href="css/index.css" />
-  <meta name="description" content="Fargo Wellness District Is The Premier Botox, Dermal Filler & Medical Weight Loss Clinic In The Fargo Moorhead Area. We Take The Time. It's What We Do." />
+  <meta name="description" content="Fargo Wellness District Is The Premier Botox&reg, Dermal Filler & Medical Weight Loss Clinic In The Fargo Moorhead Area. We Take The Time. It's What We Do." />
   <meta name="viewport" width="width=device-width, initial-scale=1.0" />
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
   <!-- W3 Animations !-->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-  <script src="scripts/cookies.js"></script>
+  <script src="scripts/cookies.js" defer></script>
 
 
 </head>
 
-<body onload="checkCookie()">
+<body id="body">
   <main>
   <?php include 'wdheader.php' ?>
 
@@ -23,7 +23,7 @@
   <img class="homepage-header" src="pics/frontpage.jpg" />
     <div id="homepage-header-decal-container" class="homepage-header-decal-container">
       <img class="homepage-header-decal" src="pics/top500.png" />
-  <a class="homepage-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+  <a class="homepage-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book Online</a>
     </div>
 </div>
 
@@ -32,9 +32,9 @@
     </section>
 
     <section class="second section">
-      <div class="second-section-item item1"><a href="botox.php"><img class="pink-pic" src="pics/icon1.png"></a><h2 class="item-header">Injectables</h2><p class="item-p">Relax wrinkles with Botox and restore facial volume with signature dermal filler treatments like our one of a kind mid face rejuvanation.</p></div>
+      <div class="second-section-item item1"><a href="botox.php"><img class="pink-pic" src="pics/icon1.png"></a><h2 class="item-header">Injectables</h2><p class="item-p">Relax wrinkles with Botox<sup>&reg</sup> and restore facial volume with signature dermal filler treatments like our one of a kind mid face rejuvanation.</p></div>
       <div class="second-section-item item2"><a href="weight-loss-services.php"><img class="pink-pic" src="pics/icon2.png"></a><h2 class="item-header">Weight Loss</h2><p class="item-p">Improve your overall health with our medical weight loss nutritional program, over 10 years of experience.</p></div>
-      <div class="second-section-item item3"><a href="coolsculpting.php"><img class="pink-pic" src="pics/icon4.jpg"></a><h2 class="item-header">Body Contouring</h2><p class="item-p">Get the newest body contouring technology at Fargo Moorhead's first and only CoolSculpting Elite Clinic. </p></div>
+      <div class="second-section-item item3"><a href="coolsculpting.php"><img class="pink-pic" src="pics/icon4.jpg"></a><h2 class="item-header">Body Contouring</h2><p class="item-p">Get the newest body contouring technology at Fargo Moorhead's first and only Coolsculpting<sup>&reg</sup> Elite Clinic. </p></div>
     </section>
     <div class="learncont"><a class="second-section-link" href="aesthetic-services.php">Learn More</a></div>
 
@@ -45,7 +45,7 @@
 
   <?php include 'staff-carousel.php' ?>
 
-<script src="scripts/vip-form.js"></script>
+<script id="modal-script" src="scripts/vip-form.js"></script>
  <div id="myModal" class="modalvip">
   <!-- Modal content -->
   <form class="vipform w3-container w3-center w3-animate-top" action="action.php" method="post">

@@ -145,12 +145,7 @@ a {
 .second-section {
   display:flex;
     margin-top:100px;
-    margin-bottom:100px;
-}
-
-.right-section-img {
-  display:block;
-  margin:auto;
+    margin-bottom:50px;
 }
 
 .above-img-text {
@@ -214,7 +209,7 @@ a {
 /* FAQ SECTION */
 
 .third-section {
-  margin-top:100px;
+  margin-top:10px;
   width:85%;
   margin-left:auto;
   margin-right:auto;

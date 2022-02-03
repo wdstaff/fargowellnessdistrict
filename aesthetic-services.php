@@ -2,7 +2,7 @@
 <head>
 
   <title>Aesthetic Services at Wellness District</title>
-  <meta name="description" content="Fargo Wellness District Specializes In Services Like Botox, Coolsculpting, Medical Weight Loss, Juvederm And Kybella!">
+  <meta name="description" content="Fargo Wellness District Specializes In Services Like Botox&reg, CoolSculpting&reg Elite, Medical Weight Loss, Juvederm And Kybella!">
   <meta name="viewport" width="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" type="text/css" href="css/aesthetic-services.css" />
   <!-- Lato Font Link -->
@@ -28,11 +28,11 @@
 
         <section class="ind-treatment-section">
           <div class="left-ind-treatment-section-wrapper">
-              <img class="ind-treatment-section-img" src="pics/slideshow/botox-mobile3.jpg">
+              <img class="ind-treatment-section-img" src="pics/botox-mobile3.jpg">
           </div>
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Fine lines & wrinkles</h3>
-              <p class="right-ind-treatment-section-text">At Wellness District Aesthetics we use an innovative Botox® injection technique not used by any other clinic in the Fargo/Moorhead area. Our Botox® technique gives patients a natural yet flawless look. We take our time to ensure that our Botox® is strategically placed for each individual patient's anatomy.</p>
+              <p class="right-ind-treatment-section-text">At Wellness District Aesthetics we use an innovative Botox&reg injection technique not used by any other clinic in the Fargo/Moorhead area. Our Botox&reg technique gives patients a natural yet flawless look. We take our time to ensure that our Botox&reg is strategically placed for each individual patient's anatomy.</p>
               <a class="ind-treatment-section-button" href="botox.php">Learn More</a>
           </div>
         </section>
@@ -57,8 +57,8 @@
               <img class="ind-treatment-section-img" src="pics/coolsculpting-treatement-pic.jpg">
           </div>
           <div class="right-ind-treatment-section-wrapper">
-              <h3 class="right-ind-treatment-section-header">Coolsculpting</h3>
-              <p class="right-ind-treatment-section-text">CoolSculpting, the revolutionary body contouring treatment, hit the industry back in 2010. At the time, it was the only FDA-cleared treatment to reduce fat using the advanced cooling technology known as Cryolipolysis.</p>
+              <h3 class="right-ind-treatment-section-header">CoolSculpting&reg Elite</h3>
+              <p class="right-ind-treatment-section-text">CoolSculpting&reg Elite, the revolutionary body contouring treatment, hit the industry back in 2010. At the time, it was the only FDA-cleared treatment to reduce fat using the advanced cooling technology known as Cryolipolysis.</p>
               <a class="ind-treatment-section-button" href="coolsculpting.php">Learn More</a>
           </div>
         </section>

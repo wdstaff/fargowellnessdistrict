@@ -2,7 +2,7 @@
 <html>
 
 <head>
-  <title>FARGO BOTOX</title>
+  <title>CHEMICAL PEELS FARGO</title>
   <meta name="description" content="At Wellness District we use the exceptional line of peels from SkinMedica." />
   <link rel="stylesheet" type="text/css" href="css/chemical-peel.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
@@ -42,15 +42,15 @@
         <p class="section-text">The chemical peel exfoliates your skin using a specific solution of chemicals. Peels come in different strengths, targeting mild to moderate skin issues. Our experienced team will determine which peel will fit your goals and skin type.</p>
         <p class="section-text">At Wellness District we use the exceptional line of peels from SkinMedica®.</p>
 
-        <li class="section-text section-text-li"><h2 class="midline-header">Illuminize Peel:</h2> This is the gentlest and lightest-strength peel. Like all of the peels, it has minimal downtime. It treats mild imperfections, including fine lines and rough texture. Because it is so gentle, it can be a great option for first-time peel patients who want to get a feel for the treatment. The mild solution means you won't experience any peeling skin after the appointment, but you will still see a more even, uniform complexion.</li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Illuminize Peel<sup>&reg</sup>: $150 -</h2> This is the gentlest and lightest-strength peel. Like all of the peels, it has minimal downtime. It treats mild imperfections, including fine lines and rough texture. Because it is so gentle, it can be a great option for first-time peel patients who want to get a feel for the treatment. The mild solution means you won't experience any peeling skin after the appointment, but you will still see a more even, uniform complexion.</li>
         <br>
-        <li class="section-text section-text-li"><h2 class="midline-header">Vitalize Peel:</h2>Creates radiant skin by treating mild skin imperfections. You will notice a difference after a single treatment alone, and ideal results can be reached with three to six treatment sessions.</li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Vitalize Peel<sup>&reg</sup>: $200 -</h2> Creates radiant skin by treating mild skin imperfections. You will notice a difference after a single treatment alone, and ideal results can be reached with three to six treatment sessions.</li>
         <br>
-        <li class="section-text section-text-li"><h2 class="midline-header">Rejuvenize Peel:</h2> This peel is great for treating moderate skin imperfections. Results include smooth skin, softened wrinkles and an overall healthy facial appearance. If you have a dark skin tone, we may suggest using one of the milder peels first, to establish how it is tolerated.. If your skin responds well to those, then the Rejuvenize peel will be an option.</li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Rejuvenize Peel<sup>&reg</sup>: $250 -</h2> This peel is great for treating moderate skin imperfections. Results include smooth skin, softened wrinkles and an overall healthy facial appearance. If you have a dark skin tone, we may suggest using one of the milder peels first, to establish how it is tolerated.. If your skin responds well to those, then the Rejuvenize peel will be an option.</li>
         <br>
         <p class="section-text">When you visit our practice as a first time aesthetic patient, we will be able to suggest the most appropriate peel and number of peels needed based on your skin and your goals.</p>
 
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book an appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
 
     </div>
   </div>
@@ -60,7 +60,7 @@
       <h3 class="heading-text">Complimentary Treatments:</h3>
       <ol class="treatments">
         <li>Facials</li>
-        <li>Botox</li>
+        <li>Botox<sup>&reg</sup></li>
         <li>Dermal Fillers</li>
         </ol>
         <hr>
@@ -93,48 +93,8 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book an appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
 </div>
-  <section class="third-section faq-section">
-              <button class="accordion">What is BOTOX Cosmetic?</button>
-          <div class="panel">
-            <p>BOTOX Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When BOTOX is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline.</p>
-          </div>
-
-          <button class="accordion">Why choose Wellness District?</button>
-          <div class="panel">
-            <p>For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox treatments continue to see us.</p>
-          </div>
-
-          <button class="accordion">Are there ways to save on my BOTOX Cosmetic treatment?</button>
-          <div class="panel">
-            <p>Of course, we offer the Botox Club which patients can save $2/unit on their Botox treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every BOTOX Cosmetic, Kybella, CoolSculpting Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
-          </div>
-
-          <button class="accordion">What about downtime, results and follow-up appointments for a Botox treatments?</button>
-          <div class="panel">
-            <p>The best part about a Botox treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. We do recommend that you do not lie down for four hours following the treatment. We also recommend you do not work out the rest of the day. Results vary but are usually visible by day seven. Complete results can be seen by day 14. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.</p>
-            <p>After three or four months, you will need a new treatment and can return to Wellness District to maintain your fresh, youthful look.</p>
-          </div>
-
-          <script>
-                    var acc = document.getElementsByClassName("accordion");
-                    var i;
-
-                    for (i = 0; i < acc.length; i++) {
-                    acc[i].addEventListener("click", function() {
-                      this.classList.toggle("active");
-                      var panel = this.nextElementSibling;
-                      if (panel.style.maxHeight) {
-                        panel.style.maxHeight = null;
-                      } else {
-                        panel.style.maxHeight = panel.scrollHeight + "px";
-                      }
-                    });
-                    }
-                  </script>
-
-    </section>
     <?php include 'staff-carousel.php' ?>
     <?php include 'new-patient-special.php' ?>
     <?php include 'all-treatments.php' ?>
