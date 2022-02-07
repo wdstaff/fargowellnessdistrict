@@ -54,9 +54,9 @@
           <details><p class="section-text">Bask in the built-in TLC of our dermaplaning treatment. Begin with freshly cleansed skin before your esthetician gently removes the dead layer of skin and peach fuzz from your face. Gift yourself soothing moments of tranquility during enzyme exfoliation, calming mask, and the opulent post treatment skincare, SPF, and make-up products. Reveal your softest skin today!
           </p></details>
 
-          <h3 class="dermal-filler-treatment-header"><a href="diamond-glow.php">DiamondGlow Facial: $150 (Click Here)</a></h3>
+          <h3 class="dermal-filler-treatment-header"><a href="diamond-glow.php">DiamondGlow<sup>&reg</sup> Facial: $150 (Click Here)</a></h3>
 
-          <details><p class="section-text">The DiamondGlow Facial is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. The DiamondGlow dermabrasion device has a special wand that uses a diamond tip to gently remove dead skin cells on the outer layer of your skin. The diamond tip exfoliates the skin while high-powered suction deeply cleans your pores. After your DiamondGlow treatment, you will notice visibly healthier, glowing skin that appears well-hydrated and has a smoother, more even skin tone. Reveal your GLOW today!
+          <details><p class="section-text">The DiamondGlow<sup>&reg</sup> Facial is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. The DiamondGlow<sup>&reg</sup> dermabrasion device has a special wand that uses a diamond tip to gently remove dead skin cells on the outer layer of your skin. The diamond tip exfoliates the skin while high-powered suction deeply cleans your pores. After your DiamondGlow<sup>&reg</sup> treatment, you will notice visibly healthier, glowing skin that appears well-hydrated and has a smoother, more even skin tone. Reveal your GLOW today!
           </p></details>
 
 

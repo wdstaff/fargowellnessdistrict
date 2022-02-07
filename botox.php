@@ -44,7 +44,7 @@
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Complimentary Treatments:</h3>
+      <h3 class="heading-text">Complementary Treatments:</h3>
       <ol class="treatments">
         <li>Dermal Fillers</li>
         <li>Chemical Peels</li>
@@ -113,7 +113,7 @@
 
           <button class="accordion">Are there ways to save on my Botox<sup>&reg</sup> Cosmetic treatment?</button>
           <div class="panel">
-            <p>Of course, we offer the Botox<sup>&reg</sup> Club which patients can save $2/unit on their Botox<sup>&reg</sup> treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every Botox<sup>&reg</sup> Cosmetic, Kybella, Coolsculpting<sup>&reg</sup> Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
+            <p>Of course, we offer the Botox<sup>&reg</sup> Club which patients can save $2/unit on their Botox<sup>&reg</sup> treatment. Call for more information. We also accept Alle rewards! It’s free to join and you’ll earn points on every Botox<sup>&reg</sup> Cosmetic, Kybella<sup>&reg</sup>, Coolsculpting<sup>&reg</sup> Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica<sup>&reg</sup> purchase you make. Best of all, it’s free to join. You’ll be able to redeem points for future savings.</p>
           </div>
 
           <button class="accordion">What about downtime, results and follow-up appointments for a Botox<sup>&reg</sup> treatments?</button>
@@ -151,7 +151,7 @@
 </div>
 
     <?php include 'staff-carousel.php' ?>
-    <?php include 'new-patient-special.php' ?>
+    <div id="botoxspecial"><?php include 'new-patient-special.php' ?></div>
     <?php include 'all-treatments.php' ?>
   </main>
 </body>

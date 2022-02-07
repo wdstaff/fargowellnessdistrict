@@ -58,7 +58,7 @@
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Complimentary Treatments:</h3>
+      <h3 class="heading-text">Complementary Treatments:</h3>
       <ol class="treatments">
         <li>Botox<sup>&reg</sup></li>
         <li>Dermal Filler</li>

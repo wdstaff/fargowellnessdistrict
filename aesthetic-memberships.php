@@ -23,7 +23,7 @@
     <section class="section white bottom">
       <h2 class="listheader">SIGNATURE MEMBERSHIP: $65/MONTH (MINIMUM 4 MONTHS)</h2>
           <li>$65 Towards Any Service</li>
-          <li>20% Off All Body Contouring and Kybella</li>
+          <li>20% Off All Body Contouring and Kybella<sup>&reg</sup></li>
           <li>$10.50/Unit Botox</li>
           <li>12% Off All Skin Care, Make-up and Latisse</li>
           <li>10% Off All other skin care services</li>
@@ -33,7 +33,7 @@
       <h2 class="listheader">PREMIUM MEMBERSHIP: $125/MONTH (MINIMUM 4 MONTHS)</h2>
         <li>$125 Towards Any Service</li>
         <li>$125 For Dermal Infusion Treatment or Chemical Peel</li>
-        <li>25% Off All Body Contouring and Kybella</li>
+        <li>25% Off All Body Contouring and Kybella<sup>&reg</sup></li>
         <li>$10.00/Unit Botox</li>
         <li>15% Off All Skin Care, Make-up and Latisse</li>
         <li>10% Off All Other Skin Care Services</li>

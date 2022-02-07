@@ -30,7 +30,48 @@
     <div class="item">
       <img src="pics/BAFBOTOX2.jpg" alt="Before And After Botox Picture">
     </div>
+
+  <div class="item">
+    <img src="pics/BAFBOTOX2.jpg" alt="Before And After Botox Picture">
   </div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX3.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX5.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX6.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX7.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX8.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX9.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX10.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX11.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/BAFBOTOX12.jpg" alt="Before And After Botox Picture">
+</div>
+
+</div>
 
   <!-- Left and right controls -->
   <a class="left carousel-control" href="#myCarousel" data-slide="prev">

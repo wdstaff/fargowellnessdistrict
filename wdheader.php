@@ -46,13 +46,13 @@ gtag('config', 'UA-88182100-3');
 <body>
 <header id="top-header" class="top-header">
   <div class="wrapper"><a class="top-phone-number" href="tel:7012053088"><i class="fas fa-phone line"> 701.205.3088</i></a></div>
-  <div class="wrapper"><a class="top-phone-number" href="monthly-specials.php" target="_blank">$150 Botox<sup>&reg</sup> Treatment For First Time Wellness District Patients!</a></div>
+  <div class="wrapper"><a class="top-phone-number" href="botox.php#botoxspecial">$150 Botox<sup>&reg</sup> Treatment For First Time Wellness District Patients!</a></div>
   <div class="wrapper"><a class="top-phone-number" href="mailto:staff@fargowellnessdistrict.com"><i class="fas fa-envelope"></i></a></div>
 </header>
 <header id="bottom-header" class="bottom-header">
   <a onclick="openmenu()"><div id="hamburger" class="wrapper hamburger"><span></span><p class="hamtext">Menu</p></div></a>
   <div class="wrapper"><a href="index.php"><img class="logo" src="pics/wdlogo.png"></a></div>
-  <div class="wrapper header-right"><a onclick="openshopmenu()"><p class="header-p shop-drop-text">Shop</p></a><div id="shop-dropdown" class="shop-dropdown"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><h5 class="bottom-header-text">Shop Skin Medica</h5></a><a href="https://www.colorescience.com/collections/retailer-landing-page?designate-location=4540"><h5 class="bottom-header-text">Shop Colorescience</h5></a>
+  <div class="wrapper header-right"><a onclick="openshopmenu()"><p class="header-p shop-drop-text">Shop</p></a><div id="shop-dropdown" class="shop-dropdown"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><h5 class="bottom-header-text">Shop SkinMedica<sup>&reg</sup></h5></a><a href="https://www.colorescience.com/collections/retailer-landing-page?designate-location=4540"><h5 class="bottom-header-text">Shop Colorescience</h5></a>
   </div><a href="https://schedulingapp.mypatientnow.com/Account/Login/719"><p class="header-p-middle">Book</p></a><a href="tel:701-205-3088"><i class="fas fa-phone"></i></a></div>
 </header>
 <div id="extra-menu" class="extra-menu w3-container w3-center w3-animate-top">
@@ -66,7 +66,7 @@ gtag('config', 'UA-88182100-3');
                                   <p class="treatment menu-subheader-text"><a href="procell.php">Procell</a></p>
                                   <p class="treatment menu-subheader-text"><a href="chemical-peel.php">Chemical Peels</a></p>
                                   <p class="treatment menu-subheader-text"><a href="diamond-glow.php">Diamond Glow</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Kybella</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Kybella<sup>&reg</sup></a></p>
                                 </div>
     <div class="extra-menu-items"><p class="menu-header-text">COMPANY<a onClick="companymenu()"><i id="company-arrow" class="fas fa-angle-right company-arrow" style="font-size:2em;float:right;"></i><a/></p>
                                   <p id="companytest" class="company menu-subheader-text"><a href="about-us.php">About Us</a></p>
@@ -79,7 +79,7 @@ gtag('config', 'UA-88182100-3');
                                   <p id="resourcetest" class=" resource menu-subheader-text"><a href="monthly-specials.php">Monthly Specials</a></p>
                                   <p class="resource menu-subheader-text"><a href="patient-forms.php">Patient Forms</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book Online</a></p>
-                                  <p class="company menu-subheader-text"><a href="#">Before & Afters</a></p>
+                                  <p class="company menu-subheader-text"><a href="#">Aesthetic Memberships</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://fitfuelfoods.com/">Fit Fuel Foods</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://www.fargostrongpour.com">StrongPour Nutrition Bar</a></p>
 
@@ -92,8 +92,8 @@ gtag('config', 'UA-88182100-3');
     <div class="verticaldivide"></div>
   <div class="item-wrapper desktop-right">
     <div class="extra-menu-items"><p class="menu-header-text">SHOP ONLINE</p></div>
-    <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><img class="menuimg" src="pics/wd39.jpg"></a></div>
-    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict"><img class="menuimg" src="pics/wd32.jpg"></a></div>
+    <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><img class="menuimg" src="pics/wd39.jpg"><div class="shoppingmenutext1">Shop SkinMedica<sup>&reg</sup></div></a></div>
+    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict"><img class="menuimg" src="pics/wd32.jpg"><div class="shoppingmenutext2">Shop Colorescience<sup>&reg</sup></div></a></div>
     </div>
   <div class="item-wrapper desktop-right dright2">
     <div class="extra-menu-items"><p class="menu-header-text">OUR LOCATION</p></div>

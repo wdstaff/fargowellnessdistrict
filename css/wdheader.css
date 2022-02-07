@@ -189,6 +189,24 @@ a.top-phone-number:hover {
   display:none;
 }
 
+.shoppingmenutext1 {
+  position: absolute;
+  top:29%;
+  font-size:.8em;
+  color:white;
+  letter-spacing: .2em;
+
+}
+
+.shoppingmenutext2 {
+  position: absolute;
+  top:45%;
+  font-size:.8em;
+  color:white;
+  letter-spacing: .2em;
+
+}
+
 @media only screen and (min-width:1315px) {
 .extra-menu {
   padding-right:14em;

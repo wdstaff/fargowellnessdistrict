@@ -52,14 +52,14 @@
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Complimentary Treatments:</h3>
+      <h3 class="heading-text">Complementary Treatments:</h3>
       <ol class="treatments">
         <li>Mutritional Program</li>
         <li>Metabolic Detox</li>
         <li>Coolsculpting<sup>&reg</sup> Elite</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Complimentary Products</h3>
+        <h3 class="heading-text">Complementary Products</h3>
         <ol class="skincare">
           <li>Fish Oil</li>
           <li>Vitamin D</li>

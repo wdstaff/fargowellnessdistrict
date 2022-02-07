@@ -40,7 +40,7 @@
         <li class="section-text section-text-li"><h2 class="midline-header">Irregular pigmentation</h2></li>
         <li class="section-text section-text-li"><h2 class="midline-header">Sun spots</h2></li>
         <p class="section-text">The chemical peel exfoliates your skin using a specific solution of chemicals. Peels come in different strengths, targeting mild to moderate skin issues. Our experienced team will determine which peel will fit your goals and skin type.</p>
-        <p class="section-text">At Wellness District we use the exceptional line of peels from SkinMedica®.</p>
+        <p class="section-text">At Wellness District we use the exceptional line of peels from SkinMedica<sup>&reg</sup>.</p>
 
         <li class="section-text section-text-li"><h2 class="midline-header">Illuminize Peel<sup>&reg</sup>: $150 -</h2> This is the gentlest and lightest-strength peel. Like all of the peels, it has minimal downtime. It treats mild imperfections, including fine lines and rough texture. Because it is so gentle, it can be a great option for first-time peel patients who want to get a feel for the treatment. The mild solution means you won't experience any peeling skin after the appointment, but you will still see a more even, uniform complexion.</li>
         <br>
@@ -57,7 +57,7 @@
 
     <div class="right-section">
       <div class="right-wrapper container-spec">
-      <h3 class="heading-text">Complimentary Treatments:</h3>
+      <h3 class="heading-text">Complementary Treatments:</h3>
       <ol class="treatments">
         <li>Facials</li>
         <li>Botox<sup>&reg</sup></li>
