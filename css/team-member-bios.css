@@ -1,0 +1,150 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+.botox-titantron {
+  display:block;
+  margin:auto;
+  height:50vh;
+  width:80%;
+  object-fit: cover;
+  background-color:rgba(0,132,128,1);
+
+}
+
+.img-header {
+  display:block;
+  margin:auto;
+  height:50vh;
+  background-color:rgba(0,132,128,1);
+  width:80%;
+  object-fit: cover;
+
+}
+
+
+
+
+
+.first-section {
+  display:flex;
+    margin-top:100px;
+}
+
+.next-section {
+  display:flex;
+    margin-top:150px;
+}
+
+.left-section-team {
+  width:40%;
+  text-align:center;
+}
+
+.left-section-team img {
+  border-radius:100px;
+  height:375px;
+  width:500px;
+  padding-left:20px;
+  padding-right:20px;
+  object-fit:cover;
+}
+
+.right-section-team {
+  width:50%;
+}
+
+
+/* Testimonials Section */
+
+.testimonials-section {
+  text-align: center;
+  display:block;
+  margin-top:100px;
+}
+
+.testbutton {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.testbuttonlrg {
+  width:200px;
+}
+
+
+
+@media only screen and (max-width:1080px) {
+
+
+  .botox-titantron {
+    display:block;
+    margin:auto;
+    height:50vh;
+    width:100%;
+    object-fit: cover;
+    background-color:rgba(0,132,128,1);
+
+  }
+
+  .left-section-team img {
+    border-radius:0px;
+    padding-right:0;
+    padding-left:0;
+    height:375px;
+    width:100%;
+    object-fit:cover;
+    margin-bottom:5px;
+  }
+
+  .img-header {
+    display:block;
+    margin:auto;
+    height:55vh;
+    background-color:rgba(0,132,128,1);
+    width:100%;
+    object-fit: cover;
+
+  }
+
+  .next-section {
+    display:block;
+    margin-top:150px;
+  }
+
+  .first-section {
+    display:block;
+    margin-top:100px;
+  }
+
+  .right-section-team {
+    width:100%;
+  }
+
+  .profile-header {
+    text-align: center;
+    margin-top:5px;
+  }
+
+  .profile-bio {
+    text-align:center;
+    padding-left:5px;
+    padding-right:5px;
+  }
+
+  .left-section-team {
+    width:100%;
+
+  }

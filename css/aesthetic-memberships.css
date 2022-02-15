@@ -1,0 +1,181 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+.botox-titantron {
+  display:block;
+  margin:auto;
+  height:50vh;
+  width:80%;
+  object-fit: cover;
+  background-color:rgba(0,132,128,1);
+
+}
+
+.img-header {
+  display:block;
+  margin:auto;
+  height:50vh;
+  background-color:rgba(0,132,128,1);
+  width:80%;
+  object-fit: cover;
+
+}
+
+.page_header_aesthetic_memberships {
+  margin-top:40px;
+  text-align:center;
+}
+
+.aesthetic_memberships_section {
+  width:90%;
+  margin:auto;
+  margin-top:20px;
+}
+
+.aesthetic_memberships_section li {
+  text-indent: 2%;
+}
+
+.aesthetic_page_header_break {
+  width:50%;
+  margin:auto;
+
+}
+
+
+
+
+/* Testimonials Section */
+
+.testimonials-section {
+  text-align: center;
+  display:block;
+}
+
+.testbutton {
+  margin-left:auto;
+  margin-right:auto;
+}
+
+.testbuttonlrg {
+  width:200px;
+}
+
+/* FAQ SECTION */
+
+.third-section {
+  margin-top:10px;
+  width:85%;
+  margin-left:auto;
+  margin-right:auto;
+  margin-bottom:100px;
+}
+
+.third-section button {
+  font-size:.7em;
+  font-weight: bold;
+  border-bottom:1px grey solid;
+}
+
+.third-section p {
+  font-size:.7em;
+}
+
+.accordion {
+  background-color:white;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 100%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+  transition: 0.4s;
+}
+
+.panel {
+  padding: 0 18px;
+  background-color: white;
+  max-height: 0;
+  overflow: hidden;
+  transition: max-height 0.2s ease-out;
+}
+
+.accordion:after {
+  content: '\02795'; /* Unicode character for "plus" sign (+) */
+  font-size: 13px;
+  color: #777;
+  float: right;
+  margin-left: 5px;
+}
+
+.third-section .active:after {
+  content: "\2796"; /* Unicode character for "minus" sign (-) */
+}
+
+.third-section .active, .accordion:hover {
+  background-color: #ccc;
+}
+
+
+
+/* Funky Background */
+
+.funky-background {
+  background-image:url('/pics/wd-pattern.jpg');
+
+}
+
+.desktop-move-button {
+  display:none;
+}
+
+
+
+
+
+
+@media only screen and (max-width:1080px) {
+
+
+  .botox-titantron {
+    display:block;
+    margin:auto;
+    height:50vh;
+    width:100%;
+    object-fit: cover;
+    background-color:rgba(0,132,128,1);
+
+  }
+
+  .img-header {
+    display:block;
+    margin:auto;
+    height:55vh;
+    background-color:rgba(0,132,128,1);
+    width:100%;
+    object-fit: cover;
+
+  }
+
+  .aesthetic_memberships_section h2 {
+    font-size:1.2em;
+  }
+
+  .aesthetic_memberships_section li {
+    font-size:.9em;
+  }

@@ -66,7 +66,7 @@ gtag('config', 'UA-88182100-3');
                                   <p class="treatment menu-subheader-text"><a href="procell.php">Procell</a></p>
                                   <p class="treatment menu-subheader-text"><a href="chemical-peel.php">Chemical Peels</a></p>
                                   <p class="treatment menu-subheader-text"><a href="diamond-glow.php">Diamond Glow</a></p>
-                                  <p class="treatment menu-subheader-text"><a href="coming-soon.php">Kybella<sup>&reg</sup></a></p>
+                                  <p class="treatment menu-subheader-text"><a href="kybella.php">Kybella<sup>&reg</sup></a></p>
                                 </div>
     <div class="extra-menu-items"><p class="menu-header-text">COMPANY<a onClick="companymenu()"><i id="company-arrow" class="fas fa-angle-right company-arrow" style="font-size:2em;float:right;"></i><a/></p>
                                   <p id="companytest" class="company menu-subheader-text"><a href="about-us.php">About Us</a></p>
@@ -79,7 +79,7 @@ gtag('config', 'UA-88182100-3');
                                   <p id="resourcetest" class=" resource menu-subheader-text"><a href="monthly-specials.php">Monthly Specials</a></p>
                                   <p class="resource menu-subheader-text"><a href="patient-forms.php">Patient Forms</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book Online</a></p>
-                                  <p class="company menu-subheader-text"><a href="#">Aesthetic Memberships</a></p>
+                                  <p class="resource menu-subheader-text"><a href="aesthetic-memberships.php">Aesthetic Memberships</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://fitfuelfoods.com/">Fit Fuel Foods</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://www.fargostrongpour.com">StrongPour Nutrition Bar</a></p>
 
@@ -92,8 +92,12 @@ gtag('config', 'UA-88182100-3');
     <div class="verticaldivide"></div>
   <div class="item-wrapper desktop-right">
     <div class="extra-menu-items"><p class="menu-header-text">SHOP ONLINE</p></div>
-    <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><img class="menuimg" src="pics/wd39.jpg"><div class="shoppingmenutext1">Shop SkinMedica<sup>&reg</sup></div></a></div>
-    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict"><img class="menuimg" src="pics/wd32.jpg"><div class="shoppingmenutext2">Shop Colorescience<sup>&reg</sup></div></a></div>
+    <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/"></a></div>
+      <img class="menuimg" src="pics/wd39.jpg">
+      <div class="shoppingmenutext1">Shop SkinMedica<sup>&reg</sup></div>
+    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict"></a></div>
+      <img class="menuimg" src="pics/wd32.jpg">
+      <div class="shoppingmenutext2">Shop Colorescience<sup>&reg</sup></div>
     </div>
   <div class="item-wrapper desktop-right dright2">
     <div class="extra-menu-items"><p class="menu-header-text">OUR LOCATION</p></div>
@@ -102,7 +106,7 @@ gtag('config', 'UA-88182100-3');
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="tel:7012053088">701.205.3088</a></p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719">Schedule an Appointment</a></p></div>
     <div class="extra-menu-items spec-center-user"><i class="fas fa-user"></i></div>
-    <div class="extra-menu-items"><p class="menu-subheader-text">Open M-H: 9:00 am - 6:30pm</p></div>
+    <div class="extra-menu-items"><p class="menu-subheader-text">Open M-H: 9:00 am - 6:00pm</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Open F: 9:00 am - 4:00 pm</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Closed Saturday & Sunday</p></div>
   </div>

@@ -163,7 +163,7 @@ a.top-phone-number:hover {
 }
 
 .menuimg:first-of-type {
-  margin-bottom:1em;
+
 }
 
 .topitem {
@@ -190,21 +190,18 @@ a.top-phone-number:hover {
 }
 
 .shoppingmenutext1 {
-  position: absolute;
-  top:29%;
   font-size:.8em;
-  color:white;
+  color:grey;
   letter-spacing: .2em;
+  text-align: justify;
 
 }
 
 .shoppingmenutext2 {
-  position: absolute;
-  top:45%;
   font-size:.8em;
-  color:white;
+  color:grey;
   letter-spacing: .2em;
-
+  text-align:justify;
 }
 
 @media only screen and (min-width:1315px) {

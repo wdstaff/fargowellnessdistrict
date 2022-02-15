@@ -31,3 +31,11 @@
 [09-Jan-2022 04:12:07 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\contact-us.php on line 15
 [20-Jan-2022 00:01:05 UTC] PHP Warning:  Undefined array key "subject" in C:\inetpub\wwwroot\action.php on line 4
 [20-Jan-2022 00:01:07 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\inetpub\wwwroot\action.php on line 10
+[15-Feb-2022 15:43:58 UTC] PHP Warning:  include(banner.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\aesthetic-memberships.php on line 15
+[15-Feb-2022 15:43:58 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\aesthetic-memberships.php on line 15
+[15-Feb-2022 15:45:57 UTC] PHP Warning:  include(banner.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\aesthetic-memberships.php on line 15
+[15-Feb-2022 15:45:57 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\aesthetic-memberships.php on line 15
+[15-Feb-2022 15:46:07 UTC] PHP Warning:  include(banner.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\aesthetic-memberships.php on line 15
+[15-Feb-2022 15:46:07 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\aesthetic-memberships.php on line 15
+[15-Feb-2022 16:20:33 UTC] PHP Warning:  include(banner.php): Failed to open stream: No such file or directory in C:\inetpub\wwwroot\aesthetic-memberships.php on line 15
+[15-Feb-2022 16:20:33 UTC] PHP Warning:  include(): Failed opening 'banner.php' for inclusion (include_path='.;C:\php\pear') in C:\inetpub\wwwroot\aesthetic-memberships.php on line 15

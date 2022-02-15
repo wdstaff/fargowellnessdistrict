@@ -1,0 +1,40 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+}
+
+
+
+
+/* Patient Forms CSS */
+
+.patient-forms-header {
+  margin-top:7vh;
+  margin-bottom:10vh;
+  text-align: center;
+}
+
+.listheader {
+  text-align: center;
+
+}
+
+.patient-forms-section {
+  text-align: center;
+}
+
+.patient-forms-section a:hover {
+
+  color:blue;
+
+}

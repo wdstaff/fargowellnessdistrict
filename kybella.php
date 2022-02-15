@@ -22,7 +22,7 @@
   <?php include 'wdheader.php' ?>
 
   <div class="botox-titantron">
-  <img class="img-header" src="pics/wd179.jpg" />
+  <img class="img-header" src="pics/WD348.jpg" />
 </div>
 
   <section class="first-section">
@@ -45,25 +45,22 @@
       <div class="right-wrapper container-spec">
       <h3 class="heading-text">Complementary Treatments:</h3>
       <ol class="treatments">
-        <li>Facials</li>
-        <li>Botox<sup>&reg</sup></li>
-        <li>Dermal Fillers</li>
+        <li>CoolSculpting<sub>&reg</sub> Elite</li>
+        <li>Dermal Fillers in the Chin/Jaw</li>
         </ol>
         <hr>
         <h3 class="heading-text">Skincare:</h3>
         <ol class="skincare">
-          <li>Ceremide Treatment Cream</li>
-          <li>Dermal Repair Cream</li>
-          <li>Lytera 2.0</li>
+          <li>Neck Correct</li>
+          <li>Body Firm</li>
         </ol>
         <hr>
         <h3 class="heading-text">Treatment areas:</h3>
         <ol class="treatment-area">
-            <li>Face</li>
-            <li>Neck</li>
-            <li>Décolleté</li>
-            <li>Back</li>
-            <li>Other areas upon request</li>
+            <li>Double Chin/Chin</li>
+            <li>Jowls/Jawline</li>
+            <li>Bra Fat</li>
+            <li>Abdomen</li>
             </ol>
 
 

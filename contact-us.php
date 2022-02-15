@@ -50,7 +50,7 @@
 ​         <br><br>
           Office Hours:
           <br>
-          Mon - Thurs: 9:00am - 6:30pm
+          Mon - Thurs: 9:00am - 6:00pm
           <br>
           Fridays: 9:00am - 4:00pm
           <br>

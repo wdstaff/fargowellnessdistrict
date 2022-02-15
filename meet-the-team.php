@@ -28,7 +28,7 @@
       <div class="meet-the-team-container">
       <h4><b>Spencer Berry, MD</b></h4>
       <h5>Medical Director & Master Injector</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#spencer">Learn More</a>
       </div>
       </div>
 
@@ -37,7 +37,7 @@
       <div class="meet-the-team-container">
       <h4><b>Nichole Jackson-Lind, FNP-C</b></h4>
       <h5>Medical Weight Loss Provider</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#nichole">Learn More</a>
       </div>
       </div>
 
@@ -46,7 +46,9 @@
       <div class="meet-the-team-container">
       <h4><b>Samantha Koepp, LRD</b></h4>
       <h5>Registered Dietician & StrongPour Director</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#sam">Learn More</a>
+
+
       </div>
       </div>
 
@@ -55,7 +57,7 @@
       <div class="meet-the-team-container">
       <h4><b>Alecia Zieman, RN</b></h4>
       <h5>Injection & CoolSculpting Specialist</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#alecia">Learn More</a>
       </div>
       </div>
 
@@ -64,7 +66,7 @@
       <div class="meet-the-team-container">
       <h4><b>Megan Medrano, RN</b></h4>
       <h5>Injection & CoolSculpting Specialist</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#megan">Learn More</a>
       </div>
       </div>
 
@@ -73,7 +75,7 @@
       <div class="meet-the-team-container">
       <h4><b>Katie Bittner, RN</b></h4>
       <h5>CoolSculpting Director & Injection Specialist</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#katie">Learn More</a>
       </div>
       </div>
 
@@ -82,7 +84,7 @@
       <div class="meet-the-team-container">
       <h4><b>Jamie Pederson, LPN</b></h4>
       <h5>Medical Weight Loss Nurse</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#jamie">Learn More</a>
       </div>
       </div>
 
@@ -91,7 +93,7 @@
       <div class="meet-the-team-container">
       <h4><b>Maribel Hamm, WHNP-C</b></h4>
       <h5>Medical Weight Loss Provider</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#maribel">Learn More</a>
       </div>
       </div>
 
