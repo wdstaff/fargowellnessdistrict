@@ -63,7 +63,7 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 </div>
 
     <?php include 'staff-carousel.php' ?>

@@ -4,13 +4,27 @@
   <title>FARGO WELLNESS DISTRICT</title>
   <link rel="stylesheet" type="text/css" href="css/index.css" />
   <meta name="description" content="Fargo Wellness District Is The Premier Botox&reg, Dermal Filler & Medical Weight Loss Clinic In The Fargo Moorhead Area. We Take The Time. It's What We Do." />
-  <meta name="viewport" width="width=device-width, initial-scale=1.0" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet" />
   <!-- W3 Animations !-->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
   <script src="scripts/cookies.js" defer></script>
+  <link rel=”canonical” href=”https://fargowellnessdistrict.com” />
+  <!-- Structured Data -->
+
+  <!-- Logo Structured Data -->
+
+  <script type="application/ld+json">
+    {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "url": "https://www.fargowellnessdistrict.com",
+      "logo": "https://www.fargowellnessdistrict.com/pics/wdlogo.png"
+    }
+    </script>
+
 
 
 </head>
@@ -23,7 +37,7 @@
   <img class="homepage-header" src="pics/frontpage.jpg" />
     <div id="homepage-header-decal-container" class="homepage-header-decal-container">
       <img class="homepage-header-decal" src="pics/top500.png" />
-  <a class="homepage-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book Online</a>
+  <a class="homepage-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book Online</a>
     </div>
 </div>
 
@@ -74,8 +88,8 @@
 </div>
 </main>
 <div class="sticky-schedule">
-  <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><i class="far fa-calendar-alt line calendar"></i></a>
-  <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719"><p class="sticky-schedule-text">Book A Consultation</p></a>
+  <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer"><i class="far fa-calendar-alt line calendar"></i></a>
+  <a class="sticky-schedule-link" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer"><p class="sticky-schedule-text">Book A Consultation</p></a>
 </a>
 </div>
 <?php include 'wdfooter.php' ?>

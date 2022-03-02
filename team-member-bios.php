@@ -31,7 +31,13 @@
     </div>
     <div class="right-section-team">
       <h2 class="profile-header">Spencer Berry, MD</h2>
-      <p class="profile-bio">Jamie Pederson is a Licensed Practical Nurse for the Wellness District. She has 16 years of nursing experience with time spent at Essentia Health ambulatory care and Bethany homes before starting at The Wellness District in 2011(formerly known as Medical Weightloss Specialists.) Jamie works full time with our medical weightloss team and as an active patient herself in the weight management program, she specializes in helping patients with the nutritional education to achieve and sustain weight loss while still living and enjoying their life.  Pederson, lives in Fargo with her husband Scott and 3 daughters. She enjoys being active and spending time at the lake with family and friends.
+      <p class="profile-bio">Spencer Berry, MD is the Medical Director of Wellness District Medical Weight Loss and Aesthetics.
+      </p>
+      <p class="profile-bio">Dr. Spencer Berry is an AOA graduate from the Baylor College of Medicine in Houston, Texas. He is a member of the Obesity Medicine Association (OMA) and is Board Certified in Family Medicine and Obesity Medicine. He has over 35 years of experience as a practicing physician. He has served on the national board of directors for the OMA and has presented locally, regionally and nationally.
+      </p>
+      <p class="profile-bio">Dr. Berry received his certificate in aesthetic medicine from the America Academy of Aesthetic Medicine. He is a master expert injector having completed advanced training the Allergan Medical Institute and utilizes the advanced and specialized MD codes for filler placement. Dr. Berry places special emphasis on patient education, full face assessment and the best in preventive and therapeutic care for his patients.
+      </p>
+      <p class="profile-bio">Dr. Berry’s patient care focused practice, compassion, and team approach is an ideal environment for everyone looking to achieve a healthier lifestyle through healthy aging and prevention.
       </p>
     </div>
   </section>
@@ -138,7 +144,7 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 </div>
 
     <?php include 'staff-carousel.php' ?>

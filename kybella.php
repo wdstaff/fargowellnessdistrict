@@ -36,7 +36,7 @@
         <p class="section-text">The active ingredient used in Kybella<sup>&reg</sup> injections is deoxycholic acid. This is a naturally-occurring molecule found in the body and it helps with the absorption and breakdown of dietary fat. When the medication is injected into the fat beneath the chin, Kybella<sup>&reg</sup> eliminates the fat cells found there. Once these cells are eliminated, they can no longer absorb or store fat. Kybella<sup>&reg</sup> is a permanent procedure. For more information, contact Wellness District for a free consultation.</p>
         <p class="section-text">At Wellness District we use the exceptional line of peels from SkinMedica<sup>&reg</sup>.</p>
 
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>

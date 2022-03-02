@@ -36,7 +36,7 @@
         <p class="section-text">Breathe new life into your skin. Call today for more information or to schedule an appointment for a facial.
         </p>
 
-        <a class="appt-button-filler" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+        <a class="appt-button-filler" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
         <div class="facial-treatments">
           <h1 class="second-page-header">Facial Treatments:</h1>

@@ -63,7 +63,7 @@
         </li>
 
         <p class="section-text">Book your free consultation to learn more about pricing, your custom treatment plan and more!</p>
-        <a class="coolsculpting-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+        <a class="coolsculpting-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>

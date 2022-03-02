@@ -11,7 +11,7 @@
       <p class="footer-item"><a href="coming-soon.php">CAREERS</a></p>
     </div>
     <div class="mobile-footer-break">
-      <p class="footer-item"><a href="https://fargowellnessdistrict.brilliantconnections.com/">SHOP</a></p>
+      <p class="footer-item"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferrer">SHOP</a></p>
       <p class="footer-item"><a href="monthly-specials.php">MONTHLY SPECIALS</a></p>
       <p class="footer-item"><a href="contact-us.php">CONTACT</a></p>
     </div>
@@ -19,10 +19,10 @@
     <div class="footer-vertical-line"></div>
     <div class="wrapper-footer middle-footer">
                                     <p class="footer-menu-header-text">CONTACT & DIRECTIONS</p>
-                                      <p class="footer-menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658">435 32nd Ave, E Suite B</a></p>
-                                      <p class="footer-menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658">West Fargo, ND 58078</a></p>
+                                      <p class="footer-menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">435 32nd Ave, E Suite B</a></p>
+                                      <p class="footer-menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">West Fargo, ND 58078</a></p>
                                       <p class="footer-menu-subheader-text"><a href="tel:701.205.3088" style="cursor:pointer;">CALL: 701.205.3088</a></p>
-                                    <a class="footer-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">BOOK ONLINE</a>
+                                    <a class="footer-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">BOOK ONLINE</a>
     </div>
     <div class="footer-vertical-line"></div>
     <div class="wrapper-footer bottom-footer">
@@ -43,7 +43,7 @@
       <p class="mini-item">Terms • Privacy Policy • Shop Policies</p>
     </div>
     <div class="wrapper-footer-mini">
-      <p class="mini-item"><a href="https://www.facebook.com/WellnessDistrict/">Facebook</a> • <a href="https://www.instagram.com/wellnessdistrictfargo">Instagram</a> • <a href="#">YouTube</a></p>
+      <p class="mini-item"><a href="https://www.facebook.com/WellnessDistrict/" target="_blank" rel="noopener noreferrer">Facebook</a> • <a href="https://www.instagram.com/wellnessdistrictfargo" target="_blank" rel="noopener noreferrer">Instagram</a> • <a href="#">YouTube</a></p>
     </div>
     <div class="wrapper-footer-mini">
       <p class="mini-item">© Wellness District 2021</p>

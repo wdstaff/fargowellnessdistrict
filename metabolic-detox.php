@@ -51,7 +51,7 @@
                 <li class="section-text section-text-li">Metabolic Detox packet - has everything you will need to track progress!</li>
 
         <p class="section-text">Each patient’s unique anatomy will determine the specific treatment and skincare regimen we recommend to attain the best results!</p>
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>

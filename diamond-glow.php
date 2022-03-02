@@ -48,7 +48,7 @@
 
         <p class="section-text">These options make your treatment fully customizable based on your unique skin type and cosmetic goals.</p>
 
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>

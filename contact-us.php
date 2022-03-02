@@ -40,7 +40,7 @@
       <p class="paragraph_header topper bottom centertext">
           Address:
           <br>
-          <a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658">435 32nd Ave. East West Fargo, ND 58078</a>
+          <a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">435 32nd Ave. East West Fargo, ND 58078</a>
           <br><br>
           Tel: <a href="tel:701-205-3088">701-205-3088</a>
           <br>

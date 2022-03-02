@@ -50,7 +50,7 @@
         <br>
         <p class="section-text">When you visit our practice as a first time aesthetic patient, we will be able to suggest the most appropriate peel and number of peels needed based on your skin and your goals.</p>
 
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>

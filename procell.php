@@ -51,7 +51,7 @@
 
         <p class="section-text">Procell serums contain growth factors derived from human bone marrow, which produce a potent, anti-inflammatory effect. This effectively reduces healing time, and can help improve the appearance of hyperpigmentation and scar tissue deposition. These growth factors support cellular renewal and have strong regenerating properties to improve skin firmness, elasticity, texture, and tone. This can diminish the prominence of scarring, fine lines, and wrinkles, leaving the skin looking and feeling bright and healthy.
         </p>
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>

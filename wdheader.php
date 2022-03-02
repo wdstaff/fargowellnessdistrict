@@ -52,8 +52,8 @@ gtag('config', 'UA-88182100-3');
 <header id="bottom-header" class="bottom-header">
   <a onclick="openmenu()"><div id="hamburger" class="wrapper hamburger"><span></span><p class="hamtext">Menu</p></div></a>
   <div class="wrapper"><a href="index.php"><img class="logo" src="pics/wdlogo.png"></a></div>
-  <div class="wrapper header-right"><a onclick="openshopmenu()"><p class="header-p shop-drop-text">Shop</p></a><div id="shop-dropdown" class="shop-dropdown"><a href="https://fargowellnessdistrict.brilliantconnections.com/"><h5 class="bottom-header-text">Shop SkinMedica<sup>&reg</sup></h5></a><a href="https://www.colorescience.com/collections/retailer-landing-page?designate-location=4540"><h5 class="bottom-header-text">Shop Colorescience</h5></a>
-  </div><a href="https://schedulingapp.mypatientnow.com/Account/Login/719"><p class="header-p-middle">Book</p></a><a href="tel:701-205-3088"><i class="fas fa-phone"></i></a></div>
+  <div class="wrapper header-right"><a onclick="openshopmenu()"><p class="header-p shop-drop-text">Shop</p></a><div id="shop-dropdown" class="shop-dropdown"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop SkinMedica<sup>&reg</sup></h5></a><a href="https://www.colorescience.com/collections/retailer-landing-page?designate-location=4540" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop Colorescience</h5></a>
+  </div><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer"><p class="header-p-middle">Book</p></a><a href="tel:701-205-3088"><i class="fas fa-phone"></i></a></div>
 </header>
 <div id="extra-menu" class="extra-menu w3-container w3-center w3-animate-top">
   <div class="item-wrapper">
@@ -78,33 +78,33 @@ gtag('config', 'UA-88182100-3');
     <div class="extra-menu-items topitem"><p class="menu-header-text">PATIENT RESOURCES<a onClick="resourcemenu()"><i id="resource-arrow" class="fas fa-angle-right resource-arrow" style="font-size:2em;float:right;"></i><a/></p>
                                   <p id="resourcetest" class=" resource menu-subheader-text"><a href="monthly-specials.php">Monthly Specials</a></p>
                                   <p class="resource menu-subheader-text"><a href="patient-forms.php">Patient Forms</a></p>
-                                  <p class="resource menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book Online</a></p>
+                                  <p class="resource menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book Online</a></p>
                                   <p class="resource menu-subheader-text"><a href="aesthetic-memberships.php">Aesthetic Memberships</a></p>
-                                  <p class="resource menu-subheader-text"><a href="https://fitfuelfoods.com/">Fit Fuel Foods</a></p>
-                                  <p class="resource menu-subheader-text"><a href="https://www.fargostrongpour.com">StrongPour Nutrition Bar</a></p>
+                                  <p class="resource menu-subheader-text"><a href="https://fitfuelfoods.com/" target="_blank" rel="noopener noreferrer">Fit Fuel Foods</a></p>
+                                  <p class="resource menu-subheader-text"><a href="https://www.fargostrongpour.com" target="_blank" rel="noopener noreferrer">StrongPour Nutrition Bar</a></p>
 
                                 </div>
     <div class="extra-menu-items"><a class="mobile-phone menu-header-text" href="tel:701.205.3088">701.205.3088</a>
                                   <p class="menu-header-text"><a href="contact-us.php">CONTACT & DIRECTIONS</a></p>
-                                  <p class="menu-header-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719">BOOK ONLINE</a></p>
+                                  <p class="menu-header-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">BOOK ONLINE</a></p>
                                 </div>
   </div>
     <div class="verticaldivide"></div>
   <div class="item-wrapper desktop-right">
     <div class="extra-menu-items"><p class="menu-header-text">SHOP ONLINE</p></div>
-    <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/"></a></div>
-      <img class="menuimg" src="pics/wd39.jpg">
+    <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferrer"></div>
+      <img class="menuimg" src="pics/wd39.jpg"></a>
       <div class="shoppingmenutext1">Shop SkinMedica<sup>&reg</sup></div>
-    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict"></a></div>
-      <img class="menuimg" src="pics/wd32.jpg">
+    <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict" target="_blank" rel="noopener noreferrer"></div>
+      <img class="menuimg" src="pics/wd32.jpg"></a>
       <div class="shoppingmenutext2">Shop Colorescience<sup>&reg</sup></div>
     </div>
   <div class="item-wrapper desktop-right dright2">
     <div class="extra-menu-items"><p class="menu-header-text">OUR LOCATION</p></div>
-    <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658">435 32nd Ave E, Suite B</a></p></div>
-    <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658">West Fargo, ND 58078</a></p></div>
+    <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">435 32nd Ave E, Suite B</a></p></div>
+    <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">West Fargo, ND 58078</a></p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="tel:7012053088">701.205.3088</a></p></div>
-    <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719">Schedule an Appointment</a></p></div>
+    <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Schedule an Appointment</a></p></div>
     <div class="extra-menu-items spec-center-user"><i class="fas fa-user"></i></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Open M-H: 9:00 am - 6:00pm</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Open F: 9:00 am - 4:00 pm</p></div>

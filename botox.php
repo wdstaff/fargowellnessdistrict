@@ -37,7 +37,7 @@
         <li class="section-text section-text-li"><h2 class="midline-header">Botox<sup>&reg</sup></h2> is a purified protein derived from Botulin Toxin A. Botox<sup>&reg</sup> works by preventing the transmission of nerve impulses to the injected muscle therefore relaxing the facial movements that create facial lines. Botox<sup>&reg</sup> can be used to treat and prevent fine lines and wrinkles.</li>
         <p class="section-text">Both women and men can receive Botox<sup>&reg</sup> injections. Botox<sup>&reg</sup> is most commonly used to treat fine lines and wrinkles, but it is not for all types of fine lines and wrinkles. Our expert injectors will guide you towards the best treatment option for you.</p>
         <p class="section-text">Each patient’s unique anatomy will determine the specific treatment and skincare regimen we recommend to attain the best results!</p>
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>
