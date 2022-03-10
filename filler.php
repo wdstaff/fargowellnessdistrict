@@ -8,6 +8,7 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel=”canonical” href=”https://fargowellnessdistrict.com/filler.php” />
 
 
   <!-- lato font !-->
@@ -136,18 +137,7 @@
     </div>
         <div class="second-right-section">
           <div class="second-right-wrapper">
-            <h4 class="above-img-text">BEFORE • AFTER</h3>
-            <img class="right-section-img" src="pics/filler3.jpg">
-            <h4 class="under-img-text">Results may vary</h4>
-
-            <h4 class="above-img-text">BEFORE • AFTER</h3>
-            <img class="right-section-img" src="pics/filler5.jpg">
-            <h4 class="under-img-text">Results may vary</h4>
-
-            <h4 class="above-img-text">BEFORE • AFTER</h3>
-            <img class="right-section-img" src="pics/filler1.jpg">
-            <h4 class="under-img-text">Results may vary</h4>
-
+            <?php include 'filler-carousel.php' ?>
           </div>
         </div>
 

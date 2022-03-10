@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <head>
-
   <link rel="stylesheet" type="text/css" href="css/wdheader.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -9,17 +8,22 @@
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
   <!-- Icon Links !-->
-  <script src="https://kit.fontawesome.com/fe324ec7be.js" crossorigin="anonymous"></script>
-
+  <!-- https://kit.fontawesome.com/fe324ec7be.js -->
+  <script src="scripts/fontawesome.js" defer></script>
   <!-- Cable One Tag -->
   <script async src='https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c'></script>
-
+  <!-- <script src="scripts/tgi.js" integrity="sha256-30ae26b68e194c1c16b8d25fa839f83ec3e27a6f3ba90850464a30e3328d5e4b" defer></script> -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-154678264-1"></script>
+  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154678264-1"></script>
+  <!-- <script src="scripts/googlesitetag1.js" ></script> -->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-88182100-3"></script>
-<script>
+<!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88182100-3"></script> -->
+ <script src="scripts/googlesitetag2.js" defer></script>
+
+<script src="scripts/wdheader.js" defer></script>
+
+<!-- <script>
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
@@ -38,7 +42,24 @@ gtag('config', 'UA-88182100-3');
   gtag('config', 'UA-154678264-1');
 
   gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id.
+</script> -->
+
+<script src="scripts/googlesitetag3.js" defer></script>
+
+
+<!-- TEST CODE -->
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-P9867E847C"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-P9867E847C');
 </script>
+
+
 
 </head>
 
@@ -50,7 +71,7 @@ gtag('config', 'UA-88182100-3');
   <div class="wrapper"><a class="top-phone-number" href="mailto:staff@fargowellnessdistrict.com"><i class="fas fa-envelope"></i></a></div>
 </header>
 <header id="bottom-header" class="bottom-header">
-  <a onclick="openmenu()"><div id="hamburger" class="wrapper hamburger"><span></span><p class="hamtext">Menu</p></div></a>
+  <a id="openmenubutton2" class="openmenubutton2"><div id="hamburger" class="wrapper hamburger"><span></span><p class="hamtext">Menu</p></div></a>
   <div class="wrapper"><a href="index.php"><img class="logo" src="pics/wdlogo.png"></a></div>
   <div class="wrapper header-right"><a onclick="openshopmenu()"><p class="header-p shop-drop-text">Shop</p></a><div id="shop-dropdown" class="shop-dropdown"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop SkinMedica<sup>&reg</sup></h5></a><a href="https://www.colorescience.com/collections/retailer-landing-page?designate-location=4540" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop Colorescience</h5></a>
   </div><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer"><p class="header-p-middle">Book</p></a><a href="tel:701-205-3088"><i class="fas fa-phone"></i></a></div>
@@ -106,11 +127,10 @@ gtag('config', 'UA-88182100-3');
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="tel:7012053088">701.205.3088</a></p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Schedule an Appointment</a></p></div>
     <div class="extra-menu-items spec-center-user"><i class="fas fa-user"></i></div>
-    <div class="extra-menu-items"><p class="menu-subheader-text">Open M-H: 9:00 am - 6:00pm</p></div>
+    <div class="extra-menu-items"><p class="menu-subheader-text">Open M-TH: 9:00 am - 6:00pm</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Open F: 9:00 am - 4:00 pm</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Closed Saturday & Sunday</p></div>
   </div>
 </div>
-  <script src="scripts/wdheader.js"></script>
 </body>
 </html>

@@ -134,15 +134,6 @@
       </div>
 
       <div class="meet-the-team-card">
-      <img src="pics/emp/suzanne-mobile.jpg" alt="Avatar" style="width:100%">
-      <div class="meet-the-team-container">
-      <h4><b>Suzanne Flickinger, MBA</b></h4>
-      <h5>Master Aesthetician</h4>
-      <a href="#">Learn More</a>
-      </div>
-      </div>
-
-      <div class="meet-the-team-card">
       <img src="pics/emp/dd-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
       <h4><b>DD Yanske</b></h4>

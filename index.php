@@ -2,6 +2,8 @@
 <html>
 <head>
   <title>FARGO WELLNESS DISTRICT</title>
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self'"/>
+
   <link rel="stylesheet" type="text/css" href="css/index.css" />
   <meta name="description" content="Fargo Wellness District Is The Premier Botox&reg, Dermal Filler & Medical Weight Loss Clinic In The Fargo Moorhead Area. We Take The Time. It's What We Do." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -11,6 +13,7 @@
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
   <script src="scripts/cookies.js" defer></script>
+  <script src="scripts/index.js" defer></script>
   <link rel=”canonical” href=”https://fargowellnessdistrict.com” />
   <!-- Structured Data -->
 
@@ -42,13 +45,13 @@
 </div>
 
     <section class="first section w3-container w3-center w3-animate-bottom">
-      <p class="section-p-text">ALLERGAN HANDPICKS THE “TOP 500” AESTHETIC PRACTICES IN THE USA. THE AWARD IS AMONG THE HIGHEST RECOGNITIONS AN AESTHETIC PRACTICE CAN ACHIEVE. THE TOP 500 IN THE NATION AWARD PLACES WELLNESS DISTRICT IN THE TOP 1% OF ALL PRACTICES ACROSS THE NATION! IT IS BECAUSE OF OUR AMAZING PATIENTS AND STAFF THAT WE ARE ABLE TO ACHIEVE THIS HONOR!</p>
+      <p class="section-p-text">ALLERGAN HANDPICKS THE “TOP 500” AESTHETIC PRACTICES IN THE UNITED STATES. THE AWARD IS AMONG THE HIGHEST RECOGNITIONS AN AESTHETIC PRACTICE CAN ACHIEVE. THE TOP 500 IN THE NATION AWARD PLACES WELLNESS DISTRICT IN THE TOP 1% OF ALL PRACTICES ACROSS THE COUNTRY! IT IS BECAUSE OF OUR AMAZING PATIENTS AND STAFF THAT WE ARE ABLE TO ACHIEVE THIS HONOR!</p>
     </section>
 
     <section class="second section">
-      <div class="second-section-item item1"><a href="botox.php"><img class="pink-pic" src="pics/icon1.png"></a><h2 class="item-header">Injectables</h2><p class="item-p">Relax wrinkles with Botox<sup>&reg</sup> and restore facial volume with signature dermal filler treatments like our one of a kind mid face rejuvanation.</p></div>
-      <div class="second-section-item item2"><a href="weight-loss-services.php"><img class="pink-pic" src="pics/icon2.png"></a><h2 class="item-header">Weight Loss</h2><p class="item-p">Improve your overall health with our medical weight loss nutritional program, over 10 years of experience.</p></div>
-      <div class="second-section-item item3"><a href="coolsculpting.php"><img class="pink-pic" src="pics/icon4.jpg"></a><h2 class="item-header">Body Contouring</h2><p class="item-p">Get the newest body contouring technology at Fargo Moorhead's first and only Coolsculpting<sup>&reg</sup> Elite Clinic. </p></div>
+      <div class="second-section-item item1"><a href="botox.php"><img class="pink-pic" src="pics/icon1.png"></a><h2 class="item-header">Injectables</h2><p class="item-p">Relax wrinkles with Botox<sup>&reg</sup> and restore facial volume with signature dermal filler treatments like our one of a kind mid face rejuvenation.</p></div>
+      <div class="second-section-item item2"><a href="weight-loss-services.php"><img class="pink-pic" src="pics/icon2.png"></a><h2 class="item-header">Weight Loss</h2><p class="item-p">Improve your overall health with our medical weight loss nutritional program; over 10 years of experience.</p></div>
+      <div class="second-section-item item3"><a href="coolsculpting.php"><img class="pink-pic" src="pics/icon4.jpg"></a><h2 class="item-header">Body Contouring</h2><p class="item-p">Get the newest body contouring technology at Fargo/Moorhead's first and only Coolsculpting<sup>&reg</sup> Elite Clinic. </p></div>
     </section>
     <div class="learncont"><a class="second-section-link" href="aesthetic-services.php">Learn More</a></div>
 
@@ -70,7 +73,7 @@
 
     <input type="text" id="name" name="name" placeholder="Your Name"><br>
     <input type="email" id="email" name="email" placeholder="Your Email"><br>
-    <input class="bottom-input" type="tel" id="tel" name="tel" placeholder="Your Cell Phone Number..">
+    <input class="bottom-input" type="tel" id="tel" name="tel" placeholder="Your Cell Phone Number">
     <input class="bottom-input" type="date" id="date" name="date" placeholder="Date of Birth"><br>
     <input class="modal-input-button" id="formsubmit" type="submit" value="Sign Up">
 </form>
@@ -93,7 +96,5 @@
 </a>
 </div>
 <?php include 'wdfooter.php' ?>
-
-</script>
 </body>
 </html>

@@ -151,19 +151,7 @@
                   </div>
                 </div>
               </div>
-              <div class="item">
-								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/suzanne-mobile.jpg);">
-										<a href="#" class="icon d-flex align-items-center justify-content-center">
-											<span class="ion-ios-search"></span>
-										</a>
-									</div>
-									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Suzanne Flickinger, MBA</a></h3>
-										<span>Master Aesthetician</span>
-									</div>
-								</div>
-							</div>
+
               <div class="item">
 								<div class="work">
 									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/casey-mobile.jpg);">

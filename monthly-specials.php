@@ -8,6 +8,7 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel=”canonical” href=”https://fargowellnessdistrict.com/monthly-specials.php” />
 
 
   <!-- lato font !-->
@@ -21,7 +22,7 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/febspec.jpg" />
+  <img class="img-header" src="pics/marchspec.jpg" />
 
   <?php include 'staff-carousel.php' ?>
   <?php include 'new-patient-special.php' ?>
