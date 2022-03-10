@@ -2,13 +2,16 @@
 <html>
 
 <head>
-  <title>FARGO MEDICAL WEIGTH LOSS</title>
+  <title>FARGO MEDICAL WEIGHT LOSS</title>
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
+
   <meta name="description" content="Medical Weight Loss at the Wellness District is a Physician monitored and directed weight loss program. Using the latest medical information, research, and prescription medications, we tailor a specific individualized medical weight loss plan for you." />
   <link rel="stylesheet" type="text/css" href="css/fargo-medical-weight-loss.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel=”canonical” href=”https://fargowellnessdistrict.com/fargo-medical-weight-loss.php” />
+  <script src="scripts/mwlsfaqscript.js" defer></script>
 
 
   <!-- lato font !-->
@@ -123,23 +126,6 @@
           <div class="panel">
             <p>During the weight maintenance phase, patients no longer have regularly scheduled visits at Wellness District Medical Weight Loss. Patients will be given an individualized CAP plan. The CAP plan is explained in detail at your initial visit. As patients have now learned and been educated on proper nutrition, they are able to maintain their weight and live a healthy lifestyle without the ongoing assistance of Wellness District Medical Weight Loss. However, you are a patient for life and we are always here for you.</p>
           </div>
-
-          <script>
-                    var acc = document.getElementsByClassName("accordion");
-                    var i;
-
-                    for (i = 0; i < acc.length; i++) {
-                    acc[i].addEventListener("click", function() {
-                      this.classList.toggle("active");
-                      var panel = this.nextElementSibling;
-                      if (panel.style.maxHeight) {
-                        panel.style.maxHeight = null;
-                      } else {
-                        panel.style.maxHeight = panel.scrollHeight + "px";
-                      }
-                    });
-                    }
-                  </script>
 
     </section>
 

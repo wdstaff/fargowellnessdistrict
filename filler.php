@@ -14,7 +14,7 @@
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
   <!-- Icon Links !-->
-  <script src="https://kit.fontawesome.com/fe324ec7be.js" crossorigin="anonymous"></script>
+  <script src="scripts/fillerkitscript.js"></script> <!-- <script src="https://kit.fontawesome.com/fe324ec7be.js" crossorigin="anonymous"></script> -->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 </head>
