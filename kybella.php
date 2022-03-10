@@ -3,6 +3,8 @@
 
 <head>
   <title>KYBELLA&reg FARGO</title>
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
+
   <meta name="description" content="Kybella® is a cosmetic injection made from deoxycholic acid and is the first injectable treatment approved by the FDA which can contour and improve the appearance of submental fullness, more frequently called a double chin." />
   <link rel="stylesheet" type="text/css" href="css/kybella.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />

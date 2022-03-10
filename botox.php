@@ -5,7 +5,7 @@
 
   <title>FARGO BOTOX&reg</title>
   <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox&reg Treatment At Wellness District For $150 (Up To 35 Units)." />
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self'"/>
+
   <link rel="stylesheet" type="text/css" href="css/botox.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />

@@ -3,6 +3,8 @@
 
 <head>
   <title>Monthly Specials</title>
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
+
   <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox&reg Treatment At Wellness District For $150 (Up To 35 Units)." />
   <link rel="stylesheet" type="text/css" href="css/monthly-specials.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />

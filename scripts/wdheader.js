@@ -102,3 +102,9 @@ let xhr2 = new XMLHttpRequest();
 xhr2.open("GET", "https://www.googletagmanager.com/gtag/js?id=UA-154678264-1");
 
 xhr2.send();
+
+let xhr3 = new XMLHttpRequest();
+
+xhr3.open("GET", "https://www.googletagmanager.com/gtag/js?id=G-P9867E847C");
+
+xhr3.send();

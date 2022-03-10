@@ -4,7 +4,6 @@
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
   <!-- lato font !-->
   <link href="https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap" rel="stylesheet">
   <!-- Icon Links !-->
@@ -14,12 +13,12 @@
   <script async src='https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c'></script>
   <!-- <script src="scripts/tgi.js" integrity="sha256-30ae26b68e194c1c16b8d25fa839f83ec3e27a6f3ba90850464a30e3328d5e4b" defer></script> -->
   <!-- Global site tag (gtag.js) - Google Analytics -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154678264-1"></script>
+  <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-154678264-1"></script> -->
   <!-- <script src="scripts/googlesitetag1.js" ></script> -->
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
 <!-- <script async src="https://www.googletagmanager.com/gtag/js?id=UA-88182100-3"></script> -->
- <script src="scripts/googlesitetag2.js" defer></script>
+
 
 <script src="scripts/wdheader.js" defer></script>
 
@@ -43,13 +42,14 @@ gtag('config', 'UA-88182100-3');
 
   gtag('set', {'user_id': 'USER_ID'}); // Set the user ID using signed-in user_id.
 </script> -->
-
+<script src="scripts/googlesitetag2.js" defer></script>
 <script src="scripts/googlesitetag3.js" defer></script>
+<script src="scripts/googlesitetag4.js" defer></script>
 
 
 <!-- TEST CODE -->
 
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<!-- Global site tag (gtag.js) - Google Analytics
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-P9867E847C"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -57,7 +57,7 @@ gtag('config', 'UA-88182100-3');
   gtag('js', new Date());
 
   gtag('config', 'G-P9867E847C');
-</script>
+</script> -->
 
 
 
