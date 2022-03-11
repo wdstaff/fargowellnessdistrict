@@ -90,21 +90,8 @@ else for (var i = 0; i < array3.length; i++) {
 var openmenu2 = document.getElementById('openmenubutton2');
 openmenu2.addEventListener('click', openmenu);
 
-let xhr = new XMLHttpRequest();
+window.dataLayer = window.dataLayer || [];
+function gtag(){dataLayer.push(arguments);}
+gtag('js', new Date());
 
-xhr.open("GET", "https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c");
-
-xhr.send();
-
-
-let xhr2 = new XMLHttpRequest();
-
-xhr2.open("GET", "https://www.googletagmanager.com/gtag/js?id=UA-154678264-1");
-
-xhr2.send();
-
-let xhr3 = new XMLHttpRequest();
-
-xhr3.open("GET", "https://www.googletagmanager.com/gtag/js?id=G-P9867E847C");
-
-xhr3.send();
+gtag('config', 'UA-171124080-1');
