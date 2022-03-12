@@ -69,10 +69,76 @@
           <div class="right-ind-treatment-section-wrapper">
               <h3 class="right-ind-treatment-section-header">Medical Weight Loss</h3>
               <p class="right-ind-treatment-section-text">Medical Weight Loss at the Wellness District is a Physician monitored and directed weight loss program. Using the latest medical information, research, and prescription medications, we tailor a specific individualized medical weight loss plan for you.</p>
-              <a class="ind-treatment-section-button" href="fargo-medical-weight-loss.php">Learn More</a>
+              <a class="ind-treatment-section-button" href="weight-loss-services.php">Learn More</a>
           </div>
           <div class="left-ind-treatment-section-wrapper">
-              <img class="ind-treatment-section-img" src="pics/mwlspic1.jpg">
+              <img class="ind-treatment-section-img" src="pics/wd189.jpg">
+          </div>
+        </section>
+
+        <section class="ind-treatment-section">
+          <div class="left-ind-treatment-section-wrapper">
+              <img class="ind-treatment-section-img" src="pics/wd112.jpg">
+          </div>
+          <div class="right-ind-treatment-section-wrapper">
+              <h3 class="right-ind-treatment-section-header">Facials</h3>
+              <p class="right-ind-treatment-section-text">At the Wellness District, we understand how important it is for you to look your best. That's why we encourage you to treat yourself to one of our amazing facials.</p>
+              <a class="ind-treatment-section-button" href="facials.php">Learn More</a>
+          </div>
+        </section>
+
+        <section class="ind-treatment-section ind-treatment-section-off">
+          <div class="right-ind-treatment-section-wrapper">
+              <h3 class="right-ind-treatment-section-header">Procell</h3>
+              <p class="right-ind-treatment-section-text">Procell is a micro-needling and micro-dermabrasion system in one package. The micro-channeling will keep your skin looking and feeling younger by activating your body’s natural regenerative ability to help tighten and lift skin, while minimizing many common skin problems.</p>
+              <a class="ind-treatment-section-button" href="procell.php">Learn More</a>
+          </div>
+          <div class="left-ind-treatment-section-wrapper">
+              <img class="ind-treatment-section-img" src="pics/WD323.jpg">
+          </div>
+        </section>
+
+        <section class="ind-treatment-section">
+          <div class="left-ind-treatment-section-wrapper">
+              <img class="ind-treatment-section-img" src="pics/wd179.jpg">
+          </div>
+          <div class="right-ind-treatment-section-wrapper">
+              <h3 class="right-ind-treatment-section-header">Chemical Peels</h3>
+              <p class="right-ind-treatment-section-text">The chemical peel exfoliates your skin using a specific solution of chemicals. Peels come in different strengths, targeting mild to moderate skin issues. Our experienced team will determine which peel will fit your goals and skin type.</p>
+              <a class="ind-treatment-section-button" href="chemical-peel.php">Learn More</a>
+          </div>
+        </section>
+
+        <section class="ind-treatment-section ind-treatment-section-off">
+          <div class="right-ind-treatment-section-wrapper">
+              <h3 class="right-ind-treatment-section-header">DiamondGlow&reg</h3>
+              <p class="right-ind-treatment-section-text">The DiamondGlow<sup>&reg</sup> is a non-invasive combination facial and dermabrasion which deeply cleans and rejuvenates the appearance of your skin. This skin resurfacing procedure incorporates three effective techniques into a single treatment.</p>
+              <a class="ind-treatment-section-button" href="diamond-glow.php">Learn More</a>
+          </div>
+          <div class="left-ind-treatment-section-wrapper">
+              <img class="ind-treatment-section-img" src="pics/WD323.jpg">
+          </div>
+        </section>
+
+        <section class="ind-treatment-section">
+          <div class="left-ind-treatment-section-wrapper">
+              <img class="ind-treatment-section-img" src="pics/WD348.jpg">
+          </div>
+          <div class="right-ind-treatment-section-wrapper">
+              <h3 class="right-ind-treatment-section-header">Kybella&reg</h3>
+              <p class="right-ind-treatment-section-text">Kybella<sup>&reg</sup> is a cosmetic injection made from deoxycholic acid and is the first injectable treatment approved by the FDA which can contour and improve the appearance of submental fullness, more frequently called a double chin.</p>
+              <a class="ind-treatment-section-button" href="kybella.php">Learn More</a>
+          </div>
+        </section>
+
+        <section class="ind-treatment-section ind-treatment-section-off">
+          <div class="right-ind-treatment-section-wrapper">
+              <h3 class="right-ind-treatment-section-header">Aesthetic Memberships</h3>
+              <p class="right-ind-treatment-section-text">Purchase a Wellness District Aesthetic Membership and start earning rewards today!</p>
+              <a class="ind-treatment-section-button" href="aesthetic-memberships.php">Learn More</a>
+          </div>
+          <div class="left-ind-treatment-section-wrapper">
+              <img class="ind-treatment-section-img" src="pics/wd212.jpg">
           </div>
         </section>
 

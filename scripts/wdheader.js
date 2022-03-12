@@ -35,6 +35,9 @@ function openshopmenu() {
   }
 }
 
+var openmenushop = document.getElementById('openshopmenubutton');
+openmenushop.addEventListener('click', openshopmenu);
+
 
 let array = document.getElementsByClassName('treatment');
 let treatmentarrow = document.getElementById('treatment-arrow');
@@ -95,3 +98,14 @@ function gtag(){dataLayer.push(arguments);}
 gtag('js', new Date());
 
 gtag('config', 'UA-171124080-1');
+
+// Mobile menu security fix Code
+
+var treatmentmenufix = document.getElementById('treatmentmenufix');
+treatmentmenufix.addEventListener('click', treatmentmenu);
+
+var companymenufix = document.getElementById('companymenufix');
+companymenufix.addEventListener('click', companymenu);
+
+var ptresourcemenufix = document.getElementById('ptresourcemenufix');
+ptresourcemenufix.addEventListener('click', resourcemenu);

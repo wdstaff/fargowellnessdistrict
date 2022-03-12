@@ -131,7 +131,7 @@
       <div class="meet-the-team-container">
       <h4><b>Ashli Boehm, FNP-C</b></h4>
       <h5>Medical Weight Loss Provider</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#ashli">Learn More</a>
       </div>
       </div>
 
@@ -149,7 +149,7 @@
       <div class="meet-the-team-container">
       <h4><b>Jess Elliott</b></h4>
       <h5>Social Media & Patient Relations Specialist</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#jess">Learn More</a>
       </div>
       </div>
 

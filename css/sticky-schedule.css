@@ -1,0 +1,46 @@
+
+
+/* booking button */
+
+.sticky-schedule {
+  display:flex;
+  position:fixed;
+  bottom:25px;
+  right:50px;
+  align-items:center;
+}
+
+.calendar {
+  font-size:1em;
+  color:white;
+  background:#008480;
+  margin-right:10px;
+  border-radius:25px;
+  padding:10px;
+}
+
+.sticky-schedule-text {
+  background:white;
+  padding:1em;
+ box-shadow: 5px 0px 8px #888888;
+ border-radius:12px 12px 12px 0px;
+ letter-spacing:.1em;
+ line-height: 75%;
+}
+
+p.sticky-schedule-text {
+  color:black;
+}
+
+@media only screen and (max-width:1070px) {
+
+.sticky-schedule {
+  right:10px;
+  bottom:30px;
+}
+
+.sticky-schedule-text {
+  display:none;
+}
+
+}

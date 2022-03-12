@@ -11,6 +11,7 @@
   <link rel="shortcut icon" href="favicon.ico" />
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   <link rel=”canonical” href=”https://fargowellnessdistrict.com/diamond-glow.php” />
+  <script src="scripts/diamond-glow.js" defer></script>
 
 
   <!-- lato font !-->
@@ -110,23 +111,6 @@
             <p>To see continued visible improvement in the appearance of your skin, we recommend receiving a series of treatments that are performed every three to four weeks. Your provider will design a personalized treatment plan that best meets your needs. DiamondGlow<sup>&reg</sup> is safe and effective for all skin types, including sensitive skin. It can also be combined with a variety of cosmetic treatments and products to help you achieve your skincare goals.
             </p>
           </div>
-
-          <script>
-                    var acc = document.getElementsByClassName("accordion");
-                    var i;
-
-                    for (i = 0; i < acc.length; i++) {
-                    acc[i].addEventListener("click", function() {
-                      this.classList.toggle("active");
-                      var panel = this.nextElementSibling;
-                      if (panel.style.maxHeight) {
-                        panel.style.maxHeight = null;
-                      } else {
-                        panel.style.maxHeight = panel.scrollHeight + "px";
-                      }
-                    });
-                    }
-                  </script>
 
     </section>
 

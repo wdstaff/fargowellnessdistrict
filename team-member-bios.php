@@ -140,6 +140,36 @@
     </div>
   </section>
 
+  <section id="ashli" class="next-section">
+    <div class="left-section-team">
+      <img src="pics/emp/ashli-mobile.jpg" class="profile-pic">
+    </div>
+    <div class="right-section-team">
+      <h2 class="profile-header">Ashli Boehm, FNP-C</h2>
+      <p class="profile-bio">Ashli is board certified by the American Association of Nurse Practitioner Certification Board (AANPCB). She earned her Bachelor of Science in Nursing from the University of Mary in Bismarck, ND in 2015. After graduation, she worked primarily in the hospital setting for 5 years. While working full time, she was able to go back to become a Nurse Practitioner. Ashli graduated with her Masters of Science in Nursing as a Family Nurse Practitioner from Simmons University in Boston, MA in 2020.</p>
+      <p class="profile-bio">Her ultimate goal was to find opportunities to practice personalized care for her patients. Joining the Wellness District has given her this opportunity in providing personalized, affordable health care that improves our patient’s weight loss goals. She strives to optimize her patient’s overall wellness through education that embraces the patient’s personalized health needs.
+        Ashli lives in Detroit Lakes, MN with her husband and two children, Oliver and Elouise. She loves to spend time with family, and friends. She enjoys outdoor activities, especially time at the lake in the summer. She loves her pets, a wonderful dog, Lily and cat, Winnifred.
+      </p>
+      <p class="profile-bio">My favorite item at strong pour is the Monster Cookie blended shake.
+      </p>
+      <p class="profile-bio">I love the Skinmedica and Revision skin care line. My favorite items would be the Skinmedica TNS Advanced Serum, the Revox Line Relaxer and Hydrating Serum from Revision.
+      </p>
+    </div>
+  </section>
+
+  <section id="jess" class="next-section">
+    <div class="left-section-team">
+      <img src="pics/emp/work-12-mobile.jpg" class="profile-pic">
+    </div>
+    <div class="right-section-team">
+      <h2 class="profile-header">Jess Elliott, Patient Relations Specialist</h2>
+      <p class="profile-bio">Jess is an exercise physiologist turned graphic designer. She graduated from NDSU and Shaw Academy. Prior to Wellness District, she worked in Physical Therapy at Sanford for 17 years. She then took a leap of faith and transitioned into graphic design after encouragement from her family. She resides in Fargo with her husband, Dave, twin girls, little boy, and her dog, Daisy.
+      </p>
+      <p class="profile-bio">She enjoys outdoor activities year-round, spending time with her friends and family, and all things lady bugs!
+      </p>
+    </div>
+  </section>
+
 
   <div class="funky-background">
   <section class="testimonials-section">

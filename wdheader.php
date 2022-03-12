@@ -47,19 +47,6 @@ gtag('config', 'UA-88182100-3');
 <script src="scripts/googlesitetag4.js" defer></script>
 
 
-<!-- TEST CODE -->
-
-<!-- Global site tag (gtag.js) - Google Analytics
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-P9867E847C"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'G-P9867E847C');
-</script> -->
-
-
 
 </head>
 
@@ -73,12 +60,12 @@ gtag('config', 'UA-88182100-3');
 <header id="bottom-header" class="bottom-header">
   <a id="openmenubutton2" class="openmenubutton2"><div id="hamburger" class="wrapper hamburger"><span></span><p class="hamtext">Menu</p></div></a>
   <div class="wrapper"><a href="index.php"><img class="logo" src="pics/wdlogo.png"></a></div>
-  <div class="wrapper header-right"><a onclick="openshopmenu()"><p class="header-p shop-drop-text">Shop</p></a><div id="shop-dropdown" class="shop-dropdown"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop SkinMedica<sup>&reg</sup></h5></a><a href="https://www.colorescience.com/collections/retailer-landing-page?designate-location=4540" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop Colorescience</h5></a>
+  <div class="wrapper header-right"><a id="openshopmenubutton"><p class="header-p shop-drop-text">Shop</p></a><div id="shop-dropdown" class="shop-dropdown"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop SkinMedica<sup>&reg</sup></h5></a><a href="https://www.colorescience.com/collections/retailer-landing-page?designate-location=4540" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop Colorescience</h5></a>
   </div><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer"><p class="header-p-middle">Book</p></a><a href="tel:701-205-3088"><i class="fas fa-phone"></i></a></div>
 </header>
 <div id="extra-menu" class="extra-menu w3-container w3-center w3-animate-top">
   <div class="item-wrapper">
-    <div class="extra-menu-items topitem"><p class="menu-header-text arrow-spread">TREATMENTS<a onClick="treatmentmenu()"><i id="treatment-arrow" class="fas fa-angle-right treatment-arrow" style="font-size:2em;float:right;"></i><a/></p>
+    <div id="treatmentmenufix" class="extra-menu-items topitem"><p class="menu-header-text arrow-spread">TREATMENTS<i id="treatment-arrow" class="fas fa-angle-right treatment-arrow" style="font-size:2em;float:right;"></i></p>
                                   <p id='treatmenttest' class="treatment menu-subheader-text"><a href="botox.php">Botox<sup>&reg</sup></a></p>
                                   <p class="treatment menu-subheader-text"><a href="filler.php">Dermal Fillers</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coolsculpting.php">Coolsculpting<sup>&reg</sup> Elite</a></p>
@@ -88,15 +75,16 @@ gtag('config', 'UA-88182100-3');
                                   <p class="treatment menu-subheader-text"><a href="chemical-peel.php">Chemical Peels</a></p>
                                   <p class="treatment menu-subheader-text"><a href="diamond-glow.php">Diamond Glow</a></p>
                                   <p class="treatment menu-subheader-text"><a href="kybella.php">Kybella<sup>&reg</sup></a></p>
+                                  <p class="treatment menu-subheader-text"><a href="aesthetic-services.php">All Services</a></p>
                                 </div>
-    <div class="extra-menu-items"><p class="menu-header-text">COMPANY<a onClick="companymenu()"><i id="company-arrow" class="fas fa-angle-right company-arrow" style="font-size:2em;float:right;"></i><a/></p>
+    <div id="companymenufix" class="extra-menu-items"><p class="menu-header-text">COMPANY<i id="company-arrow" class="fas fa-angle-right company-arrow" style="font-size:2em;float:right;"></i></p>
                                   <p id="companytest" class="company menu-subheader-text"><a href="about-us.php">About Us</a></p>
                                   <p class="company menu-subheader-text"><a href="meet-the-team.php">Meet the Team</a></p>
                                   <p class="company menu-subheader-text"><a href="coming-soon.php">Careers</a></p>
                                   </div>
   </div>
   <div class="item-wrapper">
-    <div class="extra-menu-items topitem"><p class="menu-header-text">PATIENT RESOURCES<a onClick="resourcemenu()"><i id="resource-arrow" class="fas fa-angle-right resource-arrow" style="font-size:2em;float:right;"></i><a/></p>
+    <div id="ptresourcemenufix" class="extra-menu-items topitem"><p class="menu-header-text">PATIENT RESOURCES<i id="resource-arrow" class="fas fa-angle-right resource-arrow" style="font-size:2em;float:right;"></i></p>
                                   <p id="resourcetest" class=" resource menu-subheader-text"><a href="monthly-specials.php">Monthly Specials</a></p>
                                   <p class="resource menu-subheader-text"><a href="patient-forms.php">Patient Forms</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book Online</a></p>
@@ -132,5 +120,7 @@ gtag('config', 'UA-88182100-3');
     <div class="extra-menu-items"><p class="menu-subheader-text">Closed Saturday & Sunday</p></div>
   </div>
 </div>
+<?php include 'modal.php' ?>
+<?php include 'sticky-schedule.php' ?>
 </body>
 </html>

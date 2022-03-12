@@ -349,38 +349,6 @@ font-weight:bold;
 }
 
 
-/* booking button */
-
-.sticky-schedule {
-  display:flex;
-  position:fixed;
-  bottom:25px;
-  right:50px;
-  align-items:center;
-}
-
-.calendar {
-  font-size:1em;
-  color:white;
-  background:#008480;
-  margin-right:10px;
-  border-radius:25px;
-  padding:10px;
-}
-
-.sticky-schedule-text {
-  background:white;
-  padding:1em;
- box-shadow: 5px 0px 8px #888888;
- border-radius:12px 12px 12px 0px;
- letter-spacing:.1em;
- line-height: 75%;
-}
-
-p.sticky-schedule-text {
-  color:black;
-}
-
 .carouselins {
   background:rgba(0, 0, 0, 0);
   position: relative;
@@ -506,14 +474,6 @@ property: value;
       color:grey;
     }
 
-  .sticky-schedule {
-    right:10px;
-    bottom:30px;
-  }
-
-  .sticky-schedule-text {
-    display:none;
-  }
 
   .second {
       display:block;
@@ -521,18 +481,6 @@ property: value;
       text-align:center;
     }
 
-    .modalvip {
-      padding-top:5vh;
-    }
-
-    .vipform {
-      background-image: linear-gradient(to bottom right, rgba(0, 132 ,128 ,1), rgba(0,132,128,1), rgba(0,132,128,1), rgba(255,255,255,.7) );
-      width:90%;
-      margin:auto;
-      border-radius:3px;
-      color:white;
-      box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.2);
-    }
 
     .form-header-text {
       text-align:center;
@@ -551,10 +499,5 @@ property: value;
       width:100%;
     }
 
-    /* change date placholder */
-
-    input[type=date] {
-      text-align:center;
-    }
 
   }

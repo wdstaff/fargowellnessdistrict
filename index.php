@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
+  <meta charset="utf-8">
   <title>FARGO WELLNESS DISTRICT</title>
   <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://www.googletagmanager.com/gtag/js https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
   <link rel="stylesheet" type="text/css" href="css/index.css" />
@@ -11,7 +12,7 @@
   <!-- W3 Animations !-->
   <link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
-  <script src="scripts/cookies.js" defer></script>
+
   <link rel=”canonical” href=”https://fargowellnessdistrict.com” />
   <!-- Structured Data -->
 
@@ -25,8 +26,6 @@
       "logo": "https://www.fargowellnessdistrict.com/pics/wdlogo.png"
     }
     </script>
-
-
 
 </head>
 
@@ -59,24 +58,6 @@
     </section>
 
   <?php include 'staff-carousel.php' ?>
-
-<script id="modal-script" src="scripts/vip-form.js"></script>
- <div id="myModal" class="modalvip">
-  <!-- Modal content -->
-  <form class="vipform w3-container w3-center w3-animate-top" action="action.php" method="post">
-    <span class="close" onclick="closeform()">&times</span>
-    <div class="form-content-wrapper">
-    <p class="form-header-text">Feel Healthy In Your Skin</p>
-    <p class="form-body-text">Sign up for text messages on all of our specials, flash sales, and all things wellness.</p>
-
-    <input type="text" id="name" name="name" placeholder="Your Name"><br>
-    <input type="email" id="email" name="email" placeholder="Your Email"><br>
-    <input class="bottom-input" type="tel" id="tel" name="tel" placeholder="Your Cell Phone Number">
-    <input class="bottom-input" type="date" id="date" name="date" placeholder="Date of Birth"><br>
-    <input class="modal-input-button" id="formsubmit" type="submit" value="Sign Up">
-</form>
-</div>
-</div>
 
 <div class="funky-background">
   <img class="decal" src="pics/decal.png" />
