@@ -1,0 +1,523 @@
+body {
+  margin:0;
+  padding:0;
+  font-family: 'Lato', sans-serif;
+}
+
+img {
+  max-height:100%;
+  max-width:100%;
+}
+
+a {
+  text-decoration:none;
+  color:black;
+}
+
+/* VIP Form Modal Popup */
+
+.modalvip {
+  display: block; /* Hidden by default */
+  position: fixed; /* Stay in place */
+  z-index: 3; /* Sit on top */
+  padding-top: 20vh; /* Location of the box */
+  left: 0;
+  top: 0;
+  width: 100%; /* Full width */
+  height: 100%; /* Full height */
+  overflow: auto; /* Enable scroll if needed */
+  background-color: rgb(0,0,0); /* Fallback color */
+  background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+}
+
+/* Modal Content */
+
+/* The Close Button */
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+
+}
+
+.close:hover,
+.close:focus {
+  color: #000;
+  text-decoration: none;
+  cursor: pointer;
+}
+
+.vipform {
+  background-image: linear-gradient(to bottom right, rgba(0, 132 ,128 ,1), rgba(0,132,128,1), rgba(0,132,128,1), rgba(255,255,255,.7) );
+  width:550px;
+  margin:auto;
+  border-radius:3px;
+  color:white;
+  box-shadow:0 6px 20px 0 rgba(0, 0, 0, 0.2);
+}
+
+.form-content-wrapper {
+  width:60%;
+}
+
+::placeholder {
+  color:white;
+  opacity: 1;
+}
+
+:-ms-input-placeholder {
+    color:white;
+}
+
+.vipform input {
+  border:none;
+  border-bottom:1px solid white;
+  background-color:rgba(0,0,0,0);
+  line-height:4vh;
+  width:100%;
+  letter-spacing:.1em;
+}
+
+.vipform input:first-of-type {
+  margin-bottom:20px;
+  margin-top:20px;
+}
+
+.bottom-input {
+  margin-bottom:20px;
+  margin-top:20px;
+  color white;
+
+}
+
+input#date.bottom-input {
+  color:white;
+}
+
+/* change date placholder */
+
+input[type=date] {
+  text-align:right;
+  color:white;
+}
+
+input[type='date']:before {
+  content:attr(placeholder) !important;
+}
+
+input[type='date']:focus:before {
+  color:#007a9d;
+}
+
+input#formsubmit.modal-input-button {
+  border:1px solid white;
+  margin-top:8vh;
+  margin-bottom:2em;
+  line-height:5vh;
+  font-weight:bold;
+  color:white;
+  letter-spacing:.2em;
+
+}
+
+.form-content-wrapper {
+  text-align:left;
+  padding-top:2em;
+  padding-bottom:2em;
+  width:75%;
+  margin:auto;
+
+
+}
+
+.form-header-text {
+font-size:1.75em;
+margin-bottom:0;
+letter-spacing:.1em;
+font-weight:bold;
+}
+
+.form-body-text {
+  line-height:3vh;
+  font-size:.8em;
+  letter-spacing:.12em;
+  font-weight:300;
+}
+
+.homepage-titantron {
+  display:block;
+  margin:auto;
+  height:50vh;
+  width:80%;
+  background-color:rgba(0,132,128,1);
+
+}
+
+.homepage-header {
+  display:block;
+  margin:auto;
+  height:50vh;
+  width:80%;
+  object-fit:scale-down;
+  object-position: right;
+  background-color:white;
+
+}
+
+.homepage-header-decal-container {
+  display:flex;
+  flex-direction: column;
+  position:absolute;
+  height:25vh;
+  top:30vh;
+  left:30%;
+  z-index:0;
+
+}
+
+.homepage-header-decal-container img {
+
+  object-fit: scale-down;
+
+
+}
+
+.homepage-appt-button {
+  background-color:#008480;
+  color:white;
+  padding-left:.7em;
+  padding-right:.7em;
+  padding-top:.5em;
+  padding-bottom:.5em;
+  letter-spacing: .05em;
+  position:relative;
+  z-index: 1;
+  font-size:.7em;
+  display:block;
+  margin-top:3em;
+  width:150px;
+  text-align: center;
+  border-radius: 5px;
+
+
+
+
+
+}
+
+.homepage-appt-button:hover {
+  animation: change 1s 1;
+  background:black;
+  color:white;
+}
+
+
+/* Gift Card Section */
+
+.gift-cards-section {
+  display:flex;
+  justify-content: space-around;
+  width:90%;
+  margin:auto;
+}
+
+.gift-card-img {
+
+  height:500px;
+}
+
+.smart-button-container {
+  width:100%;
+  margin:auto;
+}
+
+/* First Section Code */
+
+.first {
+  text-align:center;
+  letter-spacing:.1em;
+  margin-top:6vh;
+  margin-bottom:12vh;
+}
+
+.section-p-text {
+  font-size:1.5em;
+  margin:auto;
+  margin-top:0;
+  width:80%;
+  font-weight: lighter;
+  color:grey;
+}
+
+
+
+/* Second Section Code */
+
+.second {
+  display:flex;
+  justify-content: space-around;
+  text-align:center;
+}
+
+.item1 {
+  animation: mymove 2s 1;
+  animation-delay:0;
+  position:relative;
+}
+
+@keyframes mymove {
+  from {bottom:-200px;}
+  to{bottom: 0px;}
+}
+
+.item2 {
+  animation: mymove2 3s 1;
+  animation-delay:0s;
+  position:relative;
+}
+
+@keyframes mymove2 {
+  from {bottom:-200px;}
+  to{bottom: 0px;}
+}
+
+.item3 {
+  animation: mymove3 4s 1;
+  animation-delay:0s;
+  position:relative;
+}
+
+@keyframes mymove3 {
+  from {bottom:-200px;}
+  to{bottom: 0px;}
+}
+
+.second-section-item {
+  letter-spacing:.1em;
+  width:33%;
+}
+
+.second-section-link {
+  letter-spacing:.1em;
+  border-bottom: 1px solid green;
+  padding-bottom:.4em;
+  color:black;
+
+}
+
+.learncont {
+    margin-top:6vh;
+  text-align: center;
+}
+
+.item-p {
+  text-align: center;
+  padding-left:2em;
+  padding-right:2em;
+}
+
+/* Third Section */
+
+.third {
+  margin-top:15vh;
+  text-align: center;
+}
+
+.third-header {
+  margin-bottom:5vh;
+}
+
+.index-button {
+  background-color:#008480;
+  color:white;
+  padding-left:2em;
+  padding-right:2em;
+  padding-top:1em;
+  padding-bottom:1em;
+  letter-spacing: .1em;
+  position:relative;
+  z-index: 1;
+
+
+
+}
+
+.index-button:hover {
+  animation: change 1s 1;
+  background:black;
+  color:white;
+}
+
+@keyframes change {
+  from {background:#008480;}
+  to {background:black;}
+}
+
+/* Fourth Section */
+
+.fourth {
+  margin-top:15vh;
+  text-align:center;
+  padding-top:7vh;
+  padding-bottom:25vh;
+  background: rgba(0,132,128,.2);
+}
+
+.fourth-header {
+  margin-bottom:5vh;
+}
+
+
+.carouselins {
+  background:rgba(0, 0, 0, 0);
+  position: relative;
+  top:-30vh;
+  margin:0;
+  z-index: 0;
+}
+
+
+/* decal image */
+
+.decal {
+  display:block;
+  position:relative;
+  top:-30vh;
+  margin:auto;
+  height:250px;
+  margin-top:50px;
+}
+
+
+/* Testimonials Section */
+
+.testimonials_section {
+  text-align: center;
+  display:block;
+  position:relative;
+  top:-20vh;
+}
+
+.review-header {
+  margin-bottom:5vh;
+}
+
+/* funky background */
+
+.funky-background {
+  background-image:url('/pics/wd-pattern.jpg');
+
+}
+
+/* Fixes */
+
+@supports (-ms-ime-align:auto) {
+selector {
+property: value;
+}
+}
+
+
+@media only screen and (max-width:1080px) {
+
+  .homepage-titantron {
+      display:block;
+      margin:auto;
+      height:50vh;
+      width:100%;
+
+    }
+
+    .homepage-header {
+      display:block;
+      margin:auto;
+      height:50vh;
+      width:100%;
+
+
+    }
+
+    .homepage-header-decal-container {
+      display:flex;
+      flex-direction: column;
+      position:absolute;
+      height:20vh;
+      top:18vh;
+      left:5vh;
+
+    }
+
+    .homepage-header-decal-container img {
+
+      object-fit:scale-down;
+
+
+    }
+
+    .homepage-appt-button {
+      background-color:#008480;
+      color:white;
+      padding-left:.7em;
+      padding-right:.7em;
+      padding-top:.5em;
+      padding-bottom:.5em;
+      letter-spacing: .05em;
+      position:relative;
+      z-index: 1;
+      font-size:.6em;
+      display:block;
+      margin-top:3em;
+      width:125px;
+      text-align: center;
+      border-radius: 5px;
+
+
+
+
+
+    }
+
+    .homepage-appt-button:hover {
+      animation: change 1s 1;
+      background:black;
+      color:white;
+    }
+
+
+    .section-p-text {
+      font-size:.8em;
+      margin:auto;
+      margin-top:0;
+      width:90%;
+      font-weight: lighter;
+      color:grey;
+    }
+
+
+  .second {
+      display:block;
+      justify-content: space-around;
+      text-align:center;
+    }
+
+
+    .form-header-text {
+      text-align:center;
+    }
+
+    .form-body-text {
+      text-align:center;
+    }
+
+    .funky-background {
+      border-bottom:1px solid rgba(0,0,0,0.1);
+    }
+
+    .second-section-item {
+      margin-bottom:50px;
+      width:100%;
+    }
+
+
+  }
