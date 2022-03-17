@@ -69,6 +69,14 @@
 </div>
 
 <div class="item">
+  <img src="pics/bnatemp.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
+  <img src="pics/bnatemp.jpg" alt="Before And After Botox Picture">
+</div>
+
+<div class="item">
   <img src="pics/BAFBOTOX12.jpg" alt="Before And After Botox Picture">
 </div>
 
