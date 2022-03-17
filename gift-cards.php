@@ -3,7 +3,7 @@
 <head>
   <meta charset="utf-8">
   <title>FARGO WELLNESS DISTRICT</title>
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.paypal.com/sdk/js https://www.google-analytics.com/ https://www.googletagmanager.com/gtag/js https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
+  <!-- <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.paypal.com/sdk/js https://www.google-analytics.com/ https://www.googletagmanager.com/gtag/js https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" /> -->
   <link rel="stylesheet" type="text/css" href="css/gift-cards.css" />
   <meta name="description" content="Fargo Wellness District Is The Premier Botox&reg, Dermal Filler & Medical Weight Loss Clinic In The Fargo Moorhead Area. We Take The Time. It's What We Do." />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -29,7 +29,8 @@
     <img class="gift-card-img" src="pics/giftcard.jpg">
 
     <div class="smart-button-container" id="smart-button-container">
-
+        <div style="text-align: center"><label for="description">WELLNESS DISTRICT GIFT CARDS </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
+          <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
         <div style="text-align: center"><label for="amount">GIFT CARD AMOUNT </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
           <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
         <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
