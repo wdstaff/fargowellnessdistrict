@@ -25,7 +25,7 @@ function initPayPalButton() {
     style: {
       color: 'gold',
       shape: 'rect',
-      label: 'buynow',
+      label: 'paypal',
       layout: 'vertical',
 
     },

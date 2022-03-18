@@ -14,8 +14,10 @@
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
   <link rel=”canonical” href=”https://fargowellnessdistrict.com” />
+
+
   <script src="scripts/gift-cards.js" defer></script>
-  <script src="https://www.paypal.com/sdk/js?client-id=sb&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
+  <script src="https://www.paypal.com/sdk/js?client-id=AWj3OpAjsLabQ0PsZ7tOg0YGIA0Yllw1b0tzVfyHc-rhTM9-a3RZ4gnVU9ZT_3Z2g2MzOU_rfETKcFBm&enable-funding=venmo&currency=USD" data-sdk-integration-source="button-factory"></script>
 
 
 
@@ -25,20 +27,23 @@
   <main>
   <?php include 'wdheader.php' ?>
 
+  <section class="first section w3-container w3-center w3-animate-bottom">
+    <p class="section-p-text">Give the gift of wellness to someone you love. Purchase a gift card online and have it ready to use in store instantly.</p>
+  </section>
+
   <section class="gift-cards-section">
     <img class="gift-card-img" src="pics/giftcard.jpg">
 
-    <div class="smart-button-container" id="smart-button-container">
-        <div style="text-align: center"><label for="description">WELLNESS DISTRICT GIFT CARDS </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
-          <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
-        <div style="text-align: center"><label for="amount">GIFT CARD AMOUNT </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
-          <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
-        <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
-          <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
-        <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
-      </div>
-
-  </section>
+  <div id="smart-button-container">
+    <div style="text-align: center"><label for="description">WHO IS THIS GIFT CARD FOR </label><input type="text" name="descriptionInput" id="description" maxlength="127" value=""></div>
+      <p id="descriptionError" style="visibility: hidden; color:red; text-align: center;">Please enter a description</p>
+    <div style="text-align: center"><label for="amount">GIFT CARD AMOUNT </label><input name="amountInput" type="number" id="amount" value="" ><span> USD</span></div>
+      <p id="priceLabelError" style="visibility: hidden; color:red; text-align: center;">Please enter a price</p>
+    <div id="invoiceidDiv" style="text-align: center; display: none;"><label for="invoiceid"> </label><input name="invoiceid" maxlength="127" type="text" id="invoiceid" value="" ></div>
+      <p id="invoiceidError" style="visibility: hidden; color:red; text-align: center;">Please enter an Invoice ID</p>
+    <div style="text-align: center; margin-top: 0.625rem;" id="paypal-button-container"></div>
+  </div>
+</section>
 
 
 

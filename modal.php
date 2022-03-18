@@ -27,9 +27,6 @@
      <input class="bottom-input" type="date" id="date" name="date" placeholder="Date of Birth"><br>
      <input class="modal-input-button" id="formsubmit" type="submit" value="Sign Up">
  </form>
- <script type="text/javascript">
-
-</script>
  </div>
  </div>
 
