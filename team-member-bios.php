@@ -37,7 +37,7 @@
       </p>
       <p class="profile-bio">Dr. Spencer Berry is an AOA graduate from the Baylor College of Medicine in Houston, Texas. He is a member of the Obesity Medicine Association (OMA) and is Board Certified in Family Medicine and Obesity Medicine. He has over 35 years of experience as a practicing physician. He has served on the national board of directors for the OMA and has presented locally, regionally and nationally.
       </p>
-      <p class="profile-bio">Dr. Berry received his certificate in aesthetic medicine from the America Academy of Aesthetic Medicine. He is a master expert injector having completed advanced training from the Allergan Medical Institute and utilizes the advanced and specialized MD codes for filler placement. Dr. Berry places special emphasis on patient education, full face assessment and the best in preventive and therapeutic care for his patients.
+      <p class="profile-bio">Dr. Berry received his certificate in aesthetic medicine from the American Academy of Aesthetic Medicine. He is a master expert injector having completed advanced training from the Allergan Medical Institute and utilizes the advanced and specialized MD codes for filler placement. Dr. Berry places special emphasis on patient education, full face assessment and the best in preventive and therapeutic care for his patients.
       </p>
       <p class="profile-bio">Dr. Berry’s patient care focused practice, compassion, and team approach is an ideal environment for everyone looking to achieve a healthier lifestyle through healthy aging and prevention.
       </p>
@@ -166,6 +166,19 @@
       <p class="profile-bio">Jess is an exercise physiologist turned graphic designer. She graduated from NDSU and Shaw Academy. Prior to Wellness District, she worked in Physical Therapy at Sanford for 17 years. She then took a leap of faith and transitioned into graphic design after encouragement from her family. She resides in Fargo with her husband, Dave, twin girls, little boy, and her dog, Daisy.
       </p>
       <p class="profile-bio">She enjoys outdoor activities year-round, spending time with her friends and family, and all things lady bugs!
+      </p>
+    </div>
+  </section>
+
+  <section id="casey" class="next-section">
+    <div class="left-section-team">
+      <img src="pics/emp/casey-mobile.jpg" class="profile-pic">
+    </div>
+    <div class="right-section-team">
+      <h2 class="profile-header">Casey Bjugstad, Master Aesthetician</h2>
+      <p class="profile-bio">Casey Bjugstad is a Master Aesthetician at Wellness District and has been an Aesthetician for 10 years. She attended Joseph’s West Academy and has a great passion for making people look and feel amazing. She believes healthy skin is beautiful skin.
+      </p>
+      <p class="profile-bio">When she isn’t helping people attain their healthy glow, she loves spending time with her two kids and family, going shopping, vacationing, and enjoying the outdoors.
       </p>
     </div>
   </section>

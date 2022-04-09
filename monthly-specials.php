@@ -24,7 +24,7 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/marchspec.jpg" />
+  <img class="img-header" src="pics/aprilspec.jpg" />
 
   <?php include 'staff-carousel.php' ?>
   <?php include 'new-patient-special.php' ?>

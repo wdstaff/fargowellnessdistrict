@@ -20,16 +20,53 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="pics/filler1.jpg" alt="Before And After Botox Picture">
+      <img src="pics/BALIPS1.jpg" alt="Before And After Botox Picture">
     </div>
 
     <div class="item">
-      <img src="pics/filler3.jpg" alt="Before And After Botox Picture">
+      <img src="pics/BALIPS2.jpg" alt="Before And After Botox Picture">
     </div>
 
     <div class="item">
-      <img src="pics/filler5.jpg" alt="Before And After Botox Picture">
+      <img src="pics/BALIPS3.jpg" alt="Before And After Botox Picture">
     </div>
+
+    <div class="item">
+      <img src="pics/BALIPS4.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BALIPS5.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BALIPS6.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BALIPS7.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BALIPS8.jpg" alt="Before And After Botox Picture">
+    </div>
+
+  <div class="item">
+    <img src="pics/BAFILLER1.jpg" alt="Before And After Botox Picture">
+  </div>
+
+  <div class="item">
+    <img src="pics/BAFILLER2.jpg" alt="Before And After Botox Picture">
+  </div>
+
+  <div class="item">
+    <img src="pics/BAFILLER3.jpg" alt="Before And After Botox Picture">
+  </div>
+
+  <div class="item">
+    <img src="pics/BAFILLER5.jpg" alt="Before And After Botox Picture">
+  </div>
+
 
 </div>
 

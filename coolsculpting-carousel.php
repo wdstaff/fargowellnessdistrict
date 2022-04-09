@@ -20,15 +20,35 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="pics/CS1.jpg" alt="Before And After Botox Picture">
+      <img src="pics/BAFCS1.jpg" alt="Before And After Botox Picture">
     </div>
 
     <div class="item">
-      <img src="pics/CS2.jpg" alt="Before And After Botox Picture">
+      <img src="pics/BAFCS2.jpg" alt="Before And After Botox Picture">
     </div>
 
     <div class="item">
-      <img src="pics/CS3.jpg" alt="Before And After Botox Picture">
+      <img src="pics/BAFCS3.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BAFCS4.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BAFCS5.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BAFCS6.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BAFCS7.jpg" alt="Before And After Botox Picture">
+    </div>
+
+    <div class="item">
+      <img src="pics/BAFCS8.jpg" alt="Before And After Botox Picture">
     </div>
 
 </div>

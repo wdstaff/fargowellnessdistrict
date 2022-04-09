@@ -100,11 +100,11 @@
       </div>
 
       <div class="meet-the-team-card">
-      <img src="pics/emp/casey.jpg" alt="Avatar" style="width:100%">
+      <img src="pics/emp/casey-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
       <h4><b>Casey Bjugstad</b></h4>
       <h5>Master Aesthetician</h4>
-      <a href="#">Learn More</a>
+      <a href="team-member-bios.php#casey">Learn More</a>
       </div>
       </div>
 

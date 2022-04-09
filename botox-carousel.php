@@ -21,64 +21,38 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="pics/BAFBOTOX1.jpg" alt="Before And After Botox Picture">
+      <img src="pics/BAFBOTOX26.jpg" alt="Before And After Botox Picture">
     </div>
 
-    <div class="item">
-      <img src="pics/BAFBOTOX2.jpg" alt="Before And After Botox Picture">
-    </div>
-
-    <div class="item">
-      <img src="pics/BAFBOTOX2.jpg" alt="Before And After Botox Picture">
-    </div>
-
-  <div class="item">
-    <img src="pics/BAFBOTOX2.jpg" alt="Before And After Botox Picture">
-  </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX3.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX20.jpg" alt="Before And After Botox Picture">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX5.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX21.jpg" alt="Before And After Botox Picture">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX6.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX22.jpg" alt="Before And After Botox Picture">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX7.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX23.jpg" alt="Before And After Botox Picture">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX8.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX24.jpg" alt="Before And After Botox Picture">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX9.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX25.jpg" alt="Before And After Botox Picture">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX10.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX27.jpg" alt="Before And After Botox Picture">
 </div>
 
-<div class="item">
-  <img src="pics/BAFBOTOX11.jpg" alt="Before And After Botox Picture">
-</div>
-
-<div class="item">
-  <img src="pics/bnatemp.jpg" alt="Before And After Botox Picture">
-</div>
-
-<div class="item">
-  <img src="pics/bnatemp.jpg" alt="Before And After Botox Picture">
-</div>
-
-<div class="item">
-  <img src="pics/BAFBOTOX12.jpg" alt="Before And After Botox Picture">
-</div>
 
 </div>
 

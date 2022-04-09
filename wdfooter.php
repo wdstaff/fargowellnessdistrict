@@ -44,7 +44,7 @@
       <p class="mini-item">Terms • Privacy Policy • Shop Policies</p>
     </div>
     <div class="wrapper-footer-mini">
-      <p class="mini-item"><a href="https://www.facebook.com/WellnessDistrict/" target="_blank" rel="noopener noreferrer">Facebook</a> • <a href="https://www.instagram.com/wellnessdistrictfargo" target="_blank" rel="noopener noreferrer">Instagram</a> • <a href="#">YouTube</a></p>
+      <p class="mini-item"><a href="https://www.facebook.com/WellnessDistrict/" target="_blank" rel="noopener noreferrer">Facebook</a> • <a href="https://www.instagram.com/wellnessdistrictfargo" target="_blank" rel="noopener noreferrer">Instagram</a> • <a href="https://www.youtube.com/channel/UCuZEqurFGGDdEUByS2mudTQ">YouTube</a></p>
     </div>
     <div class="wrapper-footer-mini">
       <p class="mini-item">© Wellness District 2021</p>

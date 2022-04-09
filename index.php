@@ -19,13 +19,54 @@
   <!-- Logo Structured Data -->
 
   <script type="application/ld+json">
-    {
-      "@context": "https://schema.org",
-      "@type": "Organization",
-      "url": "https://www.fargowellnessdistrict.com",
-      "logo": "https://www.fargowellnessdistrict.com/pics/wdlogo.png"
-    }
+  {
+  "@context": "http://schema.org",
+  "@type": "LocalBusiness",
+  "logo": "https://www.fargowellnessdistrict.com/pics/wdlogo.png",
+  "url": "https://www.fargowellnessdistrict.com",
+  "priceRange":"$$$",
+  "image": "https://fargowellnessdistrict.com/pics/fbbackground.jpg",
+  "sameAs": ["https://www.instagram.com/wellnessdistrictfargo/", "https://www.facebook.com/WellnessDistrict/", "https://www.youtube.com/channel/UCuZEqurFGGDdEUByS2mudTQ"],
+  "legalName": "Wellness District Medical Weight Loss & Aesthetics",
+  "name": "Wellness District Medical Weight Loss & Aesthetics",
+  "alternateName": "Wellness District",
+  "telephone": "+1-701-205-3088",
+  "founder":{
+   "@type": "Person",
+     "name":"Spencer Berry",
+     "honorificPrefix":"Dr",
+     "givenName":"Spencer",
+     "familyName":"Berry",
+     "jobTitle":"Medical Director",
+     "image":"https://fargowellnessdistrict.com/pics/emp/spencer.jpg",
+     "worksFor":"Wellness District Medical Weight Loss & Aesthetics",
+     "affiliation":"American Academy of Aesthetic Medicine",
+     "memberOf":"Obesity Medicine Association (OMA)",
+     "sameAs":["https://npiregistry.cms.hhs.gov/registry/provider-view/1215954219", "https://fargowellnessdistrict.com/team-member-bios.php"]
+},
+  "makesOffer": ["Botox","Dermal Filler","CoolSculpting Elite", "Weightloss", "Makeup & Skincare"],
+  "address":{
+   "@type": "PostalAddress",
+    "addressLocality":"West Fargo",
+    "addressRegion":"ND",
+    "streetAddress":"435 32nd Ave East",
+    "postalCode":"58078"
+   },
+  "geo":{
+   "@type": "GeoCoordinates",
+    "latitude":"46.832561848645895",
+    "longitude":"-96.89250335272638"
+   },   "contactPoint":{
+   "@type": "contactPoint",
+    "contactType": "customer service",
+    "telephone":"+1-701-205-3088",
+    "url":"https://fargowellnessdistrict.com/contact-us.php"
+   }
+ }
+
     </script>
+
+
 
 </head>
 
