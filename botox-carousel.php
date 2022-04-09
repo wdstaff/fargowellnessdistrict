@@ -21,7 +21,7 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="pics/BAFBOTOX26.jpg" alt="Before And After Botox Picture">
+      <img src="pics/BAFBOTOX24.jpg" alt="Before And After Botox Picture">
     </div>
 
 
@@ -42,15 +42,11 @@
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX24.jpg" alt="Before And After Botox Picture">
-</div>
-
-<div class="item">
   <img src="pics/BAFBOTOX25.jpg" alt="Before And After Botox Picture">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX27.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX26.jpg" alt="Before And After Botox Picture">
 </div>
 
 
