@@ -70,6 +70,7 @@ gtag('config', 'UA-88182100-3');
                                   <p class="treatment menu-subheader-text"><a href="filler.php">Dermal Fillers</a></p>
                                   <p class="treatment menu-subheader-text"><a href="coolsculpting.php">Coolsculpting<sup>&reg</sup> Elite</a></p>
                                   <p class="treatment menu-subheader-text"><a href="weight-loss-services.php">Weight Loss Services</a></p>
+                                  <p class="treatment menu-subheader-text"><a href="halo.php">HALO / HERO Laser</a></p>
                                   <p class="treatment menu-subheader-text"><a href="facials.php">Facials</a></p>
                                   <p class="treatment menu-subheader-text"><a href="procell.php">Procell</a></p>
                                   <p class="treatment menu-subheader-text"><a href="chemical-peel.php">Chemical Peels</a></p>
@@ -102,10 +103,10 @@ gtag('config', 'UA-88182100-3');
   <div class="item-wrapper desktop-right">
     <div class="extra-menu-items"><p class="menu-header-text">SHOP ONLINE</p></div>
     <div class="extra-menu-items"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferrer"></div>
-      <img class="menuimg" src="pics/wd39.jpg"></a>
+      <img class="menuimg" src="pics/wd39.webp"></a>
       <div class="shoppingmenutext1">Shop SkinMedica<sup>&reg</sup></div>
     <div class="extra-menu-items"><a href="https://colorescience.com/fargowellnessdistrict" target="_blank" rel="noopener noreferrer"></div>
-      <img class="menuimg" src="pics/wd32.jpg"></a>
+      <img class="menuimg" src="pics/wd32.webp"></a>
       <div class="shoppingmenutext2">Shop Colorescience<sup>&reg</sup></div>
     </div>
   <div class="item-wrapper desktop-right dright2">

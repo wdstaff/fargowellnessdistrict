@@ -75,7 +75,7 @@
   <?php include 'wdheader.php' ?>
 
   <div class="homepage-titantron">
-  <img class="homepage-header" src="pics/frontpage.jpg" />
+  <img class="homepage-header" src="pics/frontpage.webp" />
     <div id="homepage-header-decal-container" class="homepage-header-decal-container">
       <img class="homepage-header-decal" src="pics/top500.png" />
   <a class="homepage-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book Online</a>
@@ -101,7 +101,7 @@
   <?php include 'staff-carousel.php' ?>
 
 <div class="funky-background">
-  <img class="decal" src="pics/decal.png" />
+  <img class="decal" src="pics/decal.webp" />
 
 <section class="testimonials_section">
     <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>

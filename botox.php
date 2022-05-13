@@ -3,8 +3,8 @@
 
 <head>
 
-  <title>FARGO BOTOX&reg</title>
-  <meta name="description" content="We Are So Confident In Our Techniques And Precise Placement That We Offer Patients Their First Botox&reg Treatment At Wellness District For $150 (Up To 35 Units)." />
+  <title>Botox Fargo ND | Only $150 For First Treatment!</title>
+  <meta name="description" content="Receive Botox in Fargo ND Through An Innovative Injection Technique Not Used By Any Other Clinic In The Fargo/Moorhead Area. Schedule Today!" />
 
   <link rel="stylesheet" type="text/css" href="css/botox.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
@@ -22,6 +22,44 @@
   <!-- inline js fix !-->
 
   <script src="scripts/botox.js" defer></script>
+  <script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [{
+    "@type": "Question",
+    "name": "What is Botox Cosmetic?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Botox(r) Cosmetic is an injectable treatment made from botulinum toxin type A, a substance which temporarily relaxes the muscles responsible for causing lines and wrinkles to form. When Botox(r) is injected into the face or neck, it relaxes lines and wrinkles as well as tightening sagging skin along the jawline."
+    }
+  },{
+    "@type": "Question",
+    "name": "Why choose Wellness District for your Botox Cosmetic treatment?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "For starters, our practice is a Top 500 account with Allergan Aesthetics. We specialize in injectables, and our Providers administer a higher volume of Botox(r) treatments because of this. Our industry accolades are mirrored in our five star reviews and real patient results. This demonstrates why people seeking Botox(r) treatments continue to see us."
+    }
+  },{
+    "@type": "Question",
+    "name": "Are there ways to save on my Botox Cosmetic treatment?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "Of course, we offer the Botox(r) Club which patients can save $2/unit on their Botox(r) treatment. Call for more information. We also accept Alle rewards! It's free to join and you'll earn points on every Botox(r) Cosmetic, Kybella(r), Coolsculpting(r) Elite or Juvederm treatments you receive! You will also receive points for every internal Latisse and SkinMedica(r) purchase you make. Best of all, it's free to join. You'll be able to redeem points for future savings."
+    }
+  },{
+    "@type": "Question",
+    "name": "What about downtime, results and follow-up appointments for a Botox treatments?",
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": "The best part about a Botox treatment is that you will have no downtime and should be able to continue your day immediately after receiving your injections. We do recommend that you do not lie down for four hours following the treatment. We also recommend you do not work out the rest of the day. Results vary but are usually visible by day seven. Complete results can be seen by day 14. We may recommend a follow-up appointment to evaluate your results and, if necessary, administer a little more treatment.
+
+After three or four months, you will need a new treatment and can return to Wellness District to maintain your fresh, youthful look."
+    }
+  }]
+}
+</script>
+
 
 
 </head>
@@ -30,14 +68,14 @@
   <?php include 'wdheader.php' ?>
 
   <div class="botox-titantron">
-  <img class="img-header" src="pics/wd212.jpg" />
+  <img class="img-header" src="pics/wd212.jpg" alt=”Botox in Fargo ND injection being administered by Spencer Berry, MD at Wellness District“ >
 </div>
 
   <section class="first-section">
 
     <div class="left-section">
       <div class="left-wrapper">
-        <h1 class="page-header">Botox<sup>&reg</sup></h1>
+        <h1 class="page-header">Innovative Botox<sup>&reg</sup> Treatments In Fargo ND</h1>
 
         <p class="section-text">At Wellness District Aesthetics, we use an innovative Botox<sup>&reg</sup> injection technique not used by any other clinic in the Fargo/Moorhead area. Our Botox<sup>&reg</sup> technique gives patients a natural yet flawless look. We take our time to ensure that our Botox<sup>&reg</sup> is strategically placed for each individual patient's anatomy.
         </p>
@@ -92,7 +130,7 @@
   <section class="second-section">
     <div class="second-left-section">
       <div class="second-left-wrapper">
-        <h1 class="second-page-header">Real Botox<sup>&reg</sup> Results</h1>
+        <h1 class="second-page-header">Botox<sup>&reg</sup> Before And After Results</h1>
 
         <p class="section-text">Our team strives for a natural result, where you can experience the benefits of Botox<sup>&reg</sup> without having a “frozen face”.</p>
         <p class="section-text">The treatment is a simple and safe non-surgical procedure that can be performed in as little as ten minutes and requires no recovery time.</p>

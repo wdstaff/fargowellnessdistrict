@@ -38,15 +38,15 @@
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX23.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX23.jpg" alt="Before And After Botox Fargo ND">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX25.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX25.jpg" alt="Before And After Botox In Fargo">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX26.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX26.jpg" alt="Botox Fargo ND Female patient before and after photo">
 </div>
 
 

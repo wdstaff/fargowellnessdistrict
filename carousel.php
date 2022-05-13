@@ -23,7 +23,7 @@
 						<div class="featured-carousel owl-carousel">
 							<div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/spencer.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/spencer.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -36,7 +36,7 @@
 							</div>
 							<div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/nichole.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/nichole.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -49,7 +49,7 @@
 							</div>
 							<div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/maribel-mobile.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/maribel-mobile.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -62,7 +62,7 @@
 							</div>
 							<div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/megan-mobile.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/megan-mobile.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -75,7 +75,7 @@
 							</div>
 							<div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/alecia-mobile.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/alecia-mobile.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -88,7 +88,7 @@
 							</div>
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/ashli-mobile.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/ashli-mobile.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -101,7 +101,7 @@
 							</div>
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/amber.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/amber.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -114,7 +114,7 @@
 							</div>
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/sam.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/sam.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -127,7 +127,7 @@
 							</div>
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/jamie-mobile.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/jamie-mobile.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -140,7 +140,7 @@
 							</div>
               <div class="item">
                 <div class="work">
-                  <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/kt-mobile.jpg);">
+                  <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/kt-mobile.webp);">
                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                       <span class="ion-ios-search"></span>
                     </a>
@@ -154,7 +154,7 @@
 
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/casey-mobile.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/casey-mobile.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -167,7 +167,7 @@
 							</div>
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/work-12-mobile.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/work-12-mobile.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -180,7 +180,7 @@
 							</div>
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/emily-mobile.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/emily-mobile.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -193,7 +193,7 @@
 							</div>
               <div class="item">
 								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/mar.jpg);">
+									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/mar.webp);">
 										<a href="#" class="icon d-flex align-items-center justify-content-center">
 											<span class="ion-ios-search"></span>
 										</a>
@@ -206,7 +206,7 @@
 							</div>
               <div class="item">
                 <div class="work">
-                  <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/dd-mobile.jpg);">
+                  <div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/dd-mobile.webp);">
                     <a href="#" class="icon d-flex align-items-center justify-content-center">
                       <span class="ion-ios-search"></span>
                     </a>

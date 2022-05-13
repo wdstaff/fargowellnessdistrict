@@ -52,7 +52,7 @@
         <li>Coolsculpting<sup>&reg</sup> Elite</li>
         </ol>
         <hr>
-        <h3 class="heading-text">Initial Visit: $279</h3>
+        <h3 class="heading-text">Initial Visit: $299</h3>
         <ol class="treatment-area">
             <li>Comprehensive weight loss history and physical examination with one of our Providers</li>
             <li>Body Composition Analysis</li>
