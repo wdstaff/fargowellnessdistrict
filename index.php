@@ -101,7 +101,7 @@
   <?php include 'staff-carousel.php' ?>
 
 <div class="funky-background">
-  <img class="decal" src="pics/decal.webp" />
+  <img class="decal" src="pics/decal.png" />
 
 <section class="testimonials_section">
     <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
