@@ -41,8 +41,11 @@
 
 
         <li class="section-text section-text-li"><h2 class="midline-header">No need for an aesthetic</h2></li>
+        <br>
         <li class="section-text section-text-li"><h2 class="midline-header">Better results</h2></li>
+        <br>
         <li class="section-text section-text-li"><h2 class="midline-header">Faster results (patients see results in 7-10  days)</h2></li>
+        <br>
         <li class="section-text section-text-li"><h2 class="midline-header">Little to no downtime</h2></li>
 
         <p class="section-text">BBL<sup>&reg</sup> HERO is a light-based therapy and, therefore, safe for almost all patients. </p>
@@ -55,7 +58,9 @@
 
 
         <li class="section-text section-text-li"><h2 class="midline-header">Remarkable results are often seen after on treatment.</h2></li>
+        <br>
         <li class="section-text section-text-li"><h2 class="midline-header">Patients can resume normal activity after 24 hours.</h2></li>
+        <br>
         <li class="section-text section-text-li"><h2 class="midline-header">Expertly trained staff with advanced training from Top HALO Providers in the country.</h2></li>
 
 

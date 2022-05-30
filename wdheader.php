@@ -21,7 +21,6 @@
 
 
 <script src="scripts/wdheader.js" defer></script>
-
 <!-- <script>
 window.dataLayer = window.dataLayer || [];
 function gtag(){dataLayer.push(arguments);}
@@ -121,7 +120,8 @@ gtag('config', 'UA-88182100-3');
     <div class="extra-menu-items"><p class="menu-subheader-text">Closed Saturday & Sunday</p></div>
   </div>
 </div>
-<?php include 'modal.php' ?>
+<div id="modal-container-js"><?php include 'modal.php' ?></div>
+<script src="scripts/vipformfix.js" defer></script>
 <?php include 'sticky-schedule.php' ?>
 </body>
 </html>

@@ -313,6 +313,12 @@ property: value;
 }
 
 
+.stripething {
+  display:block;
+  margin:auto;
+}
+
+
 @media only screen and (max-width:1080px) {
 
   .homepage-titantron {
