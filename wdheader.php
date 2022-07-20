@@ -44,6 +44,7 @@ gtag('config', 'UA-88182100-3');
 <script src="scripts/googlesitetag2.js" defer></script>
 <script src="scripts/googlesitetag3.js" defer></script>
 <script src="scripts/googlesitetag4.js" defer></script>
+<script src="scripts/vipformfix.js" defer></script>
 
 
 
@@ -91,6 +92,8 @@ gtag('config', 'UA-88182100-3');
                                   <p class="resource menu-subheader-text"><a href="aesthetic-memberships.php">Aesthetic Memberships</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://fitfuelfoods.com/" target="_blank" rel="noopener noreferrer">Fit Fuel Foods</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://www.fargostrongpour.com" target="_blank" rel="noopener noreferrer">StrongPour Nutrition Bar</a></p>
+                                  <p class="resource menu-subheader-text"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferer">Shop SkinMedica<sup>&reg</sup></a></p>
+                                  <p class="resource menu-subheader-text"><a href="https://colorescience.com/fargowellnessdistrict" target="_blank" rel="noopener noreferer">Shop Colorescience<sup>&reg</sup></a></p>
 
                                 </div>
     <div class="extra-menu-items"><a class="mobile-phone menu-header-text" href="tel:701.205.3088">701.205.3088</a>
@@ -121,7 +124,16 @@ gtag('config', 'UA-88182100-3');
   </div>
 </div>
 <div id="modal-container-js"><?php include 'modal.php' ?></div>
-<script src="scripts/vipformfix.js" defer></script>
+
 <?php include 'sticky-schedule.php' ?>
+<!-- Start of LiveChat (www.livechat.com) code -->
+<script>
+    window.__lc = window.__lc || {};
+    window.__lc.license = 14332566;
+    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
+</script>
+<noscript><a href="https://www.livechat.com/chat-with/14332566/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
+<!-- End of LiveChat code -->
+
 </body>
 </html>
