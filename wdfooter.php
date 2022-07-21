@@ -23,7 +23,7 @@
                                       <p class="footer-menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">435 32nd Ave, E Suite B</a></p>
                                       <p class="footer-menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">West Fargo, ND 58078</a></p>
                                       <p class="footer-menu-subheader-text"><a href="tel:701.205.3088" style="cursor:pointer;">CALL: 701.205.3088</a></p>
-                                    <a class="footer-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">BOOK ONLINE</a>
+                                    <a class="footer-button" href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer">BOOK ONLINE</a>
     </div>
     <div class="footer-vertical-line"></div>
     <div class="wrapper-footer bottom-footer">

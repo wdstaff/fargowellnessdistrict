@@ -3,8 +3,7 @@
 
 <head>
   <title>KYBELLA&reg FARGO</title>
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
-
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://api.livechatinc.com/v3.3/customer/action/get_configuration?license_ https://api.livechatinc.com/v3.3/customer/action/get_localization?license_i https://api.livechatinc.com/v3.3/customer/action/get_dynamic_configuration https://cdn.livechatinc.com/tracking.js https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
   <meta name="description" content="Kybella® is a cosmetic injection made from deoxycholic acid and is the first injectable treatment approved by the FDA which can contour and improve the appearance of submental fullness, more frequently called a double chin." />
   <link rel="stylesheet" type="text/css" href="css/kybella.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
@@ -39,7 +38,7 @@
         <p class="section-text">The active ingredient used in Kybella<sup>&reg</sup> injections is deoxycholic acid. This is a naturally-occurring molecule found in the body and it helps with the absorption and breakdown of dietary fat. When the medication is injected into the fat beneath the chin, Kybella<sup>&reg</sup> eliminates the fat cells found there. Once these cells are eliminated, they can no longer absorb or store fat. Kybella<sup>&reg</sup> is a permanent procedure. For more information, contact Wellness District for a free consultation.</p>
         <p class="section-text">At Wellness District we use the exceptional line of peels from SkinMedica<sup>&reg</sup>.</p>
 
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
+        <a class="botox-appt-button" href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>
@@ -79,7 +78,7 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="https://book.mypatientnow.com/practice/lsmX4D">Book An Appointment</a>
 </div>
     <?php include 'staff-carousel.php' ?>
     <?php include 'new-patient-special.php' ?>

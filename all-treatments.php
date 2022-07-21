@@ -11,7 +11,7 @@
     <div class="sneaky-img-container">
     <p class="sneaky-img-text">View All Our Treatments</p>
     <a class="sneaky-img-button-left appt-button" href="aesthetic-services.php">Learn More</a>
-    <a class="sneaky-img-button-right appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book Online</a>
+    <a class="sneaky-img-button-right appt-button" href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer">Book Online</a>
   </div>
   </section>
 

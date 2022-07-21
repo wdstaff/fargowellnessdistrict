@@ -5,7 +5,7 @@
 
   <title>Botox Fargo ND | Only $150 For First Treatment!</title>
   <meta name="description" content="Receive Botox in Fargo ND Through An Innovative Injection Technique Not Used By Any Other Clinic In The Fargo/Moorhead Area. Schedule Today!" />
-
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://api.livechatinc.com/v3.3/customer/action/get_configuration?license_ https://api.livechatinc.com/v3.3/customer/action/get_localization?license_i https://api.livechatinc.com/v3.3/customer/action/get_dynamic_configuration https://cdn.livechatinc.com/tracking.js https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
   <link rel="stylesheet" type="text/css" href="css/botox.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
   <link rel="shortcut icon" href="favicon.ico" />
@@ -83,7 +83,7 @@ After three or four months, you will need a new treatment and can return to Well
         <li class="section-text section-text-li"><h2 class="midline-header">Botox<sup>&reg</sup></h2> is a purified protein derived from Botulin Toxin A. Botox<sup>&reg</sup> works by preventing the transmission of nerve impulses to the injected muscle, therefore relaxing the facial movements that create facial lines. Botox<sup>&reg</sup> can be used to treat and prevent fine lines and wrinkles.</li>
         <p class="section-text">Both women and men can receive Botox<sup>&reg</sup> injections. Botox<sup>&reg</sup> is most commonly used to treat fine lines and wrinkles, but it is not for all types of fine lines and wrinkles. Our expert injectors will guide you towards the best treatment option for you.</p>
         <p class="section-text">Each patient’s unique anatomy will determine the specific treatment and skincare regimen we recommend to attain the best results!</p>
-        <a class="botox-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
+        <a class="botox-appt-button" href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>
@@ -176,7 +176,7 @@ After three or four months, you will need a new treatment and can return to Well
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="https://schedulingapp.mypatientnow.com/Account/Login/719">Book An Appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="https://book.mypatientnow.com/practice/lsmX4D">Book An Appointment</a>
 </div>
 
     <?php include 'staff-carousel.php' ?>

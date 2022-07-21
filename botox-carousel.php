@@ -26,15 +26,15 @@
 
 
 <div class="item">
-  <img src="pics/BAFBOTOX20.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX20.jpg" alt="Botox Fargo ND Before And After Photo">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX21.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX21.jpg" alt="Botox Picture Before And After Photo">
 </div>
 
 <div class="item">
-  <img src="pics/BAFBOTOX22.jpg" alt="Before And After Botox Picture">
+  <img src="pics/BAFBOTOX22.jpg" alt="Botox In Fargo Before And After Photo">
 </div>
 
 <div class="item">

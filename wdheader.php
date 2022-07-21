@@ -45,11 +45,7 @@ gtag('config', 'UA-88182100-3');
 <script src="scripts/googlesitetag3.js" defer></script>
 <script src="scripts/googlesitetag4.js" defer></script>
 <script src="scripts/vipformfix.js" defer></script>
-
-
-
-</head>
-
+<script src="scripts/chatbot.js" defer></script>
 
 <body>
 <header id="top-header" class="top-header">
@@ -61,7 +57,7 @@ gtag('config', 'UA-88182100-3');
   <a id="openmenubutton2" class="openmenubutton2"><div id="hamburger" class="wrapper hamburger"><span></span><p class="hamtext">Menu</p></div></a>
   <div class="wrapper"><a href="index.php"><img class="logo" src="pics/wdlogo.png"></a></div>
   <div class="wrapper header-right"><a id="openshopmenubutton"><p class="header-p shop-drop-text">Shop</p></a><div id="shop-dropdown" class="shop-dropdown"><a href="https://fargowellnessdistrict.brilliantconnections.com/" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop SkinMedica<sup>&reg</sup></h5></a><a href="https://www.colorescience.com/collections/retailer-landing-page?designate-location=4540" target="_blank" rel="noopener noreferrer"><h5 class="bottom-header-text">Shop Colorescience</h5></a>
-  </div><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer"><p class="header-p-middle">Book</p></a><a href="tel:701-205-3088"><i class="fas fa-phone"></i></a></div>
+  </div><a href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer"><p class="header-p-middle">Book</p></a><a href="tel:701-205-3088"><i class="fas fa-phone"></i></a></div>
 </header>
 <div id="extra-menu" class="extra-menu w3-container w3-center w3-animate-top">
   <div class="item-wrapper">
@@ -87,8 +83,9 @@ gtag('config', 'UA-88182100-3');
   <div class="item-wrapper">
     <div id="ptresourcemenufix" class="extra-menu-items topitem"><p class="menu-header-text">PATIENT RESOURCES<i id="resource-arrow" class="fas fa-angle-right resource-arrow" style="font-size:2em;float:right;"></i></p>
                                   <p id="resourcetest" class=" resource menu-subheader-text"><a href="monthly-specials.php">Monthly Specials</a></p>
+                                  <p class="resource menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferer">Patient Portal</a></p>
                                   <p class="resource menu-subheader-text"><a href="patient-forms.php">Patient Forms</a></p>
-                                  <p class="resource menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book Online</a></p>
+                                  <p class="resource menu-subheader-text"><a href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer">Book Online</a></p>
                                   <p class="resource menu-subheader-text"><a href="aesthetic-memberships.php">Aesthetic Memberships</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://fitfuelfoods.com/" target="_blank" rel="noopener noreferrer">Fit Fuel Foods</a></p>
                                   <p class="resource menu-subheader-text"><a href="https://www.fargostrongpour.com" target="_blank" rel="noopener noreferrer">StrongPour Nutrition Bar</a></p>
@@ -98,7 +95,7 @@ gtag('config', 'UA-88182100-3');
                                 </div>
     <div class="extra-menu-items"><a class="mobile-phone menu-header-text" href="tel:701.205.3088">701.205.3088</a>
                                   <p class="menu-header-text"><a href="contact-us.php">CONTACT & DIRECTIONS</a></p>
-                                  <p class="menu-header-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">BOOK ONLINE</a></p>
+                                  <p class="menu-header-text"><a href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer">BOOK ONLINE</a></p>
                                 </div>
   </div>
     <div class="verticaldivide"></div>
@@ -116,7 +113,7 @@ gtag('config', 'UA-88182100-3');
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">435 32nd Ave E, Suite B</a></p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://www.google.com/maps/place/Wellness+District+Medical+Weight+Loss+%26+Aesthetics/@46.8324848,-96.8946545,17z/data=!3m1!4b1!4m5!3m4!1s0x52c8ccc072b5fb0d:0x8f1bc6872f8c3979!8m2!3d46.8324848!4d-96.8924658" target="_blank" rel="noopener noreferrer">West Fargo, ND 58078</a></p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text"><a href="tel:7012053088">701.205.3088</a></p></div>
-    <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Schedule an Appointment</a></p></div>
+    <div class="extra-menu-items"><p class="menu-subheader-text"><a href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer">Schedule an Appointment</a></p></div>
     <div class="extra-menu-items spec-center-user"><i class="fas fa-user"></i></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Open M-TH: 9:00 am - 6:00pm</p></div>
     <div class="extra-menu-items"><p class="menu-subheader-text">Open F: 9:00 am - 4:00 pm</p></div>
@@ -126,14 +123,7 @@ gtag('config', 'UA-88182100-3');
 <div id="modal-container-js"><?php include 'modal.php' ?></div>
 
 <?php include 'sticky-schedule.php' ?>
-<!-- Start of LiveChat (www.livechat.com) code -->
-<script>
-    window.__lc = window.__lc || {};
-    window.__lc.license = 14332566;
-    ;(function(n,t,c){function i(n){return e._h?e._h.apply(null,n):e._q.push(n)}var e={_q:[],_h:null,_v:"2.0",on:function(){i(["on",c.call(arguments)])},once:function(){i(["once",c.call(arguments)])},off:function(){i(["off",c.call(arguments)])},get:function(){if(!e._h)throw new Error("[LiveChatWidget] You can't use getters before load.");return i(["get",c.call(arguments)])},call:function(){i(["call",c.call(arguments)])},init:function(){var n=t.createElement("script");n.async=!0,n.type="text/javascript",n.src="https://cdn.livechatinc.com/tracking.js",t.head.appendChild(n)}};!n.__lc.asyncInit&&e.init(),n.LiveChatWidget=n.LiveChatWidget||e}(window,document,[].slice))
-</script>
 <noscript><a href="https://www.livechat.com/chat-with/14332566/" rel="nofollow">Chat with us</a>, powered by <a href="https://www.livechat.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a></noscript>
-<!-- End of LiveChat code -->
 
 </body>
 </html>

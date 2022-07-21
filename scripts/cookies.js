@@ -22,12 +22,12 @@ function getCookie(cname) {
 
 function checkCookie() {
   let user = getCookie("username");
-  if (user != "") {
+  if (user != false) {
     document.getElementById('myModal').style.display = "none";
   } else {
     user = 'guest';
     if (user != "" && user != null) {
-      setCookie("username", user, 365);
+      setCookie("guest", user, 365);
     }
   }
 }

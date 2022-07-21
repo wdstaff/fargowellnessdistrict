@@ -3,8 +3,7 @@
 
 <head>
   <title>FARGO MEDICAL WEIGHT LOSS</title>
-  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
-
+  <meta http-equiv="Content-Security-Policy" content="script-src 'self' https://www.google-analytics.com/ https://kit.fontawesome.com https://tag.simpli.fi/sifitag/9ac9d0f0-ef72-0137-6109-06659b33d47c https://api.livechatinc.com/v3.3/customer/action/get_configuration?license_ https://api.livechatinc.com/v3.3/customer/action/get_localization?license_i https://api.livechatinc.com/v3.3/customer/action/get_dynamic_configuration https://cdn.livechatinc.com/tracking.js https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js http://www.googletagmanager.com/gtag/js https://i.simpli.fi/p" />
   <meta name="description" content="Medical Weight Loss at the Wellness District is a Physician monitored and directed weight loss program. Using the latest medical information, research, and prescription medications, we tailor a specific individualized medical weight loss plan for you." />
   <link rel="stylesheet" type="text/css" href="css/fargo-medical-weight-loss.css" />
   <link rel="icon" type="image/x-icon" href="favicon.ico" />
@@ -38,7 +37,7 @@
         <p class="section-text">Get ready to learn about sugar and how your body responds to it when consumed! Excessive sugar intake is the number one reason for the obesity epidemic in the United States and around the world. Teaching you how to identify the various forms of sugar in your diet, as well as how it is affecting your health, is our priority.</p>
         <p class="section-text">The nutritional program at Wellness District Medical Weight Loss focuses on educating patients on the science of sugar and then teaches you how to apply this science to your nutritional habits. We believe that real food is the best medicine, therefore do not utilize meal replacements or pre-packaged foods. Enjoy eating out? No problem. Don't love to cook? That's ok! This is not a diet. We will teach you how to integrate simple nutritional guidelines so you can take them with you, wherever life may lead.</p>
         <p class="section-text">We understand that there are many factors that play a role in nutrition and body weight, which is why we use a holistic approach to weight loss that focuses on all components (nutritional, psychological, emotional, and biochemical). Patients appreciate that our program is DOABLE and that they are able to integrate healthy nutrition into their own, as well as their families' lives.</p>
-        <a class="weight-loss-appt-button" href="https://schedulingapp.mypatientnow.com/Account/Login/719" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
+        <a class="weight-loss-appt-button" href="https://book.mypatientnow.com/practice/lsmX4D" target="_blank" rel="noopener noreferrer">Book An Appointment</a>
 
     </div>
   </div>
@@ -134,7 +133,7 @@
       <iframe class="testiholder" loading="lazy" title="Client Reviews for Fargo Wellness District's aesthetic treatments and spa services" src="https://app.getsmiles.com/Testimonials.aspx?pid=812830&amp;format=1" width='90%' height="400px"></iframe>
 
   </section>
-  <a class="appt-button testbutton testbuttonlrg" href="#">Book An Appointment</a>
+  <a class="appt-button testbutton testbuttonlrg" href="https://book.mypatientnow.com/practice/lsmX4D">Book An Appointment</a>
 </div>
 
     </section>
