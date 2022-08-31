@@ -35,7 +35,7 @@ p.sticky-schedule-text {
 @media only screen and (max-width:1070px) {
 
 .sticky-schedule {
-  right:10px;
+  left:20px;
   bottom:30px;
 }
 

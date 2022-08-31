@@ -6,7 +6,7 @@
 <body>
 
   <section class="fifth-section">
-    <img class="fifth-section-img" src="pics/wd173.jpg">
+    <img class="fifth-section-img" src="pics/wd212.jpg">
     <div class="fifth-section-color-block"></div>
     <div class="sneaky-img-container">
     <p class="sneaky-img-text">View All Our Treatments</p>

@@ -95,10 +95,6 @@ a {
 
 }
 
-.speclistremove {
-  list-style-type: none;
-}
-
 /* Add some padding inside the card container */
 .container-spec {
   padding: 2px 16px;
@@ -149,12 +145,7 @@ a {
 .second-section {
   display:flex;
     margin-top:100px;
-    margin-bottom:100px;
-}
-
-.right-section-img {
-  display:block;
-  margin:auto;
+    margin-bottom:50px;
 }
 
 .above-img-text {
@@ -218,7 +209,7 @@ a {
 /* FAQ SECTION */
 
 .third-section {
-  margin-top:100px;
+  margin-top:10px;
   width:85%;
   margin-left:auto;
   margin-right:auto;
@@ -310,7 +301,6 @@ a {
     background-color:rgba(0,132,128,1);
     width:100%;
     object-fit: cover;
-    object-position:35%;
 
   }
 
@@ -321,7 +311,6 @@ a {
 
   .right-section {
     width:100%;
-    margin-bottom:8vh;
   }
 
   .left-section {
@@ -348,7 +337,6 @@ a {
 
   .second-left-section {
     width:100%;
-
   }
 
   .second-left-wrapper {

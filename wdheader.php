@@ -120,6 +120,7 @@ gtag('config', 'UA-88182100-3');
     <div class="extra-menu-items"><p class="menu-subheader-text">Closed Saturday & Sunday</p></div>
   </div>
 </div>
+
 <div id="modal-container-js"><?php include 'modal.php' ?></div>
 
 <?php include 'sticky-schedule.php' ?>

@@ -23,7 +23,7 @@
   <main>
   <?php include 'wdheader.php' ?>
 
-  <img class="img-header" src="pics/julypecs.jpg" />
+  <img class="img-header" src="pics/septspec.png" />
 
   <?php include 'staff-carousel.php' ?>
   <?php include 'new-patient-special.php' ?>

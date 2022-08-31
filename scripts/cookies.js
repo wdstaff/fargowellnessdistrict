@@ -23,7 +23,7 @@ function getCookie(cname) {
 function checkCookie() {
   let user = getCookie("username");
   if (user != false) {
-    document.getElementById('myModal').style.display = "none";
+    document.getElementById('modal-container-js').style.display = "none";
   } else {
     user = 'guest';
     if (user != "" && user != null) {

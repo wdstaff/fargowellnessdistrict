@@ -83,18 +83,6 @@
     </div>
   </section>
 
-  <section id="alecia" class="next-section">
-    <div class="left-section-team">
-      <img src="pics/emp/alecia-mobile.jpg" class="profile-pic">
-    </div>
-    <div class="right-section-team">
-      <h2 class="profile-header">Alecia Zieman, RN</h2>
-      <p class="profile-bio">Alecia earned her Registered Nurse (RN) degree from Minnesota State in Fergus Falls, MN, graduating with honors. She was secretary of her nursing class and was a member of Phi Theta Kappa honor society. In 2019, Alecia was awarded the prestigious Daisy Award. This award, given once per year, is given to recognize nurses for the extraordinary skillful, compassionate care they provide patients. </p>
-      <p class="profile-bio">Alecia has over 5 years of nursing experience in the field of Dermatology. She is passionate about patient care and goes above and beyond to ensure her patients are comfortable and educated before, during, and after their visits.</p>
-      <p class="profile-bio">Alecia completed her aesthetic training with one of the best medical physicians in the country and is continually refreshing her knowledge of this industry. She loves to learn all there is to know about the ever-changing aesthetic world and then educating patients on their best treatment options.</p>
-    </div>
-  </section>
-
   <section id="megan" class="next-section">
     <div class="left-section-team">
       <img src="pics/emp/megan-mobile.jpg" class="profile-pic">

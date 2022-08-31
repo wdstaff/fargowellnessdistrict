@@ -56,7 +56,7 @@
         <p class="section-text">Getting a HALO<sup>&reg</sup> treatment with one of our expert Providers at Wellness District will give you visible benefits and more!</p>
 
 
-        <li class="section-text section-text-li"><h2 class="midline-header">Remarkable results are often seen after on treatment.</h2></li>
+        <li class="section-text section-text-li"><h2 class="midline-header">Remarkable results are often seen after one treatment.</h2></li>
         <br>
         <li class="section-text section-text-li"><h2 class="midline-header">Patients can resume normal activity after 24 hours.</h2></li>
         <br>
@@ -78,7 +78,7 @@
         </ol>
         <hr>
         <h3 class="heading-text">Skincare:</h3>
-        <ol class="skincare">
+        <ol class="skincare speclistremove">
           <li>Pre and Post Treatment Care Kit from Revision ( offered complimentary with certain laser packages) This will amplify your results from any of our light and laser treatments.</li>
         </ol>
         <hr>

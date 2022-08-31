@@ -73,19 +73,6 @@
 									</div>
 								</div>
 							</div>
-							<div class="item">
-								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/alecia-mobile.webp);">
-										<a href="#" class="icon d-flex align-items-center justify-content-center">
-											<span class="ion-ios-search"></span>
-										</a>
-									</div>
-									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Alecia Zieman, RN</a></h3>
-										<span>Injection & CoolSculpting Specialist</span>
-									</div>
-								</div>
-							</div>
               <div class="item">
 								<div class="work">
 									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/ashli-mobile.webp);">
@@ -95,19 +82,6 @@
 									</div>
 									<div class="text pt-3 w-100 text-center">
 										<h3><a href="#">Ashli Boehm, FNP-C</a></h3>
-										<span>Medical Weight Loss Provider</span>
-									</div>
-								</div>
-							</div>
-              <div class="item">
-								<div class="work">
-									<div class="img d-flex align-items-center justify-content-center rounded" style="background-image: url(pics/emp/amber.webp);">
-										<a href="#" class="icon d-flex align-items-center justify-content-center">
-											<span class="ion-ios-search"></span>
-										</a>
-									</div>
-									<div class="text pt-3 w-100 text-center">
-										<h3><a href="#">Amber Strobel, DNP-C</a></h3>
 										<span>Medical Weight Loss Provider</span>
 									</div>
 								</div>

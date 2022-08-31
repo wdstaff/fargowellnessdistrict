@@ -54,15 +54,6 @@
       </div>
 
       <div class="meet-the-team-card">
-      <img src="pics/emp/alecia-mobile.jpg" alt="Avatar" style="width:100%">
-      <div class="meet-the-team-container">
-      <h4><b>Alecia Zieman, RN</b></h4>
-      <h5>Injection & CoolSculpting Specialist</h4>
-      <a href="team-member-bios.php#alecia">Learn More</a>
-      </div>
-      </div>
-
-      <div class="meet-the-team-card">
       <img src="pics/emp/megan-mobile.jpg" alt="Avatar" style="width:100%">
       <div class="meet-the-team-container">
       <h4><b>Megan Medrano, RN</b></h4>
@@ -112,15 +103,6 @@
       <div class="meet-the-team-container">
       <h4><b>Emily Peterson</b></h4>
       <h5>Master Aesthetician</h4>
-      <a href="#">Learn More</a>
-      </div>
-      </div>
-
-      <div class="meet-the-team-card">
-      <img src="pics/emp/amber.jpg" alt="Avatar" style="width:100%">
-      <div class="meet-the-team-container">
-      <h4><b>Amber Strobel, DNP-C</b></h4>
-      <h5>Medical Weight Loss Provider</h4>
       <a href="#">Learn More</a>
       </div>
       </div>

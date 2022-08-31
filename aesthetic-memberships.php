@@ -34,22 +34,24 @@
     <section class="aesthetic_memberships_section">
       <h2 class="listheader">SIGNATURE MEMBERSHIP: $65/MONTH<br>(MINIMUM 4 MONTHS)</h2>
           <li>$65 Towards Any Service</li>
-          <li>$65 Signature Facials</li>
-          <li>20% Off All Body Contouring And Kybella</li>
+          <li>$90 Signature Facials</li>
+          <li>20% Off All Body Contouring And Kybella (Single Vials/Txs)</li>
           <li>$10.50/Unit Botox</li>
           <li>12% Off All Skin Care, Make-Up And Latisse</li>
           <li>10% Off All Other Skin Care Services</li>
-          <li>15% Off All Dermal Filler Packages</li>
+          <li>15% Off Dermal Filler (Single Syringe)</li>
+          <li>10% Off Single BBL, Halo Treatments Or Hair Removal</li>
       <br>
       <br>
       <h2 class="listheader">PREMIUM MEMBERSHIP: $125/MONTH<br>(MINIMUM 4 MONTHS)</h2>
         <li>$125 Towards Any Service</li>
         <li>$125 For Diamond Glow Treatment or Illuminize Chemical Peel</li>
-        <li>25% Off All Body Contouring And Kybella</li>
+        <li>25% Off All Body Contouring And Kybella (Single Vials/Txs)</li>
         <li>$10.00/Unit Botox</li>
         <li>15% Off All Skin Care, Make-Up And Latisse</li>
         <li>10% Off All Other Skin Care Services</li>
-        <li>20% Off All Dermal Filler Packages</li>
+        <li>20% Off Dermal Filler (Single Syringe)</li>
+        <li>20% Off Single BBL, Halo Treatments Or Hair Removal</li>
       <br>
       <br>
       <h2 class="listheader">BOTOX CLUB MEMBERSHIP: $99/YEAR<br>($49/YEAR FOR SUBSEQUENT YEARS)</h2>
